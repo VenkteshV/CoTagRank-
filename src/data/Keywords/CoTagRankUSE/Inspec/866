@@ -1,0 +1,15 @@
+steady suction 0.03295937295206913
+dimensional boundary layer 0.030967010407858007
+optimal suction distribution 0.030209879367340035
+suction peak 0.029838912160037347
+incompressible boundary layers 0.02980057929708725
+boundary layer equations 0.029779464710091227
+pressure gradient 0.02883142241473016
+suction 0.028778868593092345
+parabolized stability equations 0.025744932467059327
+gradient 0.02508439108079601
+favourable pressure 0.024497672241155462
+adjoint 0.02342663857834905
+disturbance control 0.023265187802712615
+optimal control 0.0227248225675851
+mean flow modifications 0.022544389946329596

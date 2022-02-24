@@ -1,0 +1,15 @@
+overall image mse 0.027633369983795578
+image reconstruction algorithm 0.025258503931225626
+image bias 0.02500186616601277
+inverse image reconstruction problem 0.02489981649091759
+minimum regularization parameter 0.02483553434121831
+high regularization parameter values 0.024524442277248655
+bias error dominates 0.02336704400193485
+light flux measurements 0.022993758077894447
+test image 0.022967085814286015
+nir tomography 0.022624569716431762
+regularization parameter 0.022123289606821236
+projection error solution 0.021832631711054498
+image 0.02168462024597991
+light flux 0.020675535445024592
+squared error 0.020609798188741413

@@ -1,0 +1,15 @@
+numerical solution 0.04373901883872563
+corresponding initial boundary value problem 0.04123154624035887
+initial boundary value problems 0.03872523516262868
+partial differential algebraic equations 0.0381235302351548
+quasi - linear pdaes 0.036663001294509896
+convection type 0.03627109432559893
+finite difference splitting procedure 0.035256829000093776
+plasma physics 0.03474427075316039
+exact solution 0.034099483676786016
+nonlinear terms 0.03371038477343111
+solution 0.03343557634794774
+convection 0.03321731847357638
+pdaes 0.03315066633466388
+fractional step method 0.03247616600987567
+quasi 0.03227264880282529

@@ -1,0 +1,15 @@
+multiphase volume average solidification model 0.03605064175952673
+thermodynamic data 0.034531348333601476
+solidification kinetics 0.03238152399787412
+incorporated full diffusion 0.02939851878259217
+situ adaptive tabulation 0.029144630010039613
+back diffusion 0.02897627595164717
+individual solid phase 0.02773376155473636
+liquid diffusion 0.027605395354537696
+ternary alloys 0.027471750705167476
+interpolation program isat 0.027220045345142087
+discretized volume elements 0.026661692148938848
+linearized phase diagram 0.02639924813029889
+diffusion 0.026381447930319588
+calculation iterations 0.025724795941611422
+isat approach 0.02523802764404618

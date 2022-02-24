@@ -1,0 +1,15 @@
+order finite element discretisations 0.08086561309552401
+finite element discretisations 0.07825032766026879
+different finite element discretisations 0.07073694764057806
+multi - level solvers 0.05881831985673978
+fast multi - level solvers 0.05476246591227198
+non - nested multi - level solvers 0.05398124796138719
+solvers 0.05297467268191543
+multi - grid hierarchy 0.052415664720229425
+multi - level approach 0.05147752252598474
+general framework 0.04834753461950548
+level 0.04673579707546921
+basic new feature 0.04600857136748865
+mixed problems 0.04577866686352255
+convergence 0.04526857601844398
+approach 0.04474632301884432

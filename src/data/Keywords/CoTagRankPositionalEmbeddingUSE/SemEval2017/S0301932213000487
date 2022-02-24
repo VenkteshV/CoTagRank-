@@ -1,0 +1,15 @@
+soft sphere models 0.03298588351548079
+soft sphere model 0.032954947426420876
+hard sphere collisions 0.03283056925814771
+hard sphere model 0.03193504852688118
+soft sphere implementation 0.0312091515589254
+particle velocity fluctuations 0.030695476185205017
+soft sphere collision 0.030099726261525184
+hard sphere rough wall treatment 0.029036860675969743
+particle equation 0.02820327043466793
+collision model 0.02776861568036904
+tangential coefficient 0.026121804178494835
+hard sphere 0.025665301082224524
+particle 0.024127128426135548
+computational time 0.02411978883694034
+collisions 0.023286066525807038

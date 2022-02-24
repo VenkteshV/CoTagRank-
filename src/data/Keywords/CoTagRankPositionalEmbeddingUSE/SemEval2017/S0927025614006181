@@ -1,0 +1,15 @@
+particle elastic stiffness 0.029591569743641237
+particle positions 0.02851155307374456
+particle cohesion 0.027775238184145838
+granular materials 0.026038673813805577
+frog verlet numerical integration scheme 0.025810995213622834
+particles centres 0.025678420572825492
+inter - particle 0.02567327502795332
+discrete element method 0.02502277078410612
+particle wall contacts 0.024715214360774215
+particle centre 0.024624064990349456
+computational efficiency 0.024100070335605187
+moderate contact damping 0.024044355729299617
+rotational motion 0.023932973320763804
+cubic regions 0.023781113121913208
+engineering disciplines 0.022749450918973006

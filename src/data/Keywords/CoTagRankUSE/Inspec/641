@@ -1,0 +1,15 @@
+mesbac sequence 0.030451850871663334
+pulse sequence 0.027878555987440434
+multisegment epi acquisition 0.027174138084359603
+shot epi acquisition 0.02709504393313135
+temporal resolution 0.02545249637870379
+physiological motion artifacts 0.024979234574329313
+epi 0.02447183947086827
+severe susceptibility artifacts 0.023326660578973937
+background gradient compensation 0.02330851151506411
+signal dropout 0.023246712492817012
+sequence 0.02285600150313594
+brain regions 0.022510196203271316
+orbitofrontal cortex 0.022126208251681975
+functional brain 0.02198839472700942
+image distortion 0.021896542281243856

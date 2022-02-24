@@ -1,0 +1,15 @@
+star trackers initial attitude acquisition 0.042461870095429635
+star catalog generation preprocessing 0.03800975589394693
+modern star tracker 0.035022694826430535
+minimum star 0.030361377307404278
+board catalog 0.027911416932403905
+attitude determination accuracy 0.027903394869897773
+brightness 0.027491109018989195
+attainable sky coverage 0.026813799762449284
+board database 0.025457142399580183
+proper evaluation 0.024841588628463657
+inertial pointing 0.02460595707434902
+accuracy 0.024454675370855012
+primary target 0.024345131664211896
+boresight 0.023956282860542
+acquisition algorithm 0.02374682762860855

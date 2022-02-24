@@ -1,0 +1,15 @@
+visible laser diode visible laser diodes 0.0572686233296283
+constant ld temperature 0.04803937174387216
+constant operating temperature 0.044094413129356205
+fractional wavelength stability 0.04408335675504212
+wavelength 0.04228205241192528
+simple etalon 0.040211184171389636
+external etalon 0.03966754960776394
+solid etalon 0.039395201374438735
+optical output power 0.037817345568116355
+temperature 0.037663298127078776
+constant current bias 0.03560569935750396
+monitor photodiode 0.03560427166371806
+mode operation 0.03516979189417745
+coherence length 0.034925451039127274
+ld 0.03453213141442583

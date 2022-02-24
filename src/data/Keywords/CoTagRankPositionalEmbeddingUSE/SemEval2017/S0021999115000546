@@ -1,0 +1,15 @@
+dimensional thermal phase field model 0.04765094049662427
+particular phase field model 0.04678193317434738
+solutal phase field model 0.045908650072347026
+variational derivatives 0.044131942933774856
+pdes 0.04347069838599028
+time derivatives 0.04270701978547631
+stable numerical schemes 0.04145202838457426
+convection 0.037102964547681645
+natural relaxational phenomena 0.036832946903402906
+free energy functional 0.03323082121277046
+equilibrium 0.03264460402475008
+free energy 0.031231445570322983
+physical problem 0.02937208861044689
+hilliard type 0.02878516914741626
+dendrite 0.028602179540217702

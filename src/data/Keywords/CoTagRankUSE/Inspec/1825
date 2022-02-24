@@ -1,0 +1,15 @@
+shunt active power filter 0.03395598841391196
+conventional pi controller 0.03289463301461985
+fuzzy logic controller 0.03271044771513955
+reactive power 0.030704950243894864
+active power filter 0.029321531545914097
+fuzzy controller 0.029291904862399253
+fuzzy control scheme 0.02878097869723613
+fuzzy control 0.028663120499166653
+power quality improvement 0.028080860913449746
+conventional pi 0.027796006546021962
+power quality 0.027283782163755786
+fuzzy logic 0.027225374217817875
+carrierless hysteresis 0.026216138160371542
+pwm pattern generation 0.0255999620402479
+nonlinear load 0.025599174107890532

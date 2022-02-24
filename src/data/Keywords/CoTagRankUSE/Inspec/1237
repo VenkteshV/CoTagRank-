@@ -1,0 +1,15 @@
+numerical pricing kernel 0.030805064809931587
+performance numerical pricing methods 0.027814820088671192
+pricing kernel 0.027469197955545206
+linux smp cluster 0.025867922761853922
+pure mpi version 0.025100180817566767
+smp cluster 0.023739840840950415
+parallel mpi 0.023224576682436538
+memory parallelism 0.02288706301705811
+backward induction 0.02233530528646167
+stochastic multidimensional scenario 0.02233347546168369
+vfc compiler 0.022283615399026065
+aurora financial management system 0.022203045377813275
+financial derivatives 0.02186365407018109
+financial management applications 0.021696728738442445
+numerical simulations 0.021620147505108052

@@ -1,0 +1,15 @@
+quadrature points 0.03969476066604965
+collocation formulation 0.03924219192959867
+nodal lagrange polynomials 0.03832920144701526
+collocation methods 0.03713672422265298
+collocation method 0.03603878361175805
+nonlinear terms 0.035903886293695744
+quadrature 0.03497070057173913
+numerical error 0.034678291824162724
+continuous galerkin 0.034315865367225105
+diagonal mass matrix 0.03363284633771471
+discontinuous galerkin 0.03298391766811241
+linear operators 0.03196332805568503
+flux reconstruction 0.031430962312089736
+computational efficiencies 0.03065773771322248
+popular choice 0.030399199252961504
