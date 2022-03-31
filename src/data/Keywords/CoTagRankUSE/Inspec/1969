@@ -1,15 +1,15 @@
-traffic dispersion model 0.03355659978534083
-vehicular boltzmann equation 0.03286580975223205
-boltzmann equation 0.02821251877281735
-dispersion model 0.02751143217385918
-traffic flow 0.026298300533300675
-nonlinear poisson equation 0.026180159307705106
-traffic model 0.026129433296787956
-kinetic model 0.024187997448794282
-variance equation 0.02387977040005011
-consistent multi - class dynamic traffic flow 0.023628117230798454
-multilane domain 0.02288791126094475
-consistent multiclass multilane 0.022511294541159237
-equation 0.022506330116197636
-systematic self 0.022361920963273278
-dimensional space 0.02235860534167477
+vehicular boltzmann equation 0.04262842173129496
+traffic dispersion model 0.03895193256174839
+consistent multi - class dynamic traffic flow 0.03514601311825362
+nonlinear poisson equation 0.03416673774981023
+dispersion model 0.027970239576840944
+boltzmann equation 0.027364642051357864
+traffic model 0.026829405155694517
+equilibrium assumption 0.02641853262940467
+finite section 0.02595398775181987
+kinetic model 0.025915984935610082
+traffic flow 0.02535479383698104
+variance equation 0.024270662446454157
+individual velocity 0.023821231223750863
+order moment function 0.023071114112357897
+dimensional space 0.022922240116054045

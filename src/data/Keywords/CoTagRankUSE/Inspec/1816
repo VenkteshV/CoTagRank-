@@ -1,15 +1,15 @@
-hamiltonian function 0.04249686966387471
-hamiltonian 0.03983716035991792
-standard hamiltonian system 0.03903217732586631
-hamiltonian system 0.03840239775112392
-nonlinear disturbance attenuation control 0.037629251311552536
-hamiltonian modelling 0.0369218763194322
-gain disturbance attenuation 0.0340783388950618
-power system stability 0.030429398184261446
-parametric perturbations 0.0303012787932957
-gain control method 0.028964562734023636
-power systems 0.02887320987489054
-tcsc 0.028813750746706925
-thyristor 0.027580624882067077
-power 0.027499121867222313
-function 0.027257118129593968
+nonlinear disturbance attenuation control 0.05465530160344392
+hamiltonian modelling 0.047154050827272476
+standard hamiltonian system 0.04493950238678337
+parametric perturbations 0.04286828757097977
+gain disturbance attenuation 0.04148978786117796
+hamiltonian function 0.041448230714319134
+hamiltonian system 0.038042404536678835
+hamiltonian 0.03440006569167432
+affine non - linear system 0.03171126757434508
+thyristor 0.030884128210132863
+power system stability 0.030550942396300934
+dissipation 0.027983665990857446
+serial compensator 0.02776462701722943
+simulation results 0.027723787447190597
+power systems 0.027609493767637473

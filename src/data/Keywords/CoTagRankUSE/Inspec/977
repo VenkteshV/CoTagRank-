@@ -1,15 +1,15 @@
-differential algebraic equations 0.04974771691073697
-discretized ordinary differential equations 0.04881361475838279
-differential algebraic 0.044153632022537595
-algebraic equations 0.040274999332275685
-runge 0.0393183666703299
-explicit runge 0.038842336567822724
-kutta discretizations 0.037749765645598274
-invariant manifold results 0.03598764600377539
-differential 0.035854411502976136
-algebraic systems 0.03523286525168364
-kutta methods 0.03478388141617717
-geometric properties 0.03447729832282059
-equations 0.03394218000983504
-equilibria 0.033924248841921224
-classical results 0.031247731341888692
+discretized ordinary differential equations 0.06766877599403404
+differential algebraic equations 0.05663103931360668
+invariant manifold results 0.05153803723327983
+differential algebraic 0.047657077648025
+explicit runge 0.047263277782012565
+algebraic equations 0.041089118107517766
+runge 0.039375778526322326
+algebraic systems 0.038331440488116104
+kutta methods 0.03785940644302335
+geometric properties 0.03785580820698945
+equilibria 0.035597559288204
+classical results 0.03412308580741985
+differential 0.03397408509224962
+behavior 0.032948798579292345
+equations 0.032876917292276514

@@ -1,15 +1,15 @@
-hierarchy class hierarchies 0.03312246185443725
-efficient transitive closure reasoning 0.03041739911660224
-transitive closure reasoning 0.02978929018238765
-containment hierarchies 0.028410087679410497
-part hierarchies 0.02728081201703835
-containment hierarchy 0.026320952603922376
-closure representation 0.0256650960756824
-class hierarchy 0.025515453077570097
-hierarchy reasoner 0.025498541585895197
-hierarchies 0.025446393397259216
-transitive closure 0.025374677784709896
-hierarchy 0.024123135634524062
-world hierarchies 0.023875696721312838
-human reasoning 0.0222401238970332
-reasoning systems 0.02213342894129386
+efficient transitive closure reasoning 0.04738016762600761
+hierarchy class hierarchies 0.03720482467117188
+transitive closure reasoning 0.03395661348569039
+hierarchy reasoner 0.028951713903805604
+containment hierarchies 0.028879674205332405
+part hierarchies 0.02826553752990872
+closure representation 0.028258121472416263
+containment hierarchy 0.027071329006439906
+transitive closure 0.026303401005900662
+world hierarchies 0.025609700211826757
+class hierarchy 0.025259797936556555
+hierarchies 0.02446675984312472
+parallel algorithms 0.024455272829744135
+data representation 0.023588636749714977
+reasoning systems 0.02352280684306406

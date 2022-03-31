@@ -1,15 +1,15 @@
-input current waveform control 0.05042437897567055
-current waveform 0.050089639667923784
-current waveform control 0.04855831104044874
-end voltage harmonics 0.04671813202029757
-factor rectifier circuit 0.045752168985362565
-rectifier circuit 0.044793586343531214
-end voltage 0.04222114798238169
-harmonics suppression 0.041766888250354656
-harmonic suppression effect 0.04167341949885141
-waveform 0.041583416410962054
-high input power factor 0.0409255805942944
-input power factor 0.03997241593042229
-harmonic components 0.038723972220527654
-voltage 0.038099703162005345
-harmonic 0.036941115748047336
+current waveform control 0.06073057128820503
+end voltage harmonics 0.05516563047360501
+input current waveform control 0.054109782047602514
+factor rectifier circuit 0.053513203993759306
+rectifier circuit 0.04975878269161571
+harmonic suppression effect 0.04848814126956762
+current waveform 0.04841882175491211
+harmonics suppression 0.04704016815503734
+harmonic components 0.043837133989551906
+end voltage 0.042636178319152944
+high input power factor 0.039563852651560455
+waveform 0.03845814809476507
+input power factor 0.0372333356110012
+voltage 0.03698064049891732
+harmonic 0.03578935944078472

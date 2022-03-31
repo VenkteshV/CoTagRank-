@@ -1,15 +1,15 @@
-sentence alignment model 0.05982968527308888
-sentence aligning 0.05832248510744083
-sentence alignments 0.05739721539743775
-% total sentence alignment error rate decreasing 0.0523473470890388
-% total sentence alignment error rate 0.050520201823838234
-kernel extensional matrix matching 0.04989032638735019
-similarity matrix 0.04627544490763801
-select matrix 0.04396842014955341
-special symbols 0.04201621844368242
-morphology 0.041223961746302024
-bilingual sentences 0.041197834909726
-lexicon 0.04079904771524089
-clues 0.04057333614025178
-kemm 0.04015406160849788
-model outperforms 0.039870293347396994
+sentence alignment model 0.07004364658375845
+sentence aligning 0.062286945862137115
+sentence alignments 0.06212279216236885
+% total sentence alignment error rate decreasing 0.057843528140107944
+% total sentence alignment error rate 0.05725374503106569
+kernel extensional matrix matching 0.05719925043087905
+morphology 0.052885369979374944
+select matrix 0.05248079627656986
+bilingual sentences 0.04974976987413331
+similarity matrix 0.0497362474157588
+lexicon 0.04702400527450395
+special symbols 0.041467962797577064
+experimental results 0.04013969626155935
+model outperforms 0.037125750912695404
+similarities 0.03594374002038955

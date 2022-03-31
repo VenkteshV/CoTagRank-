@@ -1,15 +1,15 @@
-petri net scheduling approaches 0.027246768797508605
-free scheduling algorithm 0.024431788030598152
-deadlock 0.022840080283333772
-free scheduling 0.022609893574873734
-efficient deadlock 0.02242839874083177
-optimal deadlock 0.022407981399848786
-free scheduling problem 0.021594494288430355
-petri nets 0.021332733879620078
-siphon truncation technique 0.021022883335787647
-scheduling algorithm 0.021014650318136666
-flexible manufacturing systems 0.020888403124345797
-petri net model 0.020649436322966473
-sequential systems 0.020283945111499568
-mean flow time 0.02022494861220779
-efficient truncation technique 0.01976679383022426
+petri net scheduling approaches 0.03865029837624681
+petri net model 0.028304699479314303
+siphon truncation technique 0.027962534263866114
+free scheduling algorithm 0.027516577705589216
+partial reachability graph 0.02503162506636557
+efficient truncation technique 0.024173970545840515
+flexible manufacturing systems 0.024160548212625838
+optimal deadlock 0.023192411037428418
+scheduling algorithm 0.022998909573705227
+efficient deadlock 0.02240654514810472
+free scheduling problem 0.02217371630202099
+sequential systems 0.02206768638082511
+petri nets 0.021886248978735992
+reachability graph 0.021713865581509652
+free scheduling 0.020667484522546964

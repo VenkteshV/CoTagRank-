@@ -1,15 +1,15 @@
-first order hexahedral elements 0.026981299794717042
-support points 0.02608709918772263
-continuous deformation gradients 0.02554325606020471
-second order tensor 0.024948451533337985
-first order tetrahedra 0.024758140795185665
-interpolation functions 0.023943577205264018
-element types c3d_8n_27c 0.023771108196753064
-enlarged critical time step 0.023612623466452907
-support point coordinates 0.023527928370539353
-element interior 0.022822195732137666
-additional points 0.022814473819562215
-latter element type 0.022664238162097037
-product interpolation 0.022253906568150378
-non - physical penalty energy functions 0.02179606942823462
-nodal integration 0.02176195730497335
+interpolation functions 0.033826399457932775
+second order tensor 0.03376730995551662
+nodal integration 0.03259266340689501
+continuous deformation gradients 0.03259114095196944
+lagrange polynomials 0.03010493058877879
+product interpolation 0.028725996683155074
+gradient field 0.028278980613129726
+gradients 0.02806358763453522
+explicit analysis 0.02799418796459869
+deformation 0.026022624194933397
+tetrahedron 0.025871152148178655
+nodes 0.024417170175572187
+convergence 0.024385185757301423
+first order hexahedral elements 0.024175103519579938
+formulation 0.023661777265457692

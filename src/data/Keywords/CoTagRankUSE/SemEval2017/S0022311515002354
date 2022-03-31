@@ -1,15 +1,15 @@
-hydrostatic tensile stress raiser 0.03211637178465963
-hydride cracking 0.03097859722538899
-local hydride growth 0.028660266107246708
-large hydride concentrations 0.028000341125768224
-mechanical properties 0.02642617320149309
-cladding 0.02577561101539804
-time dependent cracking phenomenon 0.02549153913459733
-long range hydrogen diffusion 0.0252581312065414
-tensile strength 0.024769762731556396
-hydrides 0.024731075239979857
-fuel pellets 0.024277185054978775
-fuel storage 0.024154577320754614
-former mechanism 0.02412437859918238
-mechanical interaction 0.023895933961483422
-yield stress 0.023770411268853084
+hydride cracking 0.037506975186731656
+local hydride growth 0.03717227260903265
+large hydride concentrations 0.03654479822865274
+long range hydrogen diffusion 0.03444869165683928
+ductility 0.034439550908163974
+mechanical properties 0.034409556782564375
+hydrostatic tensile stress raiser 0.033978607867584575
+tensile strength 0.030600906059089158
+thermal expansion 0.030260281262236656
+cladding 0.0289655786644806
+mechanical interaction 0.028367017020038715
+fuel storage 0.026505681295135215
+former mechanism 0.026388506478562595
+degradation 0.026234139336086783
+mechanisms 0.02525995982978596

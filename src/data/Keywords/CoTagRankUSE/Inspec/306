@@ -1,15 +1,15 @@
-measured keyboard delay times 0.04095590052089493
-keyboard response delays 0.03968879503414273
-keyboard scanning interval time 0.03848869125346038
-average keyboard delay time 0.038381443602540255
-keyboard 0.036110881292338935
-keyboard model 0.03375807354882474
-pc keyboards 0.031105394960565885
-response devices 0.028642132869144403
-joystick 0.02857537894968665
-msec 0.028466232243526166
-response characteristics 0.02832807316837005
-external measurement equipment 0.02741036949654327
-pc 0.027354629445161472
-sound board 0.026940989529494
-midi terminal 0.026842355337096058
+measured keyboard delay times 0.05053872291590446
+keyboard scanning interval time 0.04907711482437149
+average keyboard delay time 0.046317453241031384
+keyboard response delays 0.04219326510760772
+external measurement equipment 0.03245101979529355
+keyboard model 0.03196888193750602
+midi terminal 0.031138026955986803
+pc keyboards 0.02995843327486669
+keyboard 0.029487000435931693
+statistical processing 0.029417028388020055
+independent timing function 0.02918658145186423
+response devices 0.029075488735164762
+sound board 0.0289068225121266
+joystick 0.02767228058815325
+response characteristics 0.027001582696249804

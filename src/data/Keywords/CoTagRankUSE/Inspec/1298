@@ -1,15 +1,15 @@
-composite adaptive rectangular structure 0.06347210297365802
-heaviside function 0.050047165178149555
-rectangular nonpiezoelectric 0.048368249706374905
-mindlin displacement field 0.045062925907839196
-structure model 0.04306341601117437
-piezoelectric patches 0.042687945610039905
-piezoelectric actuators 0.04266464212258325
-analytical model 0.04253790869519948
-mathematical model 0.042465356237254205
-electromechanical coupling 0.04180976603218424
-laminae 0.040355878579673314
-hamilton principle 0.04016979700527575
-configuration 0.0401382813152358
-linear theory 0.038814823460200085
-equations 0.03589616400971919
+composite adaptive rectangular structure 0.06897182866230887
+heaviside function 0.05603206893070761
+mindlin displacement field 0.05527285753815961
+electromechanical coupling 0.05321979040880265
+piezoelectric actuators 0.048293031925663574
+analytical model 0.04749798359619227
+linear theory 0.04507937701246631
+piezoelectric patches 0.04449738885642635
+hamilton principle 0.044352537972803883
+mathematical model 0.04364660254030996
+rectangular nonpiezoelectric 0.04273897880368866
+structure model 0.0418998768342263
+delta -dirac distribution 0.041055319845329376
+equations 0.036117545339969276
+configuration 0.0354483890740468

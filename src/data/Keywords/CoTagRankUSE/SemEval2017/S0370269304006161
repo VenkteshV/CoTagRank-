@@ -1,15 +1,15 @@
-neutrino absorption cross section 0.027384248363397055
-fermi transitions 0.02508485385684529
-nuclear absorption cross section 0.02493111050007754
-absorption cross section 0.023441731289295022
-absorption cross sections 0.022238989230551103
-coulomb distortion 0.02186596629239173
-fermi 0.021790386123650855
-current neutrino reactions 0.021775049648314112
-fermi function 0.02174237030281575
-recent work bhattacharya et al 0.021688620524479375
-recent paper bueno et al 0.02168432033174584
-electron energies 0.021400796177016037
-neutrino energies 0.021235812625698885
-pinedo et al 0.020983893998620762
-teller transitions 0.020813497394617096
+neutrino absorption cross section 0.029753373262277047
+electron energies 0.029704728328626855
+coulomb effects 0.029573204108280342
+current neutrino reactions 0.02944692591309113
+neutrino energies 0.02940050739714796
+fermi transitions 0.028786332000419884
+coulomb distortion 0.028479841904993298
+nuclear absorption cross section 0.027203195807213715
+supernova neutrinos 0.027114685328109043
+fermi function 0.026807503409957547
+residual nucleus 0.025279934697157183
+electron 0.025199131389119247
+continuum random phase approximation 0.024922605036694336
+positron 0.024921032010462404
+fermi 0.02470899405684929

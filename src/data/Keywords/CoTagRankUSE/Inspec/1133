@@ -1,15 +1,15 @@
-semidefinite feasibility problems semidefinite feasibility problems 0.031370859333670835
-symmetric positive semidefinite 0.028348142752772015
-positive semidefinite matrices 0.027791275911414406
-epsilon gamma 0.027214581028960322
-convex body gamma 0.026380718236541707
-approximate analytic center 0.026333347287039413
-matrix gamma 0.025940452592113694
-analytic center 0.025366712458308127
-gamma 0.024858476591757904
-plane algorithm 0.023747245539240607
-symmetric matrix 0.023505474677521673
-positive definite matrices 0.02293163680287204
-algorithm terminates 0.02289639204132804
-algorithm 0.021577712837230083
-epsilon 0.02149530036764707
+semidefinite feasibility problems semidefinite feasibility problems 0.03948542656581832
+positive semidefinite matrices 0.03565268221945882
+symmetric positive semidefinite 0.033207451315049374
+convex body gamma 0.03294967774012496
+positive definite matrices 0.031353715620850695
+approximate analytic center 0.030799185191411546
+symmetric matrix 0.028326141233290802
+matrix gamma 0.025861327060066108
+analytic center 0.025118170802766977
+epsilon gamma 0.024593742934911244
+algorithm terminates 0.0243923867538883
+plane algorithm 0.023572931051079802
+abstract form 0.022422834178166425
+iterations increases 0.021311181483070925
+gamma 0.02073544381465896

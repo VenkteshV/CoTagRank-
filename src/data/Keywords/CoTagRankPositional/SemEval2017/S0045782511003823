@@ -1,15 +1,15 @@
-mortar finite element method 0.06939385916567506
-nonlinear elasticity 0.06904604687030169
-mortar method 0.06229280770285209
-framework 0.06189995295292351
-optimal convergence rates 0.06109942248111619
-constrained mechanical system 0.0601096063340728
-specific coordinate augmentation technique 0.05755265974386375
-isogeometric analysis 0.05474746775065516
-momentum scheme 0.054350429051529175
-shape functions 0.05358617075388962
-representative numerical examples 0.05344050631591372
-energy 0.04559150573189323
-coupling 0.0427148672635136
-design 0.03612018919524808
-domains 0.03466162672176104
+nonlinear elasticity 0.08046232071609752
+mortar finite element method 0.06641945163067042
+mortar method 0.06609449280339716
+optimal convergence rates 0.06448123489035366
+framework 0.0619237925154393
+constrained mechanical system 0.05950824660389486
+isogeometric analysis 0.058850617515764425
+specific coordinate augmentation technique 0.057230679633517884
+momentum scheme 0.056627343707685164
+shape functions 0.05467683393084591
+representative numerical examples 0.05318094077337543
+energy 0.04532169387395143
+coupling 0.04178969253104777
+design 0.035309255948762434
+domains 0.03486582744306682

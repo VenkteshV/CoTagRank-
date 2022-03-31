@@ -1,15 +1,15 @@
-compound imaging 0.025042247392864883
-successive decorrelated speckle patterns 0.024496016061690294
-ultrasonic imaging 0.024262414969675107
-reflectivity imaging 0.02347572586949854
-transient elastography 0.0230136289273925
-multisynthetic aperture beamforming 0.02281301862779448
-axial displacements 0.022630011789514085
-single plane wave insonification 0.022135879671005963
-shear wave propagation 0.021529875308173928
-imaging 0.021434944887493583
-speckle tracking algorithm 0.021210275441816445
-motion vector estimation 0.021136318460323544
-lateral displacements 0.02098374645663319
-speckle 0.020391121283203674
-motion vector 0.020291050666754334
+successive decorrelated speckle patterns 0.03681342845971148
+multisynthetic aperture beamforming 0.030843983534905927
+modulus image reconstruction 0.029431539255950816
+shear wave propagation 0.028451300602464383
+speckle tracking algorithm 0.028342020641564256
+ultrafast compound 0.027132778238545555
+ultrasonic imaging 0.026813248868113742
+motion vector estimation 0.026645342366122857
+compound imaging 0.02640926993077649
+reflectivity imaging 0.025619162680126675
+axial displacements 0.025509310244423364
+lateral displacements 0.023795254688668888
+motion vector 0.023551030104217257
+single plane wave insonification 0.020621369457954605
+transient elastography 0.020582945469344673

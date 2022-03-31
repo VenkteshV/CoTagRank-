@@ -1,15 +1,15 @@
-tight sandstone permeability 0.058320086583996816
-corresponding permeability estimation models 0.051081727635905266
-permeability 0.049935027069349325
-core porosity 0.04927683723991652
-tight sandstones 0.045134232879873795
-target tight sandstones 0.04446787446065022
-porosity 0.044415658238837696
-classification scale method 0.04354353966181118
-enough core samples 0.03992503731714691
-core 0.038565138947023306
-experimental measurements 0.0385325248160778
-schlumberger doll research 0.03821104069687636
-extreme heterogeneity 0.03734720410516221
-classical sdr 0.036982984355113324
-coates models 0.03696034948722921
+corresponding permeability estimation models 0.07191443069380118
+core porosity 0.07015798210138637
+porosity 0.06728244102723396
+tight sandstone permeability 0.06374039519514935
+permeability 0.0629760249614184
+experimental measurements 0.060012466555576044
+classification scale method 0.054393838935808694
+coates models 0.044545663687954054
+involved model parameters 0.0444808220833376
+schlumberger doll research 0.04349770817337942
+enough core samples 0.04302810006081917
+classical sdr 0.04249047371424646
+field examples 0.03606494196645768
+tight sandstones 0.03599983174030997
+formations 0.03485098968213434

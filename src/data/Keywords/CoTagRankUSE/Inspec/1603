@@ -1,15 +1,15 @@
-stochastic batch service problem 0.04316758601792306
-adaptive dynamic programming monotone algorithm 0.04152998900281063
-adaptive dynamic programming algorithms 0.04110339747487251
-classical forward dynamic programming methods 0.03974624882874658
-dynamic programming algorithms 0.038191402567821636
-batch service 0.03808268834377319
-service capacity 0.035880525155015414
-service station 0.03479722055570826
-service cost 0.03435521846890515
-value functions 0.0342134107261913
-homogeneous customers 0.03402055656903906
-cost functions 0.03391466914145689
-customers 0.03263754536707829
-service 0.032369651189817585
-monotonicity 0.0318400941412604
+stochastic batch service problem 0.0556185909768183
+adaptive dynamic programming monotone algorithm 0.054970255796510784
+classical forward dynamic programming methods 0.05331001566914491
+adaptive dynamic programming algorithms 0.0488640093148662
+dynamic programming algorithms 0.041860002166935625
+batch service 0.03525527643426249
+value functions 0.03487812697072432
+cost functions 0.033769415438397184
+service capacity 0.03357606911024815
+homogeneous customers 0.03231696116285058
+optimal strategies 0.03155459202940187
+algorithm 0.03139594575450543
+theoretical results 0.031120941176968807
+monotonicity 0.030990129952912136
+iterations 0.030027424855095762

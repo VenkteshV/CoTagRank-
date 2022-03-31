@@ -1,15 +1,15 @@
-fluid pressure response 0.04027303074678585
-compressible fluid 0.03677452208904533
-consistent thermodynamic formulation 0.0364987326699352
-fluid pressure 0.036164855704978204
-fluid 0.03296308050950379
-entropy inequality 0.03237196293910324
-formulation 0.030788717560472578
-volumetric logarithmic strain 0.030609619036294344
-porous media 0.03001230171474153
-porous medium 0.02994422153108521
-compressibility 0.02966145881285441
-linear theory 0.02959574932623619
-effective stress response 0.029307799108846642
-dissipative darcy flow 0.02768838516010211
-numerical examples 0.027644961646312805
+volumetric logarithmic strain 0.051156775254918574
+consistent thermodynamic formulation 0.05098596572376006
+non - linear analysis 0.04028613714056116
+compressible fluid 0.039406019380282806
+fluid pressure response 0.03939569799808463
+entropy inequality 0.037510753565084876
+porous media 0.03417552593385306
+porous medium 0.03284195774554779
+linear theory 0.032719113046348836
+dissipative darcy flow 0.03227924412569015
+fluid pressure 0.03200982960035089
+compressibility 0.03180508585215464
+mixture problem 0.03033736972297745
+formulation 0.028373056587123968
+numerical examples 0.027775520640743862

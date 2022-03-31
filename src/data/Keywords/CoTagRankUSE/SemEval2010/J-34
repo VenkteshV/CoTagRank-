@@ -1,15 +1,15 @@
-limit order dynamics eyal 0.024503260843871423
-modern equity markets 0.024372826076593333
-nasdaq stocks 0.02125123221859977
-relative trader model 0.020630488255330412
-absolute trader model 0.020582526540010686
-strong stability properties 0.019622989262715596
-relative traders 0.019486569462644602
-absolute traders 0.019468254027015387
-stability properties 0.019442297233074172
-large electronic exchange 0.0187696406963685
-order placement 0.01864707249004981
-limit order data 0.018632382541410638
-trading activity 0.018503350761574798
-large block trades 0.01847526820854323
-current order book state 0.01826445976384886
+modern equity markets 0.03925807227247728
+limit order dynamics eyal 0.03275298820291004
+absolute trader model 0.02977826258880988
+nasdaq stocks 0.02968160901963225
+relative trader model 0.028156071968073938
+strong stability properties 0.02249101258038482
+large block trades 0.02237770104750051
+relative traders 0.022039596432005766
+absolute traders 0.021957350824040926
+stability properties 0.020521352700494887
+market activity 0.019700516540966842
+limit order data 0.019508829204183155
+great instability 0.01934610681056909
+in)stability properties 0.019063366980753633
+standard continuous limit 0.018941243023753856

@@ -1,15 +1,15 @@
-qp algorithms 0.037768488819685496
-efficient qp algorithms 0.03747619970396865
-scale model predictive control quadratic programming 0.03552750934531635
-quadratic programming algorithms 0.034210736718225374
-qpschur 0.030219188586738943
-qp 0.029376381150201053
-challenging mpc 0.02861633965148693
-large mpc 0.02838388380239914
-algorithms 0.02728562863864159
-schur complement algorithm 0.027238883746530898
-model predictive control 0.027224403115759594
-mpc 0.02693716257850545
-new qp method 0.026226880843363363
-cross directional control problems 0.025531606371028557
-novel dual space 0.025375500701872115
+scale model predictive control quadratic programming 0.05442664087256814
+quadratic programming algorithms 0.047762583144700374
+schur complement algorithm 0.0445899154488935
+efficient qp algorithms 0.039929845068172064
+qp algorithms 0.03694182916232228
+challenging mpc 0.0288607934035355
+detailed simulations 0.028722698150225136
+model predictive control 0.028579606287623623
+novel dual space 0.028293405548876285
+algorithms 0.026784293385336833
+large mpc 0.02615676539862615
+implementation 0.025516003785369435
+partial solution 0.024652027046234884
+new qp method 0.024334201632141898
+constraint 0.023890351900864824

@@ -1,15 +1,15 @@
-3d implicit surface 0.03706454864298903
-weighted radial basis functions 0.035240858055022084
-surface reconstruction 0.03205337948762278
-radial basis 0.03137039211118663
-data acquisition techniques 0.03135316228158562
-reconstructed surface 0.03098965277237768
-precise data 0.030509877803364616
-data acquisition 0.030459459129343624
-range data 0.029931187495857065
-little data 0.029713696393026366
-surface 0.029227828626804512
-data sets 0.028913259866789467
-traditional reconstruction algorithms 0.028301482794724164
-basis functions 0.028112236547088772
-smooth reconstructions 0.027987008051314786
+weighted radial basis functions 0.046496181093878694
+3d implicit surface 0.04632391609569536
+volumetric regularization 0.04039367415160315
+traditional reconstruction algorithms 0.03798038526913241
+3d point sets 0.03547757263824141
+radial basis 0.03462966394871546
+data acquisition techniques 0.03312407095765523
+surface reconstruction 0.0329848041743217
+stereo range images 0.03255435638047664
+seamless models 0.030304373348269194
+smooth reconstructions 0.029765710067709464
+reconstructed surface 0.029523619538705203
+optical range 0.029231262210598977
+precise data 0.028060990808096705
+data acquisition 0.027217961276612253

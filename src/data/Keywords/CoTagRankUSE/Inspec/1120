@@ -1,15 +1,15 @@
-af aggregated flows 0.03994748191490649
-diffserv domain 0.03875166957607352
-aggregated flows 0.0355461261258286
-diffserv 0.035327532179956565
-simple packet forwarding 0.02904403115682201
-aggregated flow 0.029036571061152906
-effective feedback control mechanism 0.027521408025097997
-feedback mechanism 0.02701650015286929
-mechanism 0.024892218757972536
-transmission control protocol 0.024171219823139155
-micro - flows 0.02415668116552667
-congested router 0.024127677153745773
-diff\. serv architecture 0.023946927100345506
-scalability 0.023587404821726284
-diff\. serv domain 0.023551181620052198
+simple packet forwarding 0.040825359023930155
+af aggregated flows 0.03893629337267364
+congested router 0.03848265385797113
+effective feedback control mechanism 0.03357375173985423
+diff\. serv architecture 0.03337589355007796
+diffserv domain 0.03215581327171711
+aggregated flows 0.0316356816998432
+diff\. serv domain 0.03156477040903035
+aggregated flow 0.0314658374108067
+transmission control protocol 0.03034298712105861
+scalability 0.028872779368088165
+tcp 0.028507764869683698
+buffer requirements 0.027266786556975668
+feedback mechanism 0.02640215846640165
+micro - flows 0.02454488755841657

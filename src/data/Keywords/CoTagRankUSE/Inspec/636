@@ -1,15 +1,15 @@
-dl congestion 0.03184591290299788
-layered congestion 0.02691505333980273
-congestion control mechanism 0.025403473672430697
-long igmp leave latencies 0.02507123435975185
-new multirate congestion control algorithm 0.024808675385090906
-congestion control 0.024589236201623132
-dl sessions 0.024506656561729824
-congestion 0.02402528836128534
-dl 0.023477615050040805
-flid 0.022518635511919752
-transmission control protocol 0.022047568736837584
-layered multicast 0.02161743824750685
-control protocol 0.021575112386863333
-control coexists 0.021321837184250535
-igmp leave operations 0.021301283215531524
+long igmp leave latencies 0.03704860316318658
+new multirate congestion control algorithm 0.03567161390207415
+large internet group management protocol 0.03032894977564475
+layered congestion 0.028566378974788177
+dl congestion 0.0266103244448569
+congestion control mechanism 0.026497458568460926
+layered multicast 0.026156121418503812
+multicast layers 0.02559888985852861
+transmission control protocol 0.024451393610578034
+fair layered increase 0.023593501809418854
+congestion control 0.02297621917155921
+throughput 0.022589756947906943
+tcp 0.02199061401157743
+probe intervals 0.02176632906312994
+congestion 0.02146526528924835

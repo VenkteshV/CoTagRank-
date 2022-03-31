@@ -1,15 +1,15 @@
-focal source planes 0.023954949231564993
-head scatter factors accurate determination 0.023573649769549083
-head scatter factors 0.023282382371796126
-tertiary collimator 0.022771841402819182
-multileaf collimator 0.02241294239290164
-head scatter factor 0.02224162849135017
-source intensity distributions 0.022169195503588594
-focal photon sources 0.0216243837079022
-intensity modulated radiation therapy 0.02150573561070765
-irregular fields 0.021479278280754025
-collimator jaws 0.021330063322222575
-primary collimator 0.021276636284432167
-symmetric square fields 0.021031802171423343
-collimator jaw settings 0.02061538472523184
-segmented fields 0.01986452650063977
+intensity modulated radiation therapy 0.03693854783039784
+focal photon sources 0.032504921412299916
+head scatter factors accurate determination 0.031983717717182086
+head scatter factors 0.02691793455306206
+photon radiation 0.02550449921306276
+focal source planes 0.025276651134382412
+primary photons 0.02522252338615995
+head scatter factor 0.02472448222342776
+source intensity distributions 0.024667833428779706
+symmetric square fields 0.022503906583401387
+chamber distance 0.022022183679935185
+tertiary collimator 0.0210456180822016
+collimator jaw settings 0.020148507763496935
+flattening filter 0.020080234387338764
+photons 0.019951817327980882

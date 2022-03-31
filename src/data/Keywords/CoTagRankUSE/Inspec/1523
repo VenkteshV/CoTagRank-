@@ -1,15 +1,15 @@
-process specialization hierarchy 0.04473060506395442
-process specialization 0.03847010345610112
-object specialization 0.035418225980167695
-major process representations 0.03227889021874447
-specialization 0.03133806297353853
-organizational process 0.031040996481326584
-process description 0.0292389417567473
-process 0.02745300760268389
-object modeling 0.02561746415711654
-state diagram representation 0.025404341885120283
-uml representations 0.025199395298046448
-object 0.02484548964394395
-diagram 0.024438948568202213
-hierarchy 0.024368693972632836
-specific approach 0.024296669713541313
+process specialization hierarchy 0.053823721812599354
+uml representations 0.046357688224229886
+major process representations 0.04336702803792514
+object specialization 0.03765093721374092
+process specialization 0.037454026715877664
+organizational process 0.03245465502007202
+object modeling 0.030249938289300622
+methodologies 0.02818538606497766
+state diagram representation 0.028121929144522932
+inheritance promises 0.028074926052936176
+process description 0.027832204241611234
+specialization 0.0275503401388974
+hierarchy 0.025538600313911523
+precise definition 0.025324884469401482
+data flow 0.02463039040294516

@@ -1,15 +1,15 @@
-inelastic strain law 0.02985326008584617
-inelastic strain profiles 0.02975589720936428
-maximum tensile principal strain 0.02925806814294242
-inelastic strain 0.02771701156697283
-inelastic displacement law 0.02615767064748592
-crack band approach 0.024196453639936753
-strain tensor 0.023851612623149228
-mesh size independent load 0.023501401816486238
-crack opening threshold 0.02233755422869684
-displacement curves 0.022183060410919456
-tensile part 0.02169038758956487
-band approach 0.021139901932419505
-compressive damage parameter 0.020718079513396666
-compressive part 0.020663419637916833
-mesh dependence 0.020437222711967618
+maximum tensile principal strain 0.03325645091225046
+inelastic strain law 0.03098599401201118
+inelastic strain profiles 0.0303549753890065
+tensile part 0.03029867712620176
+strain tensor 0.030008773018634714
+compressive damage parameter 0.029926749260797792
+compressive part 0.02973874256562683
+inelastic strain 0.029712655776700445
+inelastic displacement law 0.028824992001161766
+mesh dependence 0.027871525729740165
+mesh size independent load 0.027455287072197326
+displacement curves 0.025734732154845473
+finite element analysis 0.025244857022860535
+crack opening threshold 0.02504909102090131
+element length dependent zone 0.023885829751557557

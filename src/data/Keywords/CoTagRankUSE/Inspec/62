@@ -1,15 +1,15 @@
-utterance sample covariance 0.04645394904942841
-utterance covariance 0.0438319406380725
-speaker covariance 0.04140782831423566
-independent speaker verification 0.036643941191031745
-sample covariance 0.03629503830546521
-utterance level scoring 0.035725346938179116
-covariance 0.034227321936364144
-tested utterance 0.03374209237657279
-utterance level 0.0334793502641722
-distortion measure 0.03233588980248926
-nist speaker 0.032172194694423485
-verification accuracy 0.030454096015639563
-distortion measures 0.030271182800664487
-normalized score 0.030179146970048237
-recognition evaluation 0.02935929514005556
+utterance sample covariance 0.052418800427976725
+utterance covariance 0.04400143733594234
+speaker covariance 0.042958103421180546
+sample covariance 0.04001272827233866
+utterance level scoring 0.039065605815560005
+gaussian mixture model 0.03852033506805119
+independent speaker verification 0.03837547987818692
+normalized score 0.03608241497090812
+tested utterance 0.035549086025129906
+nist speaker 0.03427570173054728
+recognition evaluation 0.033632251826951794
+covariance 0.03305136387482736
+verification accuracy 0.03209102326819544
+distortion measure 0.032044612010870464
+utterance level 0.03126219819987017

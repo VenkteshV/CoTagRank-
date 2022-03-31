@@ -1,15 +1,15 @@
-terminal quantum resistor network 0.025321370333349212
-terminal ring 0.019341691041630582
-terminal rings 0.019230071713578475
-terminal networks 0.017604733427957094
-terminal configurations 0.017579562089845638
-electron wave 0.016965443885144326
-dimensional electron waveguides 0.016573637864068083
-terminal 0.016553981932693557
-resistor network 0.01584133353031748
-bohm rings 0.015724171445627877
-electron waves 0.015401819644268204
-wave computing 0.01501072626790277
-transmission characteristics 0.014802960853089511
-quantum transport 0.014575777383490772
-electron 0.014572673079772155
+terminal quantum resistor network 0.0317089940586231
+ultrathin conducting wires 0.025149011653641074
+dimensional electron waveguides 0.023864190736850144
+bohm rings 0.020498566774231196
+resistor network 0.020279272024535912
+buttiker symmetry rule 0.01968684157075639
+quantum transport 0.01905126402048648
+electron waves 0.018630864852613248
+electron wave 0.018458302594261698
+particular physical phenomena 0.01830653589663029
+multiple elastic scatterers 0.01779432626210984
+kirchhoff current conservation law 0.017336881062893248
+terminal networks 0.016532905206009526
+wave computing 0.01636350884763002
+terminal configurations 0.015517132847234622

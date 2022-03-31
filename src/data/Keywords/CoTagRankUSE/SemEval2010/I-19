@@ -1,15 +1,15 @@
-concurrent auctions 0.02234272536880296
-analyse optimal bidding strategies 0.020203034719777264
-price auctions 0.019992636384996626
-local bidders 0.019825317081180654
-several global bidders 0.019322920487983314
-auctions 0.01834521674362506
-global bidding agent 0.01825497450057725
-optimal bidding strategies 0.018251040832280258
-online auctions 0.018201818887020743
-bidders 0.017816411678977486
-bidding strategies 0.01705287439881848
-available auctions 0.016827836551663325
-global bidder 0.016362771319526896
-optimal bids 0.01527331454446194
-valuation distribution 0.01473325261896003
+analyse optimal bidding strategies 0.029900917042213107
+optimal bidding strategies 0.0229095663621945
+non - decreasing valuation distributions 0.022485065759612448
+several global bidders 0.022372848851785213
+concurrent auctions 0.021742535896394556
+global bidding agent 0.021404804109349956
+optimal bids 0.020206592377688612
+valuation distribution 0.020140321144881068
+poisson distribution 0.019658149097155644
+local bidders 0.019589028392718276
+bidding strategies 0.019475586237914753
+price auctions 0.018924674135108694
+single auction 0.017974267620990227
+global bidder 0.017418410610234133
+non - zero bids 0.017011500227688547

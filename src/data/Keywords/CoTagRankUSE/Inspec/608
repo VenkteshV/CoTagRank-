@@ -1,15 +1,15 @@
-personal computer clock track 0.037294951663652064
-minimum synch error 0.03657508846613706
-total synch error 0.035659830636413786
-synch task 0.033600777743636
-global positioning system satellite constellation 0.0293205051702536
-measurement configuration 0.02923878787047778
-clock 0.02917771599444567
-similar timing stations 0.02872571329496347
-didactic laboratory 0.027792666439177854
-final timing difference 0.02736417997940333
-internet 0.027348080930682
-timescale 0.027299253447186648
-experimental verification 0.027127391567140356
-time servers 0.02701262647003229
-typical rms value 0.026734844352646184
+personal computer clock track 0.0548390776859744
+global positioning system satellite constellation 0.04091035950813194
+minimum synch error 0.04073294134506687
+total synch error 0.03775501107547163
+synch task 0.03529583465779622
+measurement configuration 0.03177541182400519
+timescale 0.03158481403183579
+experimental verification 0.03121507741126483
+time servers 0.030595068808267997
+typical rms value 0.030172198550082928
+clock 0.029903054903112576
+similar timing stations 0.028936835881575886
+statistical sense 0.028195359970769177
+final timing difference 0.027624424591409822
+data results 0.026308390179697987

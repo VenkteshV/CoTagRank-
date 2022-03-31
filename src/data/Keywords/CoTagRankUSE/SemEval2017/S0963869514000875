@@ -1,15 +1,15 @@
-frequency resolution 0.0412627346966716
-frequency analysis methods 0.035622287707042545
-frequency analysis 0.03524682091446094
-low frequency components 0.03496615771751403
-high frequency components 0.03428183331414708
-frequency 0.032574957833280294
-temporal resolution 0.03236031473853516
-longitudinal ultrasonic waves 0.03222934518792159
-discrete wavelet analysis 0.031413184570633995
-stft spectrogram 0.03094176660229535
-time resolution 0.030356612263243536
-electromagnetic waves 0.02977922333733673
-sh waves 0.028619075803801533
-spectrogram 0.02861580469382989
-resolution 0.028419762448480417
+stft spectrogram 0.04246037937545151
+spectrogram 0.04140275194127753
+frequency resolution 0.041117987747746707
+high frequency components 0.040381130552819396
+discrete wavelet analysis 0.040341156784202734
+frequency analysis methods 0.040031344689813494
+low frequency components 0.04000407598758108
+frequency analysis 0.03954658166195075
+longitudinal ultrasonic waves 0.03713511157540948
+frequency 0.036033558686106984
+electromagnetic waves 0.034074814331385324
+temporal resolution 0.03379904300915438
+multi - resolution analysis 0.03336958708083993
+array system 0.029753878772380796
+phenomenon 0.028066802682403188

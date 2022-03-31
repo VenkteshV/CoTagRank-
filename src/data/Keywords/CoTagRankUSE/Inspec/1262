@@ -1,15 +1,15 @@
-fpga card 0.04883238016319863
-fpga 0.04627022146511609
-analog devices 0.03529655397675117
-internal configurable logic blocks 0.034651095524488765
-hybrid reconfigurable systems 0.03408467925005737
-reconfigurable computing 0.03362839966891906
-shoke2000 0.03173973778147651
-programmable gate arrays 0.031244493354789262
-several devices 0.0307974302564232
-digital signal processors 0.030749548906808536
-various user logic circuits 0.03073012638130058
-devices 0.0306217470453196
-pci 0.03013969972603438
-memory computer cluster 0.030028850629312757
-configurable blocks 0.029533345670683275
+fpga card 0.0487323905727074
+programmable gate arrays 0.04434168170865653
+digital signal processors 0.04275035379627206
+internal configurable logic blocks 0.041004986620444675
+fpga 0.03966480736056949
+various user logic circuits 0.03855183530272202
+reconfigurable computing 0.03826082780494809
+hybrid reconfigurable systems 0.0360069603368202
+memory computer cluster 0.03523138399548356
+simple image recognition application 0.034410189026810055
+analog devices 0.032157038640779324
+different interfaces 0.03095081257162791
+pci 0.029838336634345774
+basic functions 0.029157032479394315
+configurable blocks 0.028605004685247647

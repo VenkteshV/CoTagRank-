@@ -562,7 +562,7 @@ class CoTagRankPositionalEmbeddingUSE(object):
                          self.__dataset_name, self.__algorithmName)
 
 
-class CoTagRankTfIdfUSE(object):
+class CoTagRankPlusPlus(object):
     def __init__(self, numOfKeywords, pathData, dataset_name, normalization):
         super().__init__()
         self.__lan = getlanguage(pathData + "/Datasets/" + dataset_name)
@@ -580,7 +580,7 @@ class CoTagRankTfIdfUSE(object):
          np_tags = "NLTK",
          stopwords = "NLTK", nlp = init_nlp({"name":"spacy" , "model_name": "en_core_web_sm"}))
 
-        self.model = init_keyword_extractor(read_json(dir_path+'/config/conceptrank_USE.json'))
+        self.model = init_keyword_extractor(read_json(dir_path+'/config/conceptrank_plus_plus.json'))
 
     def LoadDatasetFiles(self):
         # Gets all files within the dataset fold
@@ -642,9 +642,9 @@ class CoTagRankTfIdfUSE(object):
             texts.append(' '.join(text))
             # extract keywords
             if expand:
-                keywords, phrase_with_positions, color_map = self.model.run(doc_text, texts, lda_model, dictionary, method = "CoTagRank", lists=lists, highlight=highlight, expand=expand)
+                keywords, phrase_with_positions, color_map = self.model.run(doc_text, texts, lda_model, dictionary, method = "CoTagRankPlusPlus", lists=lists, highlight=highlight, expand=expand)
             else:
-                keywords, phrase_with_positions = self.model.run(doc_text, texts, lda_model, dictionary, method = "CoTagRank", lists=lists, highlight=highlight, expand=expand)
+                keywords, phrase_with_positions = self.model.run(doc_text, texts, lda_model, dictionary, method = "CoTagRankPlusPlus", lists=lists, highlight=highlight, expand=expand)
 
             concepts = [(keyword, score) for score, keyword in keywords if keyword]
         except e:
@@ -1557,15 +1557,15 @@ class CoTagRankPositional(object):
                 with open(doc, 'r') as doc_reader:
                     doc_text = doc_reader.read()
             document = LoadFile()
-            if self.__dataset_name == "SemEval2010":
-                if len(doc_text.split("INTRODUCTION")) > 1:
-                    doc_text_abstract = doc_text.split("INTRODUCTION")[0]
+            # if self.__dataset_name == "SemEval2010":
+            #     if len(doc_text.split("INTRODUCTION")) > 1:
+            #         doc_text_abstract = doc_text.split("INTRODUCTION")[0]
 
-                    doc_text_intro_partial = " ".join(doc_text.split("INTRODUCTION")[1].split(" ")[:150])
-                else:
-                    doc_text_abstract = " ".join(doc_text.split(" ")[:400])
-                    doc_text_intro_partial = " "
-                doc_text = doc_text_abstract+" "+doc_text_intro_partial
+            #         doc_text_intro_partial = " ".join(doc_text.split("INTRODUCTION")[1].split(" ")[:150])
+            #     else:
+            #         doc_text_abstract = " ".join(doc_text.split(" ")[:400])
+            #         doc_text_intro_partial = " "
+            #     doc_text = doc_text_abstract+" "+doc_text_intro_partial
             if self.__dataset_name == "NLM500":
                 doc_text_abstract_intro = " ".join(doc_text.split(" ")[:200])
                 doc_text = doc_text_abstract_intro

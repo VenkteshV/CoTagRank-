@@ -1,15 +1,15 @@
-direct aperture optimization 0.03553242900084447
-deliverable aperture shapes 0.026128710221145823
-direct aperture 0.02550532972596192
-traditional intensity optimization 0.023086699065033675
-aperture intensities 0.023026307729801222
-optimization step 0.022339602490156187
-imrt imrt treatment plans 0.02143379969793418
-optimization 0.02000370972417587
-optimization strategies 0.01997239090492196
-optimization algorithm 0.01963369962111784
-beam direction 0.019424517780459314
-beam angle 0.018992888298011865
-beam segments 0.01887781317783029
-sequencing step 0.0187296549439072
-conformal step 0.018658401964737614
+deliverable aperture shapes 0.039458833761472065
+direct aperture optimization 0.038015144190128254
+aperture intensities 0.028518623546361102
+direct aperture 0.02636685322669249
+traditional intensity optimization 0.02634490099240453
+imrt imrt treatment plans 0.02546308968642572
+dose calculation engine 0.02495475497236129
+conformal step 0.02302440102541561
+beam segments 0.021797208668166233
+optimization step 0.021095245499617287
+apertures 0.020848492371687306
+beam angle 0.020478146522104924
+turnkey solution 0.020237764759915167
+sequencing step 0.019896641979135637
+optimization strategies 0.01987001780854785

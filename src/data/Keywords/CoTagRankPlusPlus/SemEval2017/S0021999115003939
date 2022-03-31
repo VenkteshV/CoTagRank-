@@ -1,0 +1,15 @@
+extrapolation 0.06791024344858454
+unstructured meshes 0.06692606242757289
+implicit extrapolation 0.06540512341746663
+upwind value 0.06400469892027016
+explicit extrapolation 0.06352351623922052
+extrapolated upwind value 0.060624182613983627
+extrapolation method 0.05910463619262993
+rectilinear meshes 0.05801194634361899
+virtual upwind 0.05546498429548749
+gradient ratio rf 0.05443716276008313
+virtual upwind node 0.05421693731702751
+explicit extrapolation method 0.052728476038115715
+non - rectilinear meshes 0.035378146549742556
+appropriate limits 0.03145618847651473
+data 0.029637672980305174

@@ -1,15 +1,15 @@
-branched biochemical system 0.029483920672235646
-reaction system 0.0264610829237612
-certain maximum enzyme activities 0.025331386979177833
-system coordination 0.025237808828435883
-stable limit cycles 0.02450083504540455
-large amplitude oscillations 0.024450414066098686
-global bifurcation 0.023624413193833703
-enzyme 0.023567035312358528
-enzymatic reactions 0.023457821782595558
-large amplitude 0.022086554610259414
-bifurcation 0.02195341090807727
-unbounded solutions 0.02119085753423663
-ordinary differential equations 0.020596602181127282
-metabolite concentration 0.02045827660410737
-cycles 0.020431596980480568
+certain maximum enzyme activities 0.03354588086828757
+large amplitude oscillations 0.03062477381298018
+enzymatic reactions 0.03033681674854978
+ordinary differential equations 0.02823564154231483
+branched biochemical system 0.027843484079678186
+metabolite concentration 0.0276428191762989
+stable limit cycles 0.026969960381225767
+global stability 0.026006375879557564
+global bifurcation 0.025515123047386616
+nonlinear dependency 0.023985319888952764
+nonnegative data 0.023511577552470825
+large amplitude 0.023439307892256105
+unbounded solutions 0.023420609586964375
+enzyme 0.022465870903992154
+kinetics 0.02236386498519832

@@ -16,7 +16,7 @@ from keep import TopicRank
 from keep import TopicalPageRank
 from keep import YAKE
 
-from main.evaluation.embedrank_transformers import CoTagRankPositionalEmbeddingUSE, CoTagRankBERTTopical, TopicCSRankLDA,CoTagRankSentenceUSE,TopicCSRank,EmbedRankSentenceBERT,CoTagRankPositional,EmbedRankSentenceUSE,CoTagRankUSE, CoTagRankWindow, CoTagRanks2v
+from main.evaluation.embedrank_transformers import CoTagRankPlusPlus, CoTagRankPositionalEmbeddingUSE, CoTagRankBERTTopical, TopicCSRankLDA,CoTagRankSentenceUSE,TopicCSRank,EmbedRankSentenceBERT,CoTagRankPositional,EmbedRankSentenceUSE,CoTagRankUSE, CoTagRankWindow, CoTagRanks2v
 from main.evaluation.embedrank import EmbedRank as ER
 # from main.evaluation.wordattraction import WordAttractionRank as WordAttractionRank
 
@@ -137,7 +137,14 @@ def keyword_extraction(expand=False):
                                                                         normalization)
                                                         
                 CoTagRankPositionalEmbeddingUSE_object.ExtractKeyphrases(expand=expand)
-                CoTagRankPositionalEmbeddingUSE_object.Convert2Trec_Eval(EvaluationStemming)                
+                CoTagRankPositionalEmbeddingUSE_object.Convert2Trec_Eval(EvaluationStemming)   
+
+            elif algorithm == "CoTagRankPlusPlus":
+                CoTagRankPlusPlus_object = CoTagRankPlusPlus(numOfKeyphrases, pathData, dataset_name,
+                                                            normalization)   
+                CoTagRankPlusPlus_object.ExtractKeyphrases(expand=expand)
+                CoTagRankPlusPlus_object.Convert2Trec_Eval(EvaluationStemming)
+
 
             elif algorithm == 'WordAttractionRank':
                 print("pathData", pathData)
@@ -206,7 +213,7 @@ if __name__ == '__main__':
 # 'EmbedRank','CoTagRankWindow','CoTagRanks2v','CoTagRankPositional','CoTagRankUSE'
 # 'SingleRank', 'TopicalPageRank','TextRank',EmbedRankSentenceUSE,
 #  'CoTagRankUSE', 'EmbedRankSentenceBERT','EmbedRank'
-    ListOfAlgorithms =  ['CoTagRankUSE'
+    ListOfAlgorithms =  ['CoTagRankPositional'
 ]
 # ,'MultiPartiteRank','CoTagRankWindow','CoTagRanks2v','CoTagRankUSE','CoTagRankPositional'
 # 'SingleRank', 'TopicalPageRank','TextRank','EmbedRankSentenceUSE',

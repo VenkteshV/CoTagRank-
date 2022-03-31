@@ -1,15 +1,15 @@
-pwm control schemes 0.036677929141579836
-reactive power 0.03652865131740868
-power switches 0.0360164147195445
-bridge rectifier 0.03556130241220558
-current control scheme 0.035539753830406584
-active power filter 0.034477235990414225
-line current command 0.03378518044695976
-low current distortion 0.03375805855499716
-high power factor 0.03356245352760044
-voltage balance compensator 0.03339041453498936
-control scheme 0.03292102334797686
-voltage regulator 0.03279210087277858
-power quality compensation 0.032713238247775875
-bridge converter topology 0.03249004863209625
-sinusoidal line 0.03192512436348678
+voltage balance compensator 0.04537422569701366
+pwm control schemes 0.044367942317968256
+bridge converter topology 0.04434650841138375
+bridge rectifier 0.043527872513278006
+voltage regulator 0.04068955759114154
+circuit configuration 0.040575497794709696
+active power filter 0.035505622513067575
+rectifier 0.035254667442035634
+reactive power 0.03428546649263485
+power switches 0.03415734788328233
+harmonic currents 0.032615078101749254
+hysteresis 0.03250333853324497
+high power factor 0.03226074501405637
+neutral point switch 0.03218447685178244
+low current distortion 0.0321625022710409

@@ -1,15 +1,15 @@
-multi - term time fractional diffusion equation 0.07594042869893831
-discrete scheme 0.07191355315940849
-extensive numerical experiments 0.06319037949544556
-caputo fractional derivatives 0.06292356586774704
-convergence analysis 0.06179090736402851
-empirical convergence rates 0.05798157029099088
-finite difference discretization 0.05731396874754793
-nonsmooth initial data 0.05332571232548135
-multiple caputo fractional derivatives 0.04948447140123619
-galerkin finite element method 0.0469197403168586
-simple numerical scheme 0.04583227893163785
-error estimate 0.044221498678774084
-new regularity results 0.04109511948558649
-complete error analysis 0.0393207648595886
-analysis 0.03726830831950984
+discrete scheme 0.07504879827877042
+caputo fractional derivatives 0.0696063333835347
+convergence analysis 0.06661641609857577
+empirical convergence rates 0.06349548601940153
+extensive numerical experiments 0.06301790232969928
+finite difference discretization 0.05681281529440888
+multi - term time fractional diffusion equation 0.054798709712427854
+nonsmooth initial data 0.05310498157309938
+multiple caputo fractional derivatives 0.047101416425115755
+error estimate 0.04502556660502173
+simple numerical scheme 0.043808359833476196
+galerkin finite element method 0.04123141176014557
+new regularity results 0.04028903381166502
+complete error analysis 0.03773744848276683
+analysis 0.036656345023263655

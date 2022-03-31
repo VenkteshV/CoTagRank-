@@ -1,15 +1,15 @@
-stochastic vehicle travel time models 0.05804234520867438
-vehicle travel time models 0.051900866592826125
-vehicle travel time 0.04879788137056937
-idle vehicle selection rule 0.04602283073856989
-vehicle selection rule 0.044183969044431524
-various vehicle 0.043928196539740505
-material handling systems 0.042234175053052644
-agv systems 0.041018157919659515
-empty travel times 0.040510032221220994
-various dispatching rules 0.040481551860615375
-agv 0.037034886300902986
-various flexible manufacturing system 0.03666349821438074
-vehicles 0.03549339318242336
-evaluation 0.03502196091335541
-fundamental parameter 0.034887783925206695
+stochastic vehicle travel time models 0.07474133904817963
+vehicle travel time models 0.06838121101158702
+idle vehicle selection rule 0.05027988584047021
+vehicle travel time 0.049391530169198214
+agv systems 0.044029593437485595
+vehicle selection rule 0.04291054491920932
+material handling systems 0.041672224512014425
+various flexible manufacturing system 0.04146920830165961
+empty travel times 0.04036248437743657
+various vehicle 0.03789707658116177
+various dispatching rules 0.0375579789428917
+simulation experiment 0.035240631840459447
+vehicles 0.0352089518147627
+fundamental parameter 0.03471254767535868
+agv 0.034667134794426575

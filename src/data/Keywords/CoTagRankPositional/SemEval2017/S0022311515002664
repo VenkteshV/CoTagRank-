@@ -1,15 +1,15 @@
-plastically anisotropic 0.052400131581842285
-anisotropic 0.04502130047381604
-plasticity potential ratios 0.0439412230710891
-anisotropic material properties 0.04223498016601908
-lattice structure 0.040521320560716605
-hexagonal close 0.0375661494549515
-zirconium unit lattice 0.03706060334203949
-oxide layer 0.03697610909118858
-plastic constants 0.03685371519097347
-elastic properties 0.036427151036017666
-isotropic material properties 0.03598191738392005
-〈 c 〉 component 0.03567857188299285
-c direction 0.03544840950965473
-single zirconium grain 0.035336640829568264
-3d simulations 0.032893170025784
+plastically anisotropic 0.05470682326866544
+anisotropic 0.046719746469251214
+plasticity potential ratios 0.042186910458534316
+anisotropic material properties 0.038497426161817644
+lattice structure 0.03779364716412778
+hexagonal close 0.03746441811629126
+plastic constants 0.03724813563617306
+zirconium unit lattice 0.035973094680014604
+c direction 0.035489316225182754
+single zirconium grain 0.03390152768023643
+oxide layer 0.03369768683757919
+elastic properties 0.0336505589296557
+table 0.03277423930002793
+isotropic material properties 0.031949442269671
+3d simulations 0.031068231751951447

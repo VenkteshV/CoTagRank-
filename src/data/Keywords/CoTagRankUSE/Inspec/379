@@ -1,15 +1,15 @@
-feedforward maximum power point tracking 0.037495606416655905
-fuzzy feedforward peak power 0.03261939094741943
-instantaneous array voltage 0.03181618196895327
-conventional boost converter 0.029889237176163704
-feedforward maximum power 0.029868556837046242
-feedforward loop 0.028924021996589156
-reference voltage 0.028607319449930658
-converter fed photovoltaic 0.028253758092245774
-interleaved dual boost 0.02795402784545801
-solar cell array 0.027596500436349734
-voltage 0.02739001979727221
-interleaved boost 0.027327738658262747
-point tracking scheme 0.026494508506071098
-mp point 0.025716244705465404
-pv systems 0.025361471237960693
+feedforward maximum power point tracking 0.051129367294412136
+converter fed photovoltaic 0.040584274327572216
+instantaneous array voltage 0.03944046443615562
+solar cell array 0.037003979473331866
+fuzzy feedforward peak power 0.03528663301133915
+conventional boost converter 0.03505864086253145
+solar insolation 0.029815354547850795
+interleaved dual boost 0.028920076456543334
+reference voltage 0.028783571703580462
+propagation algorithm 0.028678538679628513
+pv systems 0.028656523532294094
+neural network 0.027379824869110544
+tracking algorithm 0.02669827893508452
+feedforward loop 0.026585244563742463
+feedforward maximum power 0.02536032701829705

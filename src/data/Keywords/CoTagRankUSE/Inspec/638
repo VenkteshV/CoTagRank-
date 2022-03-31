@@ -1,15 +1,15 @@
-group communications internet protocol multicast 0.03806241973385323
-secure multicast group 0.03567118610538452
-scalable secure group communication 0.03561581486668476
-scalable rekeying scheme 0.031914904331656294
-bulk group changes 0.02742843390292511
-rekeying scheme 0.02684930969647418
-group membership 0.026754817894141476
-group dynamics 0.025845969318573123
-group 0.02523217743092585
-cluster members 0.02349440354134719
-bulk simultaneous changes 0.023377688717399484
-overhead 0.023312441734777877
-internet topology map 0.023133171448006168
-clustering 0.023115094093151704
-particular clustering 0.022913630930700053
+group communications internet protocol multicast 0.053027879426699474
+scalable secure group communication 0.05245193373855479
+secure multicast group 0.03934962543443696
+scalable rekeying scheme 0.03627702223713562
+internet topology map 0.030894686170376197
+particular clustering 0.02858731919541553
+like topologies 0.026773989780144128
+clustering 0.025452433433358096
+actual bandwidth 0.025119715162693776
+cluster members 0.025022769847842748
+routers 0.02376234499094677
+group dynamics 0.023703479348675213
+bulk group changes 0.023311071267092604
+constant processing 0.02295581312754217
+rekey operation 0.022680801067418804

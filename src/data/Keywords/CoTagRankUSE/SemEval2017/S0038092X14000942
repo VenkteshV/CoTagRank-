@@ -1,15 +1,15 @@
-direct solar radiation intensities 0.03840406256853421
-direct solar radiation intensity 0.038392928735811085
-direct incident solar radiation 0.037390389244859164
-direct solar radiation 0.03614661003249379
-water inlet temperature 0.03590397807140573
-ambient temperature 0.03268836857881462
-water temperature 0.032033595999197216
-solar cells 0.031044326513728134
-water flow rate 0.030117446160433624
-temperature distribution 0.02919477029596498
-water temperatures 0.028780165982759082
-horizontal window segment 0.028451739434384615
-smart window 0.028450489927166138
-window components 0.027720037443618114
-800w 0.027289784831212593
+direct solar radiation intensity 0.043123136067855644
+direct solar radiation intensities 0.04305515022085191
+ambient temperature 0.04209915009962019
+direct solar radiation 0.04007151850148817
+temperature distribution 0.03978350353819708
+direct incident solar radiation 0.03866376856893772
+water temperature 0.03787810076951687
+thermal performance 0.03710902327891793
+water inlet temperature 0.037017241899858444
+water temperatures 0.036822313678280566
+solar cells 0.034642170374358065
+smart window 0.034633327756488946
+window components 0.03400487761895226
+water flow rate 0.03368778725475968
+simulation physical conditions 0.03159396405903729

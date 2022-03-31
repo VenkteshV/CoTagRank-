@@ -1,0 +1,15 @@
+pdes 0.048142385027920814
+sparse matrices 0.03980537029834208
+iterative solvers 0.038905539233776404
+equilibria 0.037985801779886835
+pde model 0.0371757598706949
+numerical bifurcation analysis 0.03226071492886906
+ordinary differential equations 0.031807911986791754
+homogeneous solutions 0.030450947984454652
+partial differential equations 0.030218675943900587
+periodic orbits 0.029623151751752667
+extended dynamical systems 0.02961714759071306
+liley model 0.02868751407360786
+linear problems 0.028043245875630195
+mean membrane potentials 0.0278555081789061
+mean synaptic inputs 0.02765809408615493

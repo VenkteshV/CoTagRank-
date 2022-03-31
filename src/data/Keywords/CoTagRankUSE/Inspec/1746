@@ -1,15 +1,15 @@
-thermoelectroelastic laminated plates 0.04021322579878772
-layer piezoelectric plate 0.03863924250829243
-piezoelectric differential 0.03596082920332008
-piezoelectric 0.033892596444304805
-analytical solution 0.033160109290240235
-thick plates 0.032791888663986885
-numerical solution 0.03250969545863022
-thermoelectroelastic behavior 0.03132512538170744
-simple eigenvalue formula 0.03101996107576682
-plates 0.030547453050064205
-static analysis 0.029953516581718805
-exact solution 0.029661715906834227
-imaginary eigenvalues 0.029423371210481494
-new concise procedure 0.029406220935777515
-trigonometric series 0.029200670799554983
+simple eigenvalue formula 0.05022408943780708
+layer piezoelectric plate 0.04934035732132376
+imaginary eigenvalues 0.041098521774125374
+trigonometric series 0.03885773009416213
+piezoelectric differential 0.038758106635023416
+static analysis 0.03601912968954753
+thermoelectroelastic laminated plates 0.035927299479530404
+analytical solution 0.03484963198219563
+finite element method 0.03382392543430463
+new concise procedure 0.03374584712417261
+numerical solution 0.03212381023813783
+numerical studies 0.031315653192395286
+piezoelectric 0.029992611366517534
+approximate approaches 0.029779107281644193
+useful physical insight 0.027745137261807662

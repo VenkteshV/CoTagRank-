@@ -1,15 +1,15 @@
-geometric errors 0.03130448441854125
-true surface 0.029527690937002707
-exponential convergence properties 0.028635949194076436
-solution polynomial orders 0.028548669373773095
-geometric error 0.028433273390359868
-exponential convergence 0.028055584904404924
-spatial discretisation errors 0.028016834895875826
-geometric approximation 0.027863084271836373
-analytic test cases 0.027079453461074876
-solution error 0.026630354663603938
-geometry parametrisation 0.026415121198239345
-expansion polynomial order 0.02637624135136244
-rapid convergence 0.026062269770558935
-smooth solutions 0.025737244846107676
-coarse curvilinear mesh 0.025317982032959138
+exponential convergence properties 0.037020335230821294
+analytic test cases 0.0370192090612908
+geometric approximation 0.03678651543603547
+solution polynomial orders 0.03580287946448434
+geometric errors 0.03549679343926565
+mesh refinement 0.03439770668152853
+geometric error 0.03395841408002304
+expansion polynomial order 0.033924153756029946
+exponential convergence 0.03375709265647453
+geometry parametrisation 0.03229519360224459
+spatial discretisation errors 0.030946567189764438
+geometry 0.02943609468880624
+test cases 0.028511231036431196
+coarse curvilinear mesh 0.028479789262150945
+rapid convergence 0.02830289534873366

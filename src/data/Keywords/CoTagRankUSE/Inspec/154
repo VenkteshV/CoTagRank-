@@ -1,15 +1,15 @@
-interactive theorem prover kiv 0.05760683698267588
-systems translate transition systems 0.0563679896781621
-programs symbolic execution 0.05593536413076324
-temporal formulas 0.05402768073785913
-symbolic execution current techniques 0.05394967268155382
-temporal properties 0.05302576018242249
-interval temporal logic 0.05300673446573796
-concurrent systems 0.052270280451573614
-interactive proof 0.04874101693397143
-program counter variables 0.04812690791829559
-parallel programs 0.04725443332233184
-local invariants 0.04575308312916297
-implementation 0.04519772430659897
-technique 0.044048911059128885
-control flow 0.04276673496126337
+interactive theorem prover kiv 0.07866715251527881
+systems translate transition systems 0.058569730680943406
+interval temporal logic 0.057833481663219735
+temporal formulas 0.05648891934210495
+symbolic execution current techniques 0.05578880641900612
+programs symbolic execution 0.053498717911813036
+program counter variables 0.05174388443433473
+interactive proof 0.05132550724924928
+concurrent systems 0.05017193397263009
+temporal properties 0.04987553838858211
+local invariants 0.047778930479438125
+parallel programs 0.046615325617589035
+implementation 0.045280342331295555
+automation 0.041574920843148906
+technique 0.039782548034739226

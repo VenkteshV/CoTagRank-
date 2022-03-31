@@ -1,15 +1,15 @@
-concurrent repetitive processes 0.041764851738005815
-repetitive processes 0.03690073516461015
-constraint logic programming language oz 0.036548949363692636
-cyclic processes 0.03399142283140828
-constraint logic programming problem 0.03185955100929111
-stability conditions 0.031678844374139294
-sufficient conditions 0.031131458410211227
-strong stability 0.030778236495757328
-process system 0.03041410871759032
-state behaviour 0.03038177370580748
-processes 0.029492751882916265
-maximal efficiency 0.028882261447163174
-maximal performance 0.028342079589186046
-common resources 0.027977958873154695
-waiting 0.02720667880803059
+constraint logic programming language oz 0.05648751858295685
+concurrent repetitive processes 0.04637485398808486
+constraint logic programming problem 0.0397511484273321
+repetitive processes 0.036018273189807895
+cyclic processes 0.03476234675345123
+maximal efficiency 0.03435409671895999
+maximal performance 0.0341127624148262
+recurrent equations 0.03153111088036859
+stability conditions 0.0303507743120141
+sufficient conditions 0.028953478548435763
+process system 0.028319133946651476
+state behaviour 0.02779631384581194
+strong stability 0.027329593520977205
+processes 0.02698934770556917
+common resources 0.026702589675929277

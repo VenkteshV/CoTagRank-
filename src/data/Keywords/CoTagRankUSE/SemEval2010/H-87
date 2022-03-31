@@ -1,15 +1,15 @@
-cross - benchmark evaluation yiming yang 0.018422285791707106
-relevance feedback information 0.0165432759213693
-adaptive filtering 0.015522041464535726
-topic detection 0.015510953746819671
-relevance feedback 0.015383473785816644
-text retrieval conferences 0.01531768077356709
-information retrieval 0.015290423456607567
-online topic membership decision 0.015116775989518636
-trec utility function 0.014980156429899395
-information filtering 0.014780874313668146
-tdt5 test documents 0.014678428017753846
-tdt tracking cost 0.014466661419650653
-tdt 0.01442064174632773
-systemaccepted documents 0.014320352807118806
-topic 0.01415338749137057
+cross - benchmark evaluation yiming yang 0.032835918837516936
+systematic cross - corpus parameter optimization 0.021435513571162496
+logistic regression 0.021392209221772263
+various granularity levels 0.02126904371352828
+tdt5 test documents 0.020730833227295735
+evaluation general terms algorithms 0.02014926208644883
+cross - benchmark evaluation 0.018116052564771404
+trec utility function 0.018105850743342547
+benchmark evaluations 0.017797127232010768
+robustness 0.017692546975514114
+adaptive filtering 0.017521964573010494
+incremental rocchio 0.017199233822389377
+relevance feedback information 0.0164716928552146
+classifier design 0.015832081351055308
+text retrieval conferences 0.01551160830193692

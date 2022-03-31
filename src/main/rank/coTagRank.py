@@ -84,7 +84,7 @@ class CoTagRank:
             position_scores[keyword] = 1/(1.0+start_pos)
             idf_phrase_dict[keyword] = phrase_idf_score
             tf_phrase_dict[keyword] = phrase_tf_score
-            relevance_dict[keyword] = ((1/manhattan)) * phrase_idf_score * phrase_tf_score * (1/len(keyword.split()))
+            relevance_dict[keyword] = score #(1/len(keyword.split()))
         # for key, value in relevance_dict.items():
         #     position_scores[key] = np.exp(position_scores[key]) / np.sum(np.exp(list(position_scores.values())))
         #     relevance_dict[key] = relevance_dict[key]
@@ -106,7 +106,7 @@ class CoTagRank:
         # graph.add_weighted_edges_from(
         #     [(v[0], u[0], ( 0.8 * (((np.dot(phrase_to_embedding[v[0]], phrase_to_embedding[u[0]])) - minx) / (maxx-minx) ) + (0.2* position_scores[u[0]] ) ) ) for v in top_phrases for u in top_phrases if u != v])       
         graph.add_weighted_edges_from(
-            [(v[0], u[0], ( (((np.dot(phrase_to_embedding[v[0]], phrase_to_embedding[u[0]])/((np.linalg.norm(phrase_to_embedding[v[0]]) * np.linalg.norm(phrase_to_embedding[u[0]]))+1e-07)) - minx) / (maxx-minx) ) ) ) for v in top_phrases for u in top_phrases if u != v])       
+            [(v[0], u[0], ((((np.dot(phrase_to_embedding[v[0]], phrase_to_embedding[u[0]])/((np.linalg.norm(phrase_to_embedding[v[0]]) * np.linalg.norm(phrase_to_embedding[u[0]]))+1e-07)) - minx) / (maxx-minx) ) ) ) for v in top_phrases for u in top_phrases if u != v])       
    
         # print("edges",graph.edges.data(),len(top_phrases), len(graph.edges.data()))
         pr = nx.pagerank(graph, personalization=relevance_dict,

@@ -1,15 +1,15 @@
-dipie scheme 0.043526687038908905
-efficient dipie algorithm 0.03418724322735508
-dipie 0.033428580048688344
-electrostatic field solvers 0.03219565773257442
-mems devices 0.030474112426878586
-parameters extraction 0.0303708569071228
-moems cad packages 0.03025861168570155
-pull 0.03018984059723224
-electrostatic actuators 0.029989582224666942
-scheme 0.02970341534682617
-novel displacement iteration 0.028241582881768857
-accurate analysis tools 0.027347507800483516
-accuracy refinements 0.02733470568629999
-actuator electrodes 0.02703155816681706
-simulation tools 0.027000840504469478
+electrostatic field solvers 0.050047908940092686
+efficient dipie algorithm 0.04089511594238239
+electrostatic actuators 0.039434324764621914
+novel displacement iteration 0.038551926649937576
+moems cad packages 0.038293862303794494
+actuator electrodes 0.03684877924330533
+dipie scheme 0.033982653172846385
+accuracy refinements 0.031944887762355344
+simulation tools 0.030679530642223056
+accurate analysis tools 0.030302453240248765
+different design geometries 0.03013461144757625
+mems devices 0.029898104804762064
+parameters extraction 0.0285660387880451
+voltage 0.027684998045203437
+design procedure 0.0275840772742711

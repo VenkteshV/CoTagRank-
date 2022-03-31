@@ -1,15 +1,15 @@
-tno hpf benchmark suite 0.03148572428198054
-tno hpf benchmark 0.02786033171596867
-gmd adaptor hpf compiler 0.02736233398248293
-different hpf compilers 0.025440141452550795
-hpf compiler 0.02534062806458988
-available hpf compilers 0.025085222764571286
-benchmark suite 0.02271360296754222
-special benchmark suite 0.022541977173905818
-hpf programs 0.021391657142834496
-performance fortran 0.020878020443782803
-hpf 0.02085553795206746
-portable performance 0.020183586395857014
-performance portability 0.019274558550339115
-performance bugs 0.019220851332598904
-compilers 0.019153687058673666
+gmd adaptor hpf compiler 0.03530507810881613
+tno hpf benchmark suite 0.032777806800212694
+tno hpf benchmark 0.028351969651120742
+available hpf compilers 0.027916953280446386
+different hpf compilers 0.027797489648333847
+hpf compiler 0.025458315867657566
+special benchmark suite 0.02511701933163759
+efficient parallel code generation 0.024198210446753493
+indirection arrays 0.022911825917966352
+prepare prototype compiler 0.02287254210969144
+performance fortran 0.022705833607558155
+benchmark suite 0.02266682480308129
+hpf programs 0.02021621463664389
+compilers 0.019653423090276394
+triangular iteration spaces 0.01930631369414549

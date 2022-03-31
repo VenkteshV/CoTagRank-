@@ -1,15 +1,15 @@
-macroscopic van der waals force 0.05462575910019163
-van der waals force 0.04888774607078328
-van der waals interaction 0.041316368761939615
-macroscopic si tip 0.03602563150525894
-macroscopic sphere radius 0.035337913822069925
-macroscopic contribution 0.0328401095308523
-macroscopic part 0.030581672325063383
-hamaker constant 0.02821839388630818
-background attractive force 0.027962626695568413
-sample atoms 0.027348578479401014
-microscopic properties 0.027228199762743245
-dispersion forces 0.02691797515537324
-force 0.02686052246279172
-conical shape 0.026644053616931562
-atoms 0.02659598073623953
+van der waals force 0.04402303108218258
+macroscopic van der waals force 0.04392899298227451
+van der waals interaction 0.04094178388737059
+macroscopic si tip 0.04024680381421323
+macroscopic sphere radius 0.03990755455686666
+macroscopic contribution 0.03896535594439267
+macroscopic part 0.03883049204111926
+dispersion forces 0.03822312189817239
+microscopic properties 0.0370027540494613
+sample atoms 0.03435617176301106
+surface separation 0.03430673323162981
+atoms 0.03292276796672108
+conical shape 0.03089124801784797
+hamaker constant 0.029843991495440224
+radius r 0.027835355486245723

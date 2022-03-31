@@ -1,7 +1,17 @@
 import numpy as np
 from sklearn.metrics.pairwise import cosine_similarity
+from sklearn.feature_extraction.text import CountVectorizer
 import networkx as nx
+from nltk.stem.snowball import SnowballStemmer
 import math
+import os
+import joblib
+
+dir_path = os.path.dirname(os.path.realpath(__file__))
+
+word_to_idf = joblib.load(dir_path+"/../../data/Models/Unsupervised/lda/word2idf_semeval2010")
+tf_idf_vectorizer = joblib.load(dir_path+"/../../data/Models/Unsupervised/lda/tf_idf_vectorizer_semeval2010")
+stemmer = SnowballStemmer("porter")
 class CoTagRankPositional:
     """Implementation of unsupervised `phrase` extraction method using USE and topic embeddings and our custom ranking algorithm. This method tries to
     find important phrases in text using analysis of their cosine similarity to original text and using reranking method to choose most relevant and also diverse phrases.
@@ -35,8 +45,19 @@ class CoTagRankPositional:
 
         relevance_dict = {}
 
+   
         for (keyword, start, _), score in zip(top_phrases, document_relevance):
-            relevance_dict[keyword] = score 
+            words = keyword.split()
+            phrase_idf_score = 0.0
+            phrase_tf_score = 0.0
+            for word in words: 
+                if stemmer.stem(word) in word_to_idf:
+                    word_idf_score = word_to_idf[stemmer.stem(word)]
+                    # word_idf_score = (word_idf_score - min(word_to_idf.values())) / (max(word_to_idf.values()) - min(word_to_idf.values()))
+                    phrase_idf_score += (word_idf_score)
+                else:
+                    phrase_idf_score = 0.00001
+            relevance_dict[keyword] = score * phrase_idf_score * (np.exp(1- (len(keyword.split())/2)))
 
         phrase_to_embedding = {}
         for index, phrase in enumerate(phrases):

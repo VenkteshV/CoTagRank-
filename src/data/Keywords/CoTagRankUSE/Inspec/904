@@ -1,15 +1,15 @@
-adaptive available bit rate voice 0.04229206393827702
-asynchronous transfer mode networks 0.03577350476947866
-available bit rate 0.03380626440265517
-transfer mode networks 0.02960086497238247
-simulation methodology 0.027774132183677684
-link capacity results 0.027615416884398173
-voice quality 0.027337627055301204
-simulation modeling 0.027115966622107707
-performance metrics 0.02682617215680484
-acceptable quality 0.025463710898354
-rate 0.025447758805058063
-encoding level 0.02497455241441749
-simulation 0.02491658255094418
-performance 0.024847882444436833
-interval length 0.024665730048326093
+adaptive available bit rate voice 0.057757472519360545
+asynchronous transfer mode networks 0.045593828099991685
+available bit rate 0.03342440305981566
+link capacity results 0.03300030037322603
+performance metrics 0.0315466306005605
+encoding level 0.03125202274279162
+transfer mode networks 0.03076621073158653
+simulation methodology 0.030335193077161555
+voice quality 0.027898648781720436
+sensitivity analysis 0.027824419088247235
+bandwidth 0.02704815786257588
+resource management cells 0.026510592037410054
+interval length 0.02624328463061862
+simulation modeling 0.026004108565804845
+performance 0.024236024433760224

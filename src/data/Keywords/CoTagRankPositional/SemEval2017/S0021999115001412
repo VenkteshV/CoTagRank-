@@ -1,15 +1,15 @@
-active polar viscous gels 0.06333361899675624
-energy 0.06286391790279557
-continuum hydrodynamic description 0.04519527938831312
-macroscopic mechanics 0.04439040057315402
-non - newtonian fluid 0.04187441907673366
-anisotropic 0.040445050923993815
-constitutive equation 0.04023613385241346
-macroscopic directionality 0.03734118331875083
-partial differential equations 0.0371798140219653
-equations 0.03616598828426496
-biological morphogenesis 0.03167375827103383
-cortical cytoskeleton 0.03102688067179578
-viscous bulk medium 0.02960330139439988
-unit vectors 0.028613048743673458
-fluid 0.02850785191690739
+energy 0.060294865087354814
+active polar viscous gels 0.05698150132525276
+macroscopic directionality 0.043882612042723396
+macroscopic mechanics 0.043107441483739406
+continuum hydrodynamic description 0.04162433461998183
+anisotropic 0.03787651525785678
+constitutive equation 0.03701557605686907
+cortical cytoskeleton 0.035987673865030365
+biological morphogenesis 0.034912726398513116
+partial differential equations 0.03192195138940756
+viscous bulk medium 0.030691152024349806
+equations 0.030688061205439723
+unit vectors 0.030378178186642693
+uniaxial polar agents 0.029563626043011246
+non - newtonian fluid 0.02908567724236545

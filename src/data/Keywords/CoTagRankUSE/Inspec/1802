@@ -1,15 +1,15 @@
-novel tcp congestion control scheme 0.04875188855781015
-pd tcp several advantages 0.03481639246479429
-tcp throughput 0.033555685178509154
-tcp 0.03237382694938637
-current tcp implementations 0.03232813002078041
-tcp window 0.03170450775535833
-congestion control scheme 0.03163326432218942
-tcp connection 0.03143003645987675
-congestion control 0.0296655517514501
-congestion control schemes 0.02953188611711428
-congestion control problem 0.027712125741211385
-error control functions 0.02623826948441125
-control 0.025670297751970272
-pd controller 0.025511949313175703
-bandwidth variations 0.025457614072521836
+novel tcp congestion control scheme 0.06877031868516274
+pd tcp several advantages 0.04243611977504134
+current tcp implementations 0.039209783367359585
+tcp throughput 0.03630093724469957
+congestion control scheme 0.034925761867326405
+tcp window 0.032626465405934196
+tcp connection 0.031776020456892526
+bandwidth variations 0.029782724199802713
+congestion control schemes 0.029608273210859955
+tcp 0.028859669660556118
+buffer occupancy 0.026700055825513196
+congestion control problem 0.026511055271634592
+congestion control 0.02634607321148358
+buffer sizes 0.026337063675640048
+connection path 0.02618550359976119

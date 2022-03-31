@@ -1,15 +1,15 @@
-adaptive vector channel allocation 0.030062121802398818
-selective fading channels orthogonal frequency division multiplexing 0.028663887549893054
-adaptive vector channel 0.02703355597867298
-isi channel 0.02621430540403267
-channel spectral nulls 0.024468264769370918
-efficient scalable video transmission 0.024171390183115666
-channel allocation information 0.023754461307709158
-allocated vector channels 0.02339898852343155
-ofdm system 0.022306968070328878
-ofdm 0.021881647326076562
-channel 0.02119372439184282
-scalable video 0.021064817526174603
-new ofdm framework 0.02095321915204888
-high data rate transmission 0.02092490118011279
-control channel 0.02061264798657512
+selective fading channels orthogonal frequency division multiplexing 0.04691554824370783
+adaptive vector channel allocation 0.03238652610041971
+efficient scalable video transmission 0.028881342022356607
+adaptive vector channel 0.02706770039116283
+allocated vector channels 0.026490124145141156
+cyclic prefix insertion 0.025411026671564325
+channel spectral nulls 0.02525199279611395
+channel allocation information 0.024655737280488664
+frobenius norm metrics 0.02405239130768684
+high data rate transmission 0.023283581272512552
+layered bit stream structure 0.02307819973820588
+heavy data rate overhead 0.023023693646641766
+new ofdm framework 0.021918796368823483
+scalable video 0.021777913102677626
+multiple frequency bands 0.021323104195534553

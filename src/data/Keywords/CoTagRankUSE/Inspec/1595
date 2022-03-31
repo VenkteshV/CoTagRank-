@@ -1,15 +1,15 @@
-wave superconductors 0.05015743595008518
-landau model 0.04837924127814275
-finite element approximations 0.04809533287287905
-multilevel linearization procedure 0.04491493169340454
-conventional ginzburg 0.04405977068827433
-optimal error estimates 0.04387669213867851
-multilevel linearization 0.04368905269671914
-ginzburg 0.0432478151159439
-scalar complex 0.04256483202782296
-convergence 0.041696031758092375
-landau 0.041660162162457735
-paring symmetry 0.040581658804264314
-super - convergent estimates 0.040328464282726725
-derivatives 0.03935058045052922
-nonlinear systems 0.03870005263345547
+finite element approximations 0.0635592644056111
+wave superconductors 0.05786965780017715
+landau model 0.05654673887676792
+super - convergent estimates 0.05070975755939791
+scalar complex 0.05021409460461829
+optimal error estimates 0.047703085026719584
+nonlinear systems 0.04752045847974311
+multi - level linearization algorithm 0.04569229033015368
+multilevel linearization procedure 0.04548285447278542
+paring symmetry 0.045002555800830166
+convergence 0.04158348586043955
+conventional ginzburg 0.04084558291827288
+derivatives 0.040553897476991854
+landau 0.038092548994499195
+super - convergence 0.03776760626320426

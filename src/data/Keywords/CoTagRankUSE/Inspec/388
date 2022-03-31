@@ -1,15 +1,15 @@
-clinical ecg mapping data linear approaches 0.037240259951480364
-simulated ecg mapping data 0.031246066001837505
-applied regularization procedure 0.028373193339900238
-single beat sinus rhythm data 0.026778364476297473
-noninvasive myocardial activation time imaging 0.026007053243220148
-novel inverse algorithm 0.025802048716569603
-newton approach 0.025504651349635254
-optimal regularization parameter 0.024797443080943192
-additional regularization 0.024763225444594823
-nonlinear problem formulation 0.024188301352047078
-regularization 0.023986406068194955
-standard gauss 0.02379244014287773
-mapping data 0.023631407359587613
-clinical conditions 0.023572889054287678
-gauss 0.02323816786390239
+clinical ecg mapping data linear approaches 0.045916327710132994
+noninvasive myocardial activation time imaging 0.04475304108432634
+simulated ecg mapping data 0.03571949181284703
+single beat sinus rhythm data 0.03322806151518819
+applied regularization procedure 0.031532404644809546
+novel inverse algorithm 0.028699592060180926
+optimal regularization parameter 0.02864348478367978
+nonlinear problem formulation 0.027963786073827913
+additional regularization 0.025743168840841397
+standard mathematical tools 0.025236113437729652
+square algorithm show 0.024443800965317133
+subsequent iteration steps 0.023914750862268772
+computational performance 0.02372530527760321
+nonlinear problem 0.023681748812625823
+standard gauss 0.02271563232941571

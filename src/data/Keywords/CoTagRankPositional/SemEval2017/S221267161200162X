@@ -1,15 +1,15 @@
-nonlinear predictive control 0.0821802462887001
-universal approach nonlinear 0.07861064484479398
-nonlinear model recongnization 0.07259921902961858
-nonlinear predictive controller 0.06556169106632988
-linear predictive control 0.06461364395822129
-hammerstein model 0.062393614093367564
-linear autoregressive model 0.06092407983092182
-optimal control 0.05473387515328228
-static nonlinear characteristics 0.05310642961736173
-hammerstein model predictive control method 0.048628741627059414
-control method 0.03768313734769608
-fuzzy model 0.03705018450230784
-cstr process 0.03628688491758363
-pid controller 0.03606787378495725
-good control performance 0.034262713685714125
+nonlinear predictive control 0.08238876406966691
+universal approach nonlinear 0.07909325557821135
+nonlinear model recongnization 0.07621854485469519
+nonlinear predictive controller 0.06496288619043947
+linear predictive control 0.06312722661736582
+hammerstein model 0.06293230061669727
+linear autoregressive model 0.05962089205303197
+optimal control 0.05363868720926737
+static nonlinear characteristics 0.05363507567898841
+pid controller 0.04111888968366982
+control method 0.03860200754137931
+cstr process 0.03768002532618798
+hammerstein model predictive control method 0.03750025101980389
+fuzzy model 0.0363636120581671
+good control performance 0.03423195202241841

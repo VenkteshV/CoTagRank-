@@ -1,15 +1,15 @@
-conservation principles 0.06779166914164388
-dg polynomial accuracy 0.05953001223755278
-finite element weak formulation 0.05892660508125384
-polynomial solution 0.05592884592405622
-coefficients 0.05225097392382262
-local basis functions 0.051242968081776114
-piecewise 0.05006284203415982
-accuracy 0.04966490148623239
-shallow water equations 0.04781263939744006
-local discrete cell 0.04763480176276047
-discrete level 0.0459074717331335
-traditional finite volume counterpart 0.03939422192386541
-accuracy information 0.03790691196382233
-dg method 0.03777327463637021
-conservation laws 0.034028249973440915
+conservation principles 0.06896760201665024
+dg polynomial accuracy 0.06163416433354544
+polynomial solution 0.05548862828068922
+finite element weak formulation 0.05439776995801489
+piecewise 0.05215706944979248
+coefficients 0.05119244178942004
+accuracy 0.050132961515193704
+local basis functions 0.05001794256521189
+shallow water equations 0.04796825756415457
+local discrete cell 0.046629438243401385
+discrete level 0.04519530090902707
+dg method 0.038300459587092495
+accuracy information 0.03809701971619138
+conservation laws 0.03595142755740377
+traditional finite volume counterpart 0.035847800016214466

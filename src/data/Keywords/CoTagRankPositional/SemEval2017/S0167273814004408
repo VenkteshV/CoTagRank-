@@ -1,15 +1,15 @@
-miec layer 0.04951637007266792
-thermal tracer exchange 0.04485928141819716
-polarization 0.04281865296035271
-crystalline ysz substrates 0.04198360507121818
-gdc 0.03993248128757538
-rectangular noble metal thin film current collectors 0.0391868551425988
-lateral distribution 0.03729406812095289
-metallic current collector 0.03712103288346182
-enhanced tracer fraction 0.03575095005432762
-stfo 0.03529810719140239
-h218o atmosphere 0.03494410306200414
-low electronic conductivity 0.03434430803728378
-plane diffusion 0.03327629467855556
-oxygen ions 0.03152062595011379
-tracer exchange experiments 0.031488664032953105
+miec layer 0.05113878033233499
+thermal tracer exchange 0.045014156917509006
+crystalline ysz substrates 0.0442104329205389
+polarization 0.041620249786683855
+gdc 0.04140080748625551
+h218o atmosphere 0.037075686717648396
+metallic current collector 0.03698787617950976
+lateral distribution 0.03642263304850184
+enhanced tracer fraction 0.03534471370022965
+stfo 0.03408087891637785
+plane diffusion 0.033358208936183145
+tracer exchange experiments 0.03145004641981655
+oxygen ions 0.030849520511146554
+low electronic conductivity 0.030632238043753653
+thin miec layers 0.029944122714463374

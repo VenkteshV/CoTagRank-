@@ -1,15 +1,15 @@
-information retrieval jun xu microsoft research asia 0.040543129480067726
-train ranking models 0.02884077785598565
-com hang li microsoft research asia 0.026646942135832796
-retrieval models general terms algorithms 0.024702576812970622
-ranking model 0.022349438935178018
-ranking function 0.022222058056647537
-training data 0.02087128222114331
-- weighted training data 0.02069076252599914
-information retrieval 0.018678864621899074
-performance measures 0.017385815112280024
-ranking 0.017273568688740668
-benchmark datasets 0.016273452582375135
-document retrieval 0.016229558553083237
-machine learning 0.01603635985527798
-haidian distinct beijing 0.015941664312293144
+information retrieval jun xu microsoft research asia 0.044234821695556086
+com hang li microsoft research asia 0.03587834254558276
+retrieval models general terms algorithms 0.02675338130660594
+benchmark datasets 0.024958341066662705
+- weighted training data 0.023143268786449102
+train ranking models 0.020869043468367668
+training data 0.018733073439680892
+haidian distinct beijing 0.018630486910939797
+baseline methods 0.017287356806686666
+ranking function 0.01708665825085534
+information retrieval 0.016799110408952263
+ranking model 0.016399300676549298
+cumulative gain 0.015989968727253986
+machine learning 0.015830312720631044
+performance measure 0.01564033581617647

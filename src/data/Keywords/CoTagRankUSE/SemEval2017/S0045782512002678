@@ -1,15 +1,15 @@
-isogeometric analysis 0.048203246105338056
-rigorous theoretical study 0.0463327743796472
-linear algebra solvers 0.043858726960944804
-isogeometric tearing 0.042763677014924235
-theoretical study 0.04172103634241751
-direct solvers 0.041717599884736695
-schwarz methods 0.0410931888376297
-authors 0.0409244337379711
-extensive numerical examples 0.04063679133616672
-finite element methods 0.039480112439589196
-interconnecting method 0.03837539861050747
-numerical tests 0.037433799395095974
-bddc preconditioners 0.03701938355953317
-logarithmic factor 0.036460797325551436
-convergence rates 0.03572750080527344
+linear algebra solvers 0.05635461373402294
+schwarz methods 0.0542345939332245
+finite element methods 0.05344280016397679
+isogeometric analysis 0.052483559581691125
+direct solvers 0.05151523624031741
+rigorous theoretical study 0.049705697798075425
+extensive numerical examples 0.049444072233177386
+convergence rates 0.04853392458644249
+theoretical study 0.04771674429671511
+numerical tests 0.04625922452234364
+logarithmic factor 0.04540343248335407
+interconnecting method 0.03727161511381986
+beirao et al . 0.03718745614077411
+authors 0.03576734743275043
+performance 0.030583320787350106

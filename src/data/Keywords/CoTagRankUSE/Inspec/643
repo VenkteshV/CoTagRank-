@@ -1,15 +1,15 @@
-isotropic resolution 0.037485977749172866
-temporal resolution 0.02950384967866651
-isotropic imaging volumes 0.028964227955419947
-3d projection reconstruction 0.027046022965236956
-3d projection 0.02563495757358622
-resolution 0.025153803205433464
-isotropic field 0.02510515897678923
-time resolution 0.02480344632148707
-projection reconstruction artifacts 0.024793113837683383
-contrast 0.022530354688688855
-space interpolation 0.02230304124983661
-exact contrast timing 0.022240730894125257
-3d mr angiography 0.022216994227279952
-contrast applications 0.021983329784392876
-temporal information 0.02171507226388695
+isotropic imaging volumes 0.04190026194593352
+isotropic resolution 0.03678733077361116
+3d projection reconstruction 0.03651608566973227
+projection reconstruction artifacts 0.032386055209924054
+3d projection 0.030569776953875805
+space interpolation 0.030489128094675494
+temporal resolution 0.02935887513307609
+isotropic field 0.028901960421727196
+3d mr angiography 0.026511781387738
+contrast applications 0.024288087742414168
+fov 0.02410951993096017
+temporal information 0.02410310444376084
+space sampling 0.023581119671160826
+bolus passage 0.02202678232161295
+dynamic information 0.022005109996056583

@@ -1,15 +1,15 @@
-dependent cache invalidation strategies 0.048039434356161245
-cache replacement policies 0.041174804608009555
-cache invalidation 0.039110094114697395
-cache replacement 0.0363732942247103
-conventional replacement policies 0.03379089500407389
-mobile environments mobile location 0.03350597971034476
-dependent invalidation scheme 0.03337637652583425
-dependent data 0.03248734646416439
-replacement strategies 0.032465528408539605
-caching schemes 0.03009586012993454
-conventional replacement 0.030024703914629185
-geometric location model 0.02963181180815127
-policies 0.02896059584322455
-dependent information services 0.02868222638337286
-data value 0.02812988617425427
+dependent cache invalidation strategies 0.056692035920789016
+cache replacement policies 0.04435226179323146
+cache invalidation 0.04135283534466892
+caching schemes 0.0379131644289227
+mobile environments mobile location 0.036502250177195265
+cache replacement 0.03629546305369012
+dependent invalidation scheme 0.033948597745839706
+geometric location model 0.03285000704615949
+dependent data 0.03255259869693007
+conventional replacement policies 0.03247426317591977
+dependent information services 0.03240960701233571
+replacement strategies 0.0324064130101487
+new performance criterion 0.031613451881340585
+data value 0.029637781254120775
+experimental results 0.027800771980808985

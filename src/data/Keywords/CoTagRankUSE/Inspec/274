@@ -1,15 +1,15 @@
-mtd hypermolecule 0.04087647350265883
-mtd 0.03870218639961959
-mtd method 0.03710466465418402
-fragmental hydrophobicity descriptors 0.03495259651626147
-previous mtd models 0.03457221711883662
-enzymatic acetic acid esters 0.03356708339115225
-pls variant 0.03251882777870359
-forces mtd - pls coefficients 0.031898494140484054
-fragmental volume descriptors 0.031511133230611006
-hydrolysis substrates 0.031101578129692352
-significant mtd - pls models 0.029686005645870355
-sar qsar environ 0.029246911376623188
-mapping ligand 0.02907373054173022
-local interactions 0.028006928202953554
-nonoccupancy interpretation 0.027765908077923777
+enzymatic acetic acid esters 0.06326242383166625
+fragmental hydrophobicity descriptors 0.04853086261676453
+mapping ligand 0.04129290749135847
+hydrolysis substrates 0.04071151443226709
+sar qsar environ 0.038183588745367474
+fragmental volume descriptors 0.03432869820966446
+medicinal chemistry 0.03319607890099999
+synthesis planning 0.03303361872723812
+forces mtd - pls coefficients 0.03061553468987224
+mtd hypermolecule 0.03018204617505593
+mtd method 0.028987290602753776
+receptor 0.028309608185689714
+mtd 0.026371200549830925
+previous mtd models 0.02622763086405696
+vertex 0.025769609941136175

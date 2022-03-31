@@ -1,15 +1,15 @@
-active nonlinear microwave circuits 0.036716544261184286
-extended fetd algorithm 0.033870039152546196
-active microwave circuits 0.03383802754345977
-fetd lattices 0.03196709378129908
-microwave amplifier 0.03061282394574659
-anisotropic pml 0.03030103926976133
-element time 0.028870434103363325
-computation time 0.027987131259402553
-fetd 0.027952909161208316
-truncation 0.027856966590280953
-entire propagation bandwidth 0.027764815415393503
-mesh flexibility 0.027651436126211022
-global electromagnetic analysis 0.02682501205934998
-layers 0.02641454016765739
-pml 0.02621218139333325
+active nonlinear microwave circuits 0.04679699310489914
+global electromagnetic analysis 0.03701756075715895
+extended fetd algorithm 0.0365547675033614
+active microwave circuits 0.03626848500429969
+anisotropic pml 0.03599535398030497
+entire propagation bandwidth 0.035910596238278636
+nyquist sampling criterion 0.03559327697610568
+fetd lattices 0.03462818882573594
+microwave amplifier 0.03329483441722211
+computation time 0.02796327057939918
+mesh flexibility 0.027792484473219674
+spatial discretization 0.027232839819334886
+simulation accuracy 0.02646136930234934
+truncation 0.026180064481241765
+element time 0.02574436016668858

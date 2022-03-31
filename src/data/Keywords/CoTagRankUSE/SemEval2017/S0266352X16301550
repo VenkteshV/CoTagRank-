@@ -1,15 +1,15 @@
-finite element method 0.03820859083114524
-interaction factor method 0.035739098401082386
-boundary element method 0.03521521316197785
-conventional pile groups 0.03507489875834466
-settlement ratio method 0.03472942848268097
-finite difference method 0.03455068982726081
-vertical displacement estimation 0.03418530150397675
-pile group 0.03295646072322992
-general pile group 0.032891332229978754
-analytical methods 0.032653443575075075
-displacement interaction 0.032478855358532614
-interaction factor approach 0.0315735383815128
-raft methods 0.03138428890272398
-expedient parametric studies 0.03130419403119328
-design tool 0.03103041339562952
+conventional pile groups 0.04666388019444277
+vertical displacement estimation 0.04306868786450094
+expedient parametric studies 0.04253964797859483
+elastic principle 0.03954672104740371
+finite element method 0.039224366030024056
+analytical methods 0.03864740586871094
+boundary element method 0.03797070558693189
+finite difference method 0.0374291083540069
+settlement ratio method 0.03664231956036522
+interaction factor method 0.035434273530190345
+general pile group 0.033953321960022424
+displacement interaction 0.03330960859825499
+displacements 0.03280652565772036
+mechanical loads 0.032496191982317964
+exhaustive representation 0.03208797869097018

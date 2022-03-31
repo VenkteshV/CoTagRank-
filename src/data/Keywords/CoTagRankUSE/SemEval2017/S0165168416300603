@@ -1,15 +1,15 @@
-basic gcc algorithm 0.029184779936967754
-audio position estimation 0.029006663452645964
-gcc 0.028585585856865735
-src 0.028230117057846907
-audio measurements extraction 0.027481385049400654
-previous src 0.027187032823554898
-component τm 0.026972835845180763
-speaker position 0.026971006609335588
-generalised cross correlation phase transform 0.026890201542459316
-moderate reverberant environments 0.026624912563355363
-phat step 0.02635476263821767
-extended kalman filter 0.026314021223685122
-th microphone pair 0.02625379680960903
-room reverberations 0.026052245784247162
-cumbersome point function estimations 0.026006027037159055
+extended kalman filter 0.04038151213794038
+basic gcc algorithm 0.03894510642867027
+audio measurements extraction 0.03780639587689088
+audio position estimation 0.03709306339062546
+cumbersome point function estimations 0.03563056328117317
+generalised cross correlation phase transform 0.03348660167853903
+gcc 0.03239861516318679
+measure vector 0.031120170896313942
+voice activity detector 0.030748978832055913
+speech segments 0.030600185386872255
+time applications 0.028131951156479058
+component τm 0.027809708841817552
+moderate reverberant environments 0.02732156963843469
+previous src 0.02611548544892332
+speaker position 0.025968759241841707

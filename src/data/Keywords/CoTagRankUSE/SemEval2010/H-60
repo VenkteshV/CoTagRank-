@@ -1,15 +1,15 @@
-idf 0.03542703968287895
-inverse document frequency 0.033897605357915056
-informative assumes disjoint document events 0.03359448497862446
-informative thomas roelleke department 0.0292529562659542
-probabilistic retrieval models 0.02848571124990143
-retrieval models general terms theory 0.028118417081004154
-computer science queen mary university 0.026379658934132272
-retrieved documents 0.02628341803663067
-poisson 0.02565916902173586
-intuitive idf -based probability function 0.025530359224792097
-documents 0.024914803080911374
-frequency 0.024309591567147015
-probability 0.024116839184706085
-document 0.023859677382354054
-query terms 0.02330173488049246
+informative assumes disjoint document events 0.047422228923592824
+retrieval models general terms theory 0.040570410315690905
+probabilistic retrieval models 0.039640220534380245
+inverse document frequency 0.03719823648498825
+computer science queen mary university 0.03020047208326279
+intuitive idf -based probability function 0.030170219153904748
+poisson 0.029005578173600305
+parameter estimation 0.02826249622403166
+informative thomas roelleke department 0.027402981178367
+theoretical investigations 0.026913199634318794
+query terms 0.02510668202362213
+frequency 0.024978130020125982
+successful parameters 0.02422813530254431
+probability 0.023776187842572644
+numerous applications 0.02183258484641076

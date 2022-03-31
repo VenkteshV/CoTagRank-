@@ -1,15 +1,15 @@
-vehicle dynamic tyre model 0.037150694031215584
-experimental tyre 0.03496174760858305
-tyre forces 0.03493158483295131
-standard tyre interface 0.03340010917467026
-tyre model 0.032820919283196186
-appropriate tyre 0.030983080045218027
-state tyre characteristics 0.0306798627355285
-heavy truck 0.02657515186384144
-vehicle dynamic simulation 0.026172726049934692
-vehicle dynamics 0.02586047117924329
-underlying experimental values 0.024253335436731818
-experimental data 0.023716431464970704
-passenger car 0.023225417545087924
-effective forces 0.023057435164288397
-practical relevant applicability 0.022882904048742478
+vehicle dynamic tyre model 0.04577314416989031
+standard tyre interface 0.03835782739418762
+state tyre characteristics 0.0350596713844142
+experimental tyre 0.033885489299616114
+vehicle dynamic simulation 0.03364725138074854
+tyre forces 0.03349231253860544
+tyre model 0.03300797386612438
+vehicle dynamics 0.030885520593342417
+appropriate tyre 0.028832659939140824
+underlying experimental values 0.02717792727924216
+tyres 0.02678784795510938
+passenger car 0.02495029004065545
+heavy truck 0.024538994727715317
+vehicles 0.024411616472722376
+practical relevant applicability 0.02438200812576272

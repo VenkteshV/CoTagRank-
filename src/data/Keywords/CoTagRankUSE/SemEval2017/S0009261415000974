@@ -1,15 +1,15 @@
-global potential energy minimum 0.05667801940380462
-approximate global free energy minimum 0.054284599924147435
-energy minima 0.052453839636926465
-potential energy minimum 0.052005181479403584
-potential energy 0.04487554976759605
-potential energy spacing 0.044204157829908074
-global minimum 0.04219156675702075
-free energy 0.04162880176264509
-relevant minima 0.03889721088595584
-harmonic approximation 0.03858838016213518
-crossover temperature 0.0376133836739898
-harmonic prediction 0.03656592775164553
-alanine dipeptide 0.035456644594735943
-solvent model 0.034828763337419875
-minima is(4)k\. 0.034070394225065095
+energy minima 0.06052651070742711
+global potential energy minimum 0.056016383589091535
+approximate global free energy minimum 0.053994730699829296
+crossover temperature 0.053020043804916456
+potential energy minimum 0.052995508567660915
+harmonic approximation 0.05160282231880105
+potential energy 0.04714581181025918
+minima is(4)k\. 0.04554566080944853
+relevant minima 0.045246179216113284
+potential energy spacing 0.04497796041666785
+solvent model 0.04361078395233255
+harmonic prediction 0.04354845075991436
+alanine dipeptide 0.04294249101433105
+temperatures 0.042389451731046836
+free energy 0.039606138764548965

@@ -1,15 +1,15 @@
-fine resolution terrain data 0.03044150645987781
-terrain elevation data 0.027976204325608225
-terrain digital data 0.027949770499123193
-terrain data 0.02623871494480022
-terrain data processing 0.024462619591968902
-terrain data bases 0.023736568339218347
-srtm data 0.022220015125619753
-geodetic data transformation method 0.021971360705198537
-wgs84 data 0.02192783665154014
-geodetic coordinate system 0.01925157491857026
-original data 0.01900767748366925
-digital elevation model 0.018831087192173166
-data holes 0.018643937243304265
-fine scale wind model 0.018549037384239644
-data 0.018258994091498195
+terrain data 0.02800555985690316
+fine resolution terrain data 0.027967781874533852
+terrain digital data 0.02796478784240089
+terrain elevation data 0.02794669523197274
+terrain data processing 0.027310853429369012
+terrain data bases 0.026164633747639183
+digital elevation model 0.02550910980017289
+geodetic data transformation method 0.024200903186199232
+geodetic coordinate system 0.023913427050389013
+60n latitudes 0.0224915539131263
+fine scale wind model 0.021997801957477605
+world geodetic system 0.021672112684917942
+wgs84 data 0.02116188590085903
+usgs 0.021118015028566348
+cartesian coordinate system 0.021058040804454163

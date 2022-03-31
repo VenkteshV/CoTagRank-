@@ -1,15 +1,15 @@
-diffusion trajectories 0.0351279432550507
-adjoint diffusion equation 0.03432372183431153
-isotropic diffusion 0.03110314742687099
-convective velocity 0.030385894256535276
-diffusion equation 0.02918123538466914
-euler scheme 0.026022773681985724
-directional derivative 0.02552931994144106
-trajectories 0.024890222469647637
-concentration derivatives 0.0248067248770076
-initial coordinate 0.02411640160373753
-weighted concentration 0.023744923595884627
-parallel modelling 0.02348716812431273
-velocity 0.023422011880242954
-equivalent transition 0.02326355441848009
-direct differentiation 0.02301804084146524
+adjoint diffusion equation 0.04390974691937642
+convective velocity 0.03675590112272974
+diffusion trajectories 0.0358219085680115
+isotropic diffusion 0.035033800234769076
+euler scheme 0.03232063138190455
+diffusion equation 0.030087636913778585
+directional derivative 0.02994093120465402
+direct differentiation 0.02800882391867891
+boundary value problem 0.027874040680923973
+concentration derivatives 0.027642071283758434
+parallel modelling 0.026464571216502836
+estimation 0.02632379092839039
+space derivatives 0.026156487757929444
+weighted concentration 0.025862453141927734
+initial coordinate 0.025722136361915386

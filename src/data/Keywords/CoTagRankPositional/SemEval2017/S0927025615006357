@@ -1,15 +1,15 @@
-extensive finite element analyses 0.05801046547594971
-crystal plasticity constitutive model 0.054464987899617706
-cyclic test data 0.053522138391249585
-cyclic deformation behaviour 0.05124523112610542
-finite element package abaqus 0.04876285053123271
-material subroutine 0.04739280396547204
-crystal plasticity umat 0.04589281342261149
-finite element model 0.0409609282659813
-model parameters 0.03715988960784088
-cyclic deformation 0.03456985378752461
-material 0.03264556746317278
-crystal plasticity model 0.032494024767278716
-stress relaxation 0.03232193297536468
-realistic material microstructure 0.031334684632343776
-xfem technique 0.029927250373643462
+extensive finite element analyses 0.05437748523121931
+cyclic test data 0.053074130268615044
+cyclic deformation behaviour 0.052330097702036074
+crystal plasticity umat 0.05181458893653096
+crystal plasticity constitutive model 0.04963586587849524
+material subroutine 0.04918486462101851
+finite element package abaqus 0.04778639096890063
+cyclic deformation 0.03895523861567727
+finite element model 0.03712850078244128
+model parameters 0.03626683090362388
+stress relaxation 0.03298119998920785
+crystal plasticity model 0.03220211438718282
+material 0.031227377442122554
+xfem technique 0.03122301036362136
+fracture criterion 0.031068313515030095

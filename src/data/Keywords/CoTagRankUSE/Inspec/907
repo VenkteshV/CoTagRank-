@@ -1,15 +1,15 @@
-architecture precision motion control 0.055625221715044804
-constituent control components 0.046436045909638
-hardware architecture 0.04088534213183816
-motion control system 0.03998410498530476
-overall control system 0.03977515564489127
-architecture precision 0.03923743444465239
-instrumentation components 0.03728891812357732
-precision composite controller 0.036794541862584136
-control system 0.03655881939480976
-software development platform 0.03634480339166545
-control 0.036031077100720316
-components 0.0341205916117011
-development 0.03325152111546914
-servo systems 0.03312365968439355
-linear motors 0.0325287573296834
+architecture precision motion control 0.06723963324823118
+constituent control components 0.052677426528258714
+software development platform 0.04553011810874688
+instrumentation components 0.04510108955818008
+precision composite controller 0.04501703521383543
+hardware architecture 0.0435789716208617
+servo systems 0.04054676259240525
+motion control system 0.03997846562972663
+overall control system 0.039314305995917065
+linear motors 0.03892716802297566
+architecture precision 0.035667863682798
+user interface 0.033584258132467806
+components 0.03356636917126139
+control system 0.03308076192413452
+development 0.03194844796014203

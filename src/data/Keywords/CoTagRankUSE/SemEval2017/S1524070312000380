@@ -1,15 +1,15 @@
-nurbs basis functions 0.03521176872645401
-nurbs parameterizations 0.02764892124041369
-nurbs surfaces 0.02696255798262323
-test functions 0.026605433039029888
-nurbs 0.02625732392686406
-regularity properties 0.02618864252874504
-nurbs volumes 0.026059303381526726
-partial differential equations 0.025695845067496965
-dimensional domains 0.02506797221278767
-isogeometric analysis 0.02411835687879676
-physical domain 0.023958463789728282
-insufficient regularity 0.02361730591899922
-computational domains 0.02274285537557831
-domain parameterization 0.022612541460382968
-dimensional spaces 0.02260931666307222
+nurbs basis functions 0.03668073536393862
+tensor 0.03616111907588841
+computational domains 0.03471155683946368
+partial differential equations 0.033062828015837036
+dimensional domains 0.032715018557218534
+function space 0.0319936770942527
+numerical simulation method 0.03120033740731231
+nurbs surfaces 0.030843991004127387
+regularity properties 0.03039541111709501
+isogeometric analysis 0.029872418955069122
+physical domain 0.029665585381241567
+dimensional spaces 0.0283939991290105
+product structure 0.028308102116603492
+singularities 0.02809267087722319
+numerical methods 0.027948914741039634

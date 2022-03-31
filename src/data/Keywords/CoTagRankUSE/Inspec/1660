@@ -1,15 +1,15 @@
-conjugate gradient methods 0.0803891690327414
-classical conjugate direction methods 0.07666339766772265
-regularized conjugate gradient method 0.06851551735041642
-symmetric positive definite matrix 0.06442091469930586
-linear equations 0.06053866449180846
-symmetric positive definite system 0.0602395826959772
-coefficient matrix 0.054615121345061544
-methods 0.05450674285171957
-new methods 0.05334298256577999
-numerical computations 0.052683541754155745
-convergence properties 0.05225805881958095
-classical relaxation 0.050897871466009596
-large sparse system 0.04922911004694257
-parameters 0.046135315915343436
-depth 0.044337465018058644
+regularized conjugate gradient method 0.0887391831703381
+classical conjugate direction methods 0.07859674953325242
+conjugate gradient methods 0.07682190674470163
+symmetric positive definite matrix 0.07057741518913672
+symmetric positive definite system 0.06566619410063758
+linear equations 0.06396441065231802
+coefficient matrix 0.0582768507273553
+numerical computations 0.05681041338323667
+convergence properties 0.0563453615811592
+methods 0.048731521853478205
+classical relaxation 0.0479668863801654
+new methods 0.047068052704672604
+large sparse system 0.04415542663450104
+parameters 0.043698187521206786
+depth 0.04028293490961123

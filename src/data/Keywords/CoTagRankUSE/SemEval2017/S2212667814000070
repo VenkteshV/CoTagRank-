@@ -1,15 +1,15 @@
-time rotation face detection architecture 0.04307736158772175
-face detection device 0.03667769271347998
-face detection 0.034959999884477386
-overlay processor 0.0326517514763423
-image resizer 0.03253578493153701
-color overlay processer 0.03241649290618394
-image scaler 0.031993368033354334
-image rotator 0.031265396860593236
-color space converter 0.030903733169190845
-confidence mapper 0.030014503084986505
-confidence switch 0.029061527978014524
-memory controller interface 0.028849072830070786
-smart tv 0.02855124807762341
-gesture recognition 0.028507521229614575
-hardware structure 0.028062379952022626
+time rotation face detection architecture 0.04895143032979639
+face detection device 0.0450643858409498
+face detection 0.04306667671193742
+overlay processor 0.042644290019818176
+smart tv 0.037044244475844
+color space converter 0.03684169613500468
+confidence mapper 0.03615302760759152
+color overlay processer 0.03583883031497218
+memory controller interface 0.0351697078250163
+gesture recognition 0.03422930488077515
+hardware structure 0.0336053909876428
+time processing 0.03331271688233402
+algorithm 0.032020479929457515
+image rotator 0.031550512839554165
+high performance 0.030080264370544767

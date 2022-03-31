@@ -1,15 +1,15 @@
-time temporal logic ctl 0.02378377012795041
-standard epistemic logic 0.02152094609562998
-modal logic general terms theory 0.021402528441242828
-new logic ctlkp 0.020509817087828338
-plausibility 0.018418894962668804
-plausible behavior 0.018019881931348385
-plausibility assumptions 0.017520838784165334
-plausibility update operator 0.017124872265594622
-ctlk 0.0169089238105043
-modal logics 0.016851697392408955
-knowledge representation formalisms 0.016504164900935425
-logic 0.01639472832112271
-computation tree logic 0.01639002384473755
-counterfactual reasoning 0.016321716480536933
-particular notion 0.015999552751574355
+modal logic general terms theory 0.03602279388730746
+standard epistemic logic 0.031071620934623716
+modal logics 0.02391704811820952
+time temporal logic ctl 0.023739122110395708
+de abstract logics 0.022923947579305232
+counterfactual reasoning 0.02159868818623816
+plausibility update operator 0.021173980586798653
+knowledge representation formalisms 0.019540865723233127
+computation tree logic 0.0192604818838793
+new logic ctlkp 0.01897385243469417
+plausibility assumptions 0.01877764170684758
+plausible behavior 0.01716712383824741
+underlying idea 0.01703786529485074
+particular notion 0.01638359309270466
+informatics 0.01632975228694283

@@ -1,15 +1,15 @@
-telephone digit string recognition 0.02792769297807209
-vocal tract normalization 0.02696239577525321
-scale factor 0.02537966351525162
-vtn 0.024897465514750097
-speaker adaptive modeling 0.024808753468010914
-german spontaneous speech task verbmobil 0.024612470102724403
-vocal tract 0.02373321690769015
-recognition phase 0.02344702470513429
-first recognition pass 0.02340788903486865
-scale factors 0.023161694480408137
-recognition performance 0.023109735849472953
-recognition 0.022712995712329032
-mixture densities 0.022407164136436456
-error rates 0.022014552900629827
-training speakers 0.02197460229460441
+vocal tract normalization 0.0404885516076694
+speaker adaptive modeling 0.03705492504611768
+non - normalized acoustic model 0.03616131076283152
+german spontaneous speech task verbmobil 0.03031895402054678
+telephone digit string recognition 0.027425347041190228
+vocal tract 0.026922892276586168
+frequency axis 0.026372383499111692
+single gaussian 0.025764536686054804
+normalized model 0.024933050982656517
+training speakers 0.02461001648042866
+acoustic models 0.024267810362952773
+mixture densities 0.023591210856587122
+scale factors 0.023289930090492177
+normalization 0.0225036896675475
+recognition performance 0.02246786349724631

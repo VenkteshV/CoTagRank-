@@ -1,15 +1,15 @@
-dense constraint satisfaction programs 0.04033655737374775
-property testers 0.038104651246662055
-constraint satisfaction problems 0.03572898449062459
-constraint satisfaction problem 0.033960571271254535
-dense instances 0.031125323898012387
-finite domains many np 0.030689331205823484
-constant query complexity 0.030087982570700247
-constant arity 0.02946753179231476
-property 0.02820187130765822
-many graph problems 0.02797422576787864
-constant number 0.027082233738558028
-boolean domains 0.026738544408789686
-finite size 0.026586364059909547
-special cases 0.025636636675386727
-probabilistic algorithms 0.02562769481962881
+dense constraint satisfaction programs 0.05388926239656945
+finite domains many np 0.04381948572782848
+constant query complexity 0.043381971356176746
+constraint satisfaction problem 0.039643884988143335
+constraint satisfaction problems 0.039090998374097546
+probabilistic algorithms 0.038471676745773814
+boolean domains 0.03371705740756901
+finite size 0.030568326188084315
+constant arity 0.02950933960325338
+many graph problems 0.02908593750481917
+property testers 0.029033022228135145
+dense instances 0.028959193660757877
+constant number 0.027801129386784328
+high probability 0.027440528389873854
+special cases 0.026882477567758724

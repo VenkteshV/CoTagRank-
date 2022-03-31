@@ -1,15 +1,15 @@
-induced thermoacoustic tomography 0.05322280738212086
-thermoacoustic tomography 0.049335830859501245
-microwave absorption distribution 0.046385555949387196
-unfocused ultrasonic transducer 0.04441450045522481
-microwave pulses 0.0435524107805381
-spherical surface 0.04253189693670847
-geometry reconstruction 0.04142155547305437
-thermoacoustic waves 0.0408060714399302
-exact reconstruction solution 0.04069794345284544
-microwave 0.03943842912066379
-domain reconstruction 0.03879819806627947
-biological tissue 0.037711444584925334
-reconstructed images 0.03671660706100388
-original samples 0.03665485052592296
-backprojection algorithm 0.036487787151995306
+unfocused ultrasonic transducer 0.06493429474742693
+induced thermoacoustic tomography 0.06465885433605037
+microwave absorption distribution 0.055788841164136974
+thermoacoustic tomography 0.051425834582670395
+microwave pulses 0.044090764835698
+biological tissue 0.041047839554863935
+time 0.04084323633602559
+backprojection algorithm 0.04049931089293497
+geometry reconstruction 0.040235706658111436
+spherical surface 0.040080572950839236
+reconstructed images 0.03910569493554532
+exact reconstruction solution 0.03737539109712719
+sufficient data 0.03575935022323044
+domain reconstruction 0.03560719285020215
+experiments 0.03533954611461475

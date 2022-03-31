@@ -1,15 +1,15 @@
-probabilistic stability 0.052200849035872104
-square exponential stability 0.05089401771932617
-random jumps 0.0468992341486661
-square stability 0.046585744977016
-stochastic systems 0.04569622560780477
-respective deterministic systems 0.04348935316397462
-stability 0.042427196555794515
-random jump 0.0418786159760091
-nonlinear systems 0.04136858449797044
-structure linear systems 0.04031110706321258
-phase trajectory 0.03888204126455523
-perturbed motion 0.03746207140036602
-applied approach 0.036274801566596314
-first approximation 0.03597626532132594
-general markov process 0.03568637243015479
+square exponential stability 0.057763702558632626
+probabilistic stability 0.05538007439965996
+respective deterministic systems 0.05535982109649953
+general markov process 0.05153195698284668
+stochastic systems 0.051352304448746694
+nonlinear systems 0.04566632099688621
+structure linear systems 0.0431333793778868
+square stability 0.04232514154187764
+phase trajectory 0.042117116798461245
+random jumps 0.041096159309397445
+first approximation 0.041040974209412315
+random jump 0.03989458290871281
+applied approach 0.038108429543713886
+stability 0.03506710829793664
+perturbed motion 0.03489852035930631

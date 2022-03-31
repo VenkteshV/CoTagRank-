@@ -1,15 +1,15 @@
-vibronic coupling model 0.03454851754495013
-adiabatic potential surfaces 0.03400501160607261
-diabatic potential energy surfaces 0.03287852808334286
-vibronic coupling models 0.0326974231432563
-symmetric irreducible representation 0.031726858245636314
-model hamiltonian 0.030898425593767313
-appropriate symmetric geometries 0.029804396326791313
-analytic model potentials 0.02959306868115549
-true hamiltonian 0.029415421309699916
-simple polynomial expansion 0.028599793020592675
-inversion groups 0.028364650434235295
-expansion coefficients 0.02757180493760946
-potential operator 0.02696649020339053
-static studies 0.026906984881708625
-non - adiabatic systems 0.026764327210612456
+model hamiltonian 0.040016897847052785
+vibronic coupling models 0.03982527262029987
+vibronic coupling model 0.03913202925714271
+symmetric irreducible representation 0.03708070185122116
+analytic model potentials 0.03631144151652103
+eigenvectors 0.03597511664693436
+true hamiltonian 0.03487639937052467
+appropriate symmetric geometries 0.034298032391529676
+adiabatic potential surfaces 0.033863075877561453
+eigenvalues 0.033803889514890884
+diabatic potential energy surfaces 0.03363168456071076
+electronic structure calculations 0.03341455766256528
+non - adiabatic systems 0.03320139730328863
+simple polynomial expansion 0.03300656166923902
+expansion coefficients 0.03206119178005855

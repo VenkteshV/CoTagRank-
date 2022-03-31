@@ -1,15 +1,15 @@
-new high resolution color flow system 0.045111577926831084
-high frequency color flow 0.044798011494429954
-clutter rejection filter 0.04200379904298728
-color flow images 0.041812844222779824
-tissue motion profile 0.04148602661255409
-clutter filter 0.04122725037133298
-blood flow 0.04072104626556763
-external tissue motion 0.04009012332156883
-clutter rejection 0.03950601781625954
-clutter ratios 0.039350596620552125
-new signal processing strategy 0.038393443517772165
-adaptive filter 0.037324769068572135
-blood velocity estimates 0.03697507091373279
-tissue environments 0.036658766577208166
-high blood 0.03624424429141683
+new high resolution color flow system 0.06286733831549128
+high frequency color flow 0.05216701398312901
+tissue motion profile 0.04932024288303055
+color flow images 0.04780157238706383
+new signal processing strategy 0.047346796133612284
+external tissue motion 0.04437575570626978
+adaptive filter 0.04126448928455902
+scan signal model 0.04095028092451133
+tissue environments 0.03929396857097152
+blood velocity estimates 0.03915891329630916
+clutter filter 0.03692010318924889
+clutter ratios 0.03682681978345722
+blood flow 0.03621217702859771
+clutter rejection filter 0.035802588257109594
+velocity estimation strategies 0.03435035191164207

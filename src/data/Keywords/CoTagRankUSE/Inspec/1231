@@ -1,15 +1,15 @@
-data parallel programming 0.024733210943437944
-memory execution model 0.024681520796198866
-memory parallelization 0.024088209569068906
-shared memory 0.023774485943779122
-memory machines 0.023048532185284472
-memory accesses 0.022266127051639353
-high performance fortran 0.021929185070850666
-scalable smp 0.021925435433237918
-efficient parallel programming 0.021619394469922032
-non - uniform memory access times 0.02158729589112775
-parallel programming 0.021416908677127797
-data distribution directives 0.021363250965952305
-thread parallelism 0.02116811532252634
-memory systems 0.020795122198581244
-data locality 0.0205398843807366
+efficient parallel programming 0.031696103777205414
+non - uniform memory access times 0.031055572307477918
+high performance fortran 0.02831919876157169
+memory execution model 0.02724407091028485
+memory parallelization 0.026460020869051065
+data parallel programming 0.0261446700223564
+thread parallelism 0.02614307375165198
+performance fortran open\. mp 0.02408134386738788
+synchronization overheads 0.023915293655133264
+optimized execution model 0.022986454538705257
+scalable smp 0.022952833727980335
+parallel programming 0.022920436647271128
+memory accesses 0.02290443767463696
+memory machines 0.021310208154926562
+memory systems 0.021161951913171453

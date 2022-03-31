@@ -1,15 +1,15 @@
-monocular color traffic image sequences 0.03127768625342412
-cast shadow 0.0292718566108501
-monocular color traffic image 0.02895228414598115
-vehicle edge pixels 0.026956346118034016
-shadow detection 0.026361147034354777
-inaccurate vehicle segmentation 0.026314475101626697
-shadow 0.024764587928644465
-vehicle region 0.02355246201749986
-vehicle images 0.022704659358043097
-erroneous scene analysis 0.022246367763444345
-edge pixel 0.02204954134110152
-edge map 0.0220357425714167
-vehicle 0.02202609136575254
-stationary background 0.021071476873445447
-gradient density 0.02102965737797905
+monocular color traffic image sequences 0.047684686943744184
+monocular color traffic image 0.04159133251170376
+inaccurate vehicle segmentation 0.028430536326187666
+gradient density 0.027536614778289864
+vehicle edge pixels 0.02685117761914759
+erroneous scene analysis 0.025365311858796088
+shadow detection 0.02507427260628584
+neighboring scss 0.024412080305817607
+luminance 0.024380265589558928
+stationary background 0.024119054455388707
+high scss 0.022790549625600526
+edge map 0.022480722232076557
+robust segmentation 0.022419451775390987
+edge pixel 0.022003381145821347
+different lighting conditions 0.02187542172287216

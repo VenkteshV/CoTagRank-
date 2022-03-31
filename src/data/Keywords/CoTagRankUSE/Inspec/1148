@@ -1,15 +1,15 @@
-electron beam dose calculations 0.030841183503934857
-dose calculations 0.02814975938573991
-dpm calculations 0.027224515159675458
-central axis depth dose 0.027014781332183095
-air ion chamber measurements 0.026486420332655598
-monte carlo calculations 0.026090174613472274
-scanditronix type rk ion chamber 0.024958729487565987
-depth dose 0.02460153704485125
-dpm code 0.023878870806284758
-monte carlo code 0.023815676034873008
-dose planning method 0.02335986584916881
-dpm 0.02327594423827064
-dimensional beam profile 0.02312732269892254
-racetrack microtron 0.022594693944060478
-electron beams 0.02252389329564442
+scanditronix type rk ion chamber 0.04211657246386351
+air ion chamber measurements 0.036553065385512645
+electron beam dose calculations 0.036540143532598865
+central axis depth dose 0.03643532619378964
+dose calculations 0.02796772127952154
+monte carlo calculations 0.027375323374023198
+dpm calculations 0.026823122244960453
+air spatial distributions 0.026725628545152154
+dimensional beam profile 0.025394257633434496
+source spatial distributions 0.02535872340807111
+energy spectra 0.024689358633766718
+dose planning method 0.02373458239499147
+depth dose 0.02326867688967928
+electron beams 0.021761994268199764
+calculations 0.021405202197149517

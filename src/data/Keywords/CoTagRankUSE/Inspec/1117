@@ -1,15 +1,15 @@
-automatic attack construction algorithm 0.028992464367025808
-strand space model 0.02773500016118547
-data subterms 0.027338279307330664
-original strand space model 0.026926244452317043
-protocol execution parameters 0.0246841672169268
-protocol execution 0.024410103494332636
-subterms 0.024163625477192106
-finite state space 0.023937593450890526
-granularity model 0.023855543182984985
-attack patterns 0.023583030719489074
-security protocols 0.023582542348275316
-yao protocol 0.023489963416421882
-attack 0.02303855662978457
-check subterms 0.022731859306044357
-new attack 0.022704850420748806
+automatic attack construction algorithm 0.042142466998486804
+protocol execution parameters 0.03358791480585578
+exact causal dependency relations 0.029935112154841934
+strand space model 0.02970727365139028
+granularity model 0.029285726130701933
+asynchronous composition 0.028651253880865923
+security protocols 0.028416895316487098
+original strand space model 0.02832367974742147
+yao protocol 0.028098444021135566
+protocol execution 0.02779446937691671
+finite state space 0.027392813790931263
+active nodes 0.02672830439871513
+data subterms 0.02593000726631057
+incremental manner 0.02547832421692164
+explicit configuration 0.025365282518775848

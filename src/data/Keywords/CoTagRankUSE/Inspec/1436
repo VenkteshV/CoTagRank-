@@ -1,15 +1,15 @@
-beam projection data 0.02820271833770847
-phantom data 0.025883734746253117
-polyhedral phantom analytical phantoms 0.02532761106378205
-phantom cone 0.02455678315256371
-projection data 0.023127441093425877
-phantom 0.02193870204612039
-linear attenuation coefficient 0.021471906865815044
-modelled detector array 0.021150329597294334
-projection angle 0.02113189951010275
-microtomographic reconstruction 0.0210208971210876
-tomographic cone 0.020967879874230204
-circular source 0.020691195937304216
-projected polygon 0.020568782869895764
-insufficient data 0.020561497869055218
-axial tomography 0.020254214321129525
+polyhedral phantom analytical phantoms 0.038134881217528595
+beam projection data 0.03415599652779185
+modelled detector array 0.03188180124625146
+linear attenuation coefficient 0.030701785137704326
+alternative scanning loci 0.030240355411373654
+axial tomography 0.028098480641640132
+projected polygon 0.02627886187937561
+projection data 0.02438429880555685
+simple geometric form 0.02316884456443801
+phantom data 0.022878972558692902
+projection angle 0.022743749041327702
+polyhedra 0.022464692566417928
+complex surfaces 0.021882898931648295
+detector plane 0.021702920567359937
+polyhedron 0.021645605354195234

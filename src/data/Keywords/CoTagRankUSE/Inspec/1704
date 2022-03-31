@@ -1,15 +1,15 @@
-overall image mse 0.027633369983795578
-image reconstruction algorithm 0.025258503931225626
-image bias 0.02500186616601277
-inverse image reconstruction problem 0.02489981649091759
-minimum regularization parameter 0.02483553434121831
-high regularization parameter values 0.024524442277248655
-bias error dominates 0.02336704400193485
-light flux measurements 0.022993758077894447
-test image 0.022967085814286015
-nir tomography 0.022624569716431762
-regularization parameter 0.022123289606821236
-projection error solution 0.021832631711054498
-image 0.02168462024597991
-light flux 0.020675535445024592
-squared error 0.020609798188741413
+high regularization parameter values 0.030623797379896858
+light flux measurements 0.03040465673976002
+optical diffusion model 0.029933312546986574
+nir tomography 0.029720793148784338
+statistical analysis 0.02887377546158031
+inverse image reconstruction problem 0.02768730942522038
+minimum regularization parameter 0.02689797840203309
+image reconstruction algorithm 0.02661418762538984
+overall image mse 0.02505604700266747
+exogenous chromophores 0.02489656029403882
+regularization parameter 0.02401012721346079
+projection error solution 0.023668926347304862
+standard deviation 0.02350782859161496
+spatial property values 0.023280492089587112
+tomography 0.022666940564513537

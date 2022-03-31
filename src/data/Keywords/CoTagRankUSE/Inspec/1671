@@ -1,15 +1,15 @@
-cane transport scheduling problem 0.04762851659570016
-cane railway scheduling 0.046452615917807666
-cane transport 0.04245256855139271
-cane railways 0.03614888392503667
-scheduling system 0.031099745517745327
-heuristic labelling order 0.02935021648494497
-constraint logic programming 0.029301974966723224
-total manufacturing costs 0.029254048049057492
-significant cost savings 0.029218499849329664
-efficient schedules 0.029161148519613912
-constraints strategies 0.02885201450063902
-labelling order 0.02855241268493857
-life application 0.02847374448048192
-efficient tool 0.028250280173231626
-constraints 0.027890758128600368
+cane railway scheduling 0.06372326612972305
+cane transport scheduling problem 0.05688744593458327
+cane transport 0.038622507601916545
+cane railways 0.038618333376619775
+efficient schedules 0.03507745672847933
+total manufacturing costs 0.03410323637088849
+heuristic labelling order 0.0337737963054873
+constraint logic programming 0.03308794911234507
+significant cost savings 0.032043695696176315
+scheduling system 0.031706236016560176
+rescheduling tasks 0.03132887483932628
+constraints strategies 0.030796087977710204
+efficient tool 0.02883517133248157
+development costs 0.02814379253371619
+logic programming 0.027391034563156728

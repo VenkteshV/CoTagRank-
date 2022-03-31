@@ -1,15 +1,15 @@
-chip temperature fields 0.03776249653771235
-chip temperature 0.0366939727284635
-chip contact zone 0.034510078663930174
-chip thickness 0.03329271110229826
-transient temperature evaluation 0.0321421481205602
-state temperature prediction 0.03167280211987058
-experimental temperature measurements 0.031117615756601533
-chip 0.03086263888781472
-continuous machining 0.030434719396313273
-temperature distribution 0.03041242001032568
-rake face contact zone 0.030381397792876092
-stationary tool 0.028798494048045756
-orthogonal cutting 0.028507926772578636
-shear energy 0.02820176101327399
-friction energy 0.02759563998019165
+transient temperature evaluation 0.042019470444404454
+experimental temperature measurements 0.04022939053857493
+chip temperature fields 0.039376473861489916
+state temperature prediction 0.03790237923341049
+varying milling processes 0.036401121801713954
+temperature distribution 0.03354592883038128
+chip thickness 0.03353427221972867
+chip temperature 0.033142751002367514
+shear energy 0.032880267612012765
+continuous machining 0.032393899913579445
+orthogonal cutting 0.0321351709588425
+finite difference method 0.030678035210147774
+friction energy 0.03066392368079663
+numerical model 0.030584175800560873
+heat balance 0.030565666279903335

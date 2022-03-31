@@ -1,15 +1,15 @@
-boundary element design sensitivity analysis 0.05394732925335602
-dimensional optimum design 0.050664081991703136
-optimum design 0.04993896552181744
-design sensitivity analysis 0.048456844401185264
-cavity temperature distributions 0.045942992661180196
-objective temperature 0.043548526623488674
-design variables 0.04332088059318632
-sensitivity formulations 0.04031954847923448
-boundary element method 0.040304603152056556
-injection moulding 0.03997500363691301
-objective function 0.039498238398399235
-dimensional numerical simulation 0.03924255705510345
-lines 0.039030756161576266
-injection moulds 0.038757103876781024
-optimization techniques 0.038332913474575354
+boundary element design sensitivity analysis 0.06401337729972437
+cavity temperature distributions 0.05945585524424499
+dimensional optimum design 0.05189997996704613
+design sensitivity analysis 0.051718226872535134
+optimum design 0.045586979519718025
+objective temperature 0.04519984187988992
+dimensional numerical simulation 0.044717855774302984
+design variables 0.043619679615207116
+optimization techniques 0.043363147070264424
+sensitivity formulations 0.041933566833427506
+injection moulding 0.04164086665708027
+boundary element method 0.0399567107026516
+iterative algorithm 0.03788371132791694
+radii 0.03783670383639822
+objective function 0.03717571803336391

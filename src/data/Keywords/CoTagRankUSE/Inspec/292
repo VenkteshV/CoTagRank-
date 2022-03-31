@@ -1,15 +1,15 @@
-earshell vibration control active noise 0.03993634993979342
-earshell vibration control 0.033047986666546625
-novel anr headset 0.029691431640064107
-active noise control 0.0290259929241284
-novel active noise 0.027756067982794425
-broadband noise reduction 0.02616610410405804
-external noise 0.025744187920890584
-laboratory headset 0.02470169712073112
-vibration 0.024245516935952956
-earshell 0.02385392109481286
-noise 0.02369395253379253
-current piezoelectric actuators 0.023584539362492822
-headset 0.023122342828743363
-low frequencies 0.022319097451053996
-control simulations 0.02200065228111345
+earshell vibration control active noise 0.04095879665845053
+novel anr headset 0.037703881062592495
+novel active noise 0.03385510237094214
+earshell vibration control 0.031694015115067274
+current piezoelectric actuators 0.0316650417053487
+laboratory headset 0.030718997737803788
+active noise control 0.027412283940250793
+robust feedback controller 0.027387546260829128
+passive attenuation 0.025892999918825068
+consumer audio 0.025600700588515043
+broadband noise reduction 0.024770795367203266
+loudspeaker 0.024471267391871755
+external noise 0.024302604458497093
+velocity feedback 0.02370445992716697
+headset 0.02308432120371182

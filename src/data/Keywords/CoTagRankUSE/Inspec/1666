@@ -1,15 +1,15 @@
-rigorous airline base schedule optimisation 0.053518180427569506
-logical aircraft schedule optimisation 0.05065786696848372
-airline base schedule optimisation 0.049324083265271004
-schedule optimisation 0.04517766995751041
-passenger traffic allocation 0.03633668569106506
-simulated annealing 0.03382739121642584
-flight networks 0.03373060235780535
-problem structure 0.03366309478599302
-schedule 0.033569433371729664
-flight network 0.033229750605125674
-feasibility preserving 0.03259244116318899
-operators 0.03227793581911231
-passenger choice 0.03201499879070237
-master problem 0.0319666963829524
-architecture 0.031940868760260366
+rigorous airline base schedule optimisation 0.0659706957601593
+airline base schedule optimisation 0.06435509855064356
+logical aircraft schedule optimisation 0.057117456122963185
+passenger traffic allocation 0.045066816725768066
+schedule optimisation 0.04017116060614369
+flight networks 0.037915823148041025
+flight network 0.03661653552649249
+feasibility preserving 0.03493347565887497
+problem structure 0.0318210610012753
+simulated annealing 0.031609186836539425
+operators 0.031302960384225906
+hierarchical consisting 0.031083968628303444
+evaluation 0.030298425443293586
+architecture 0.030251785924396545
+simulation 0.029842272996259602

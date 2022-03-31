@@ -1,15 +1,15 @@
-quantitative speed control 0.03797347509783368
-robust speed control 0.037154059524306005
-speed control scheme 0.03484798180131873
-prescribed control specifications 0.03406795322666446
-srm drive 0.03288992620082306
-regulation control requirements 0.03282182584821855
-fuzzy control 0.03208674581093465
-regulation control 0.03193902211481227
-speed dynamic response 0.03191579395877106
-control scheme 0.03176209863293299
-inverse model 0.03143584716086093
-inverse plant model 0.03057943120020564
-command feedforward controller 0.029377360412218764
-tracking response 0.02911744858873555
-nonlinear dynamic behavior 0.028600514082398876
+quantitative speed control 0.051605852560628815
+robust speed control 0.04058967139805213
+srm drive 0.0393702399991595
+prescribed control specifications 0.03855886426763484
+speed dynamic response 0.03818976810506469
+nonlinear dynamic behavior 0.03798467923930425
+speed control scheme 0.03421631316952328
+regulation control requirements 0.0336994545957832
+command feedforward controller 0.03290220182955049
+inverse plant model 0.032451604400331596
+reluctance motor 0.03201539504559287
+tracking response 0.030306771532727584
+inverse model 0.02955005896247521
+reference model 0.029403962009120897
+srm 0.029322166129081097

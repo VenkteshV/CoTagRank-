@@ -1,14 +1,14 @@
-non - fragile state feedback controller 0.0936014106028989
-non - fragile state feedback controllers 0.08844340351758365
-non - fragile controller design method 0.0859963416234049
-additive controller gain variations 0.08212983222413617
-flight control simulation results 0.07257161705814522
-system quadratic performance optimization 0.07214527070709706
-sufficient conditions 0.06928501995366518
-lmi problems 0.06487675118214446
-validity 0.06438778009798478
-solutions 0.06437010159347685
-method 0.06260747187438657
-reliability 0.062485202847240934
-paper 0.05929606615042175
-existence 0.0578037305674135
+non - fragile state feedback controller 0.10092802007423754
+non - fragile controller design method 0.09879862499882663
+additive controller gain variations 0.0968283695250084
+non - fragile state feedback controllers 0.0959501920919893
+flight control simulation results 0.09410695237802066
+system quadratic performance optimization 0.0911684512695434
+sufficient conditions 0.06412732368749315
+validity 0.05920041666637041
+reliability 0.05908070370450893
+lmi problems 0.0558560202323104
+solutions 0.0535814194109796
+method 0.05256283682757402
+paper 0.04345114617346675
+existence 0.03435952295967075

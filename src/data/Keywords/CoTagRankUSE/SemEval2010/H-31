@@ -1,15 +1,15 @@
-poisson query generation model 0.02992230795886496
-query generation probabilistic model 0.024338439678946902
-query generation language models 0.024215830076972235
-poisson model 0.022999209034353808
-probabilistic retrieval models 0.02277220850169024
-query generation models 0.02191102629531707
-multinomial model 0.021381053766909165
-multinomial models 0.02101540571920903
-information retrieval qiaozhu mei 0.020812980424581323
-query likelihood 0.019843945141489547
-retrieval models general terms 0.01981581614322043
-language models 0.019364043029905798
-generation language model 0.01872551711667498
-query 0.01827869057633439
-poisson distribution 0.018000513683944404
+poisson query generation model 0.036054831704811545
+query generation probabilistic model 0.029223678560115145
+information retrieval qiaozhu mei 0.02625219762332725
+probabilistic retrieval models 0.026149238626680157
+poisson model 0.026097010686832213
+query generation language models 0.02581586010748088
+poisson distribution 0.02493836501052457
+retrieval models general terms 0.023929964681194477
+query generation models 0.021881809477653176
+representative trec test collections 0.020567199561042682
+edu abstract many variants 0.020341417380293266
+likelihood scoring method 0.0200638910272861
+multinomial distribution 0.019983943640162205
+query likelihood 0.01973901716940013
+multinomial model 0.0195427408311521

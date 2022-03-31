@@ -1,15 +1,15 @@
-surface tension 0.08744310677811834
-capillary waves 0.08120519954241615
-capillary time 0.05824822331593326
-numerical stability 0.05613439126354937
-surface tension treatment 0.054558912721405846
-applied numerical methodology 0.05122230319413679
-primitive variables 0.04801786156843422
-numerical treatment 0.04374646841672711
-matrix coefficients 0.04340818665155493
-spatiotemporal sampling 0.04157648836107262
-numerical framework 0.04023580782307194
-analysis 0.03880607008253417
-step constraint 0.036443622649264366
-implementation 0.036045823870179815
-implicit implementation 0.033884722627943384
+surface tension 0.08125162827001584
+capillary waves 0.08026536690659201
+capillary time 0.053780592093140706
+numerical stability 0.050053674102821126
+surface tension treatment 0.04812003578245086
+primitive variables 0.047558640500853844
+numerical treatment 0.04166704310320113
+applied numerical methodology 0.04158403010001803
+matrix coefficients 0.040586907574690814
+spatiotemporal sampling 0.03988003612535526
+analysis 0.03622516530610414
+implementation 0.03522520095562796
+step constraint 0.03458208478046332
+numerical framework 0.033839623716802075
+implicit implementation 0.03239463453731514

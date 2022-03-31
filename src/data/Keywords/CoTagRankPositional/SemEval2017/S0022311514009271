@@ -1,15 +1,15 @@
-defect formation energies 0.04233081957015505
-defect energies 0.04224407079370979
-rigid ion models 0.04157948768996658
-relative stability 0.04013788026250105
-elasticity 0.038877755035208676
-potential models 0.0352458509513206
-bulk modulus 0.03411584874854038
-grain boundary stability 0.033948393096330465
-morelon potential model 0.03370513836185217
-elastic constants 0.033690944091492134
-cation defect energies 0.033631163074668596
-favourable diffusion mechanism 0.031168528154588232
-arima potential models 0.030680112584226524
-structure 0.030246319148892545
-catlow potential model 0.029799195046102716
+rigid ion models 0.04028654536872035
+defect energies 0.04024976672544074
+defect formation energies 0.039469256666016916
+relative stability 0.03834422177479193
+elasticity 0.037159151829657115
+cation defect energies 0.03628271014770564
+bulk modulus 0.03524410255238255
+elastic constants 0.03342893615038144
+favourable diffusion mechanism 0.032930605516966194
+grain boundary stability 0.032758343107244826
+cation defects 0.032303969365157836
+morelon potential model 0.03188064464456072
+potential models 0.0317364981517303
+arima potential models 0.029069660792095553
+catlow potential model 0.028952660822578916

@@ -1,15 +1,15 @@
-node intel pentium beowulf cluster 0.025715478458244758
-mhz intel pentium ii xeon 0.02284159464663351
-mhz intel pentium iis 0.021371034373720964
-steepest descent fast multipole method 0.021157691567158715
-sparse impedance matrix 0.021062770597157963
-mpi parallel implementation 0.020542071156975757
-descent fast multipole method 0.019469682045930022
-mhz processors 0.019153252020307925
-sparse matrix 0.018609713873379945
-impedance matrix 0.018519565512289844
-alpha workstation 0.01849545597201772
-overall speedup 0.01834632736342998
-parallel implementation task 0.018168996093080154
-speedup 0.018166648943630948
-fast multipole method 0.01802965778158558
+node intel pentium beowulf cluster 0.03202844844640809
+mhz intel pentium ii xeon 0.028711774952989752
+electromagnetics computations 0.025473993436502654
+mpi parallel implementation 0.024651869825893607
+sparse impedance matrix 0.024139502063718718
+matrix vector multiplications 0.0232832038368795
+mhz intel pentium iis 0.02291773482464446
+parallel implementation task 0.01996074575366186
+impedance matrix 0.019859161367298886
+fast algorithms 0.01953002024643133
+scale linear systems 0.019024386984951402
+mhz processors 0.018970167546997308
+parallel implementation 0.018564497148146973
+steepest descent fast multipole method 0.018541063671437395
+parallelization techniques 0.01848353342836492

@@ -1,15 +1,15 @@
-camera calibration parameters 0.026662715121804938
-calibration parameters 0.023758811472976028
-image motion fields 0.020187822564945127
-calibration 0.019830003768001536
-full calibration 0.019100762804150163
-successive image frames 0.018641681497342966
-intrinsic parameters 0.018618837373544413
-rotational component 0.01839703217099646
-image derivatives 0.017797977256391304
-translational component 0.017778230274777797
-calibration method 0.017581141625195036
-image formation 0.017494336527806877
-image measurements 0.017468664843489225
-image sequences 0.01719334596357095
-optical flow 0.0169440273118762
+camera calibration parameters 0.027337127576575707
+image motion fields 0.02602812906301131
+successive image frames 0.022777469221160813
+translational component 0.022525300385624933
+discrete motion 0.02092047786421466
+rotational component 0.020798884463709918
+calibration parameters 0.020739300204968544
+rotational components 0.020696476519724324
+optical flow 0.02038030948162364
+image derivatives 0.02031507472732414
+3d rotation 0.01976355244026532
+normal flow measurements 0.01904354724747865
+image sequences 0.019024823401575852
+projective transformation 0.01897655991297443
+full calibration 0.01856602257904006

@@ -1,15 +1,15 @@
-dimensional sagittal brain mr images 0.03963818218777662
-cerebrum segmentation 0.03962977106674971
-3d sagittal brain mr images 0.039396881529136105
-preliminary cerebrum segmentation 0.03877157802343689
-cerebrum segmentation algorithm 0.03669495067372101
-midsagittal brain mr image 0.034608659073632045
-brain mr image 0.03245021190037518
-cerebrum 0.03226285413818863
-final extracted cerebrum 0.03099707836102507
-segmentation 0.02839689628251529
-segmentation algorithm 0.027306980011136336
-masked image 0.026642164288222275
-mask image 0.02664098983100425
-image boundaries 0.0262016557258423
-next lateral slice 0.02595258135934969
+3d sagittal brain mr images 0.05386260993822401
+dimensional sagittal brain mr images 0.04793962683866725
+preliminary cerebrum segmentation 0.04349377298081378
+cerebrum segmentation algorithm 0.039161857755399127
+cerebrum segmentation 0.03850743174331016
+final extracted cerebrum 0.036882506463399425
+conventional edge detection algorithms 0.03556053325658989
+midsagittal brain mr image 0.03473528567369094
+brain mr image 0.030723059308744288
+cerebrum 0.028589416816710428
+segmentation algorithm 0.028431412786926662
+segmentation 0.02690796657831915
+anatomical information 0.026722938643337066
+iterative fashion 0.025831458713761163
+lateral slices 0.02552135323077491

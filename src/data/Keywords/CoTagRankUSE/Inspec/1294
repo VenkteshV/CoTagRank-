@@ -1,15 +1,15 @@
-interactive multicriterion optimization method 0.06346739687240677
-interactive descent algorithm 0.0630674966043568
-maximum failure margins 0.061514390809587066
-multicriterion optimization 0.05933072050514428
-applied loading conditions 0.05780128399937345
-composite laminates 0.05578800196732894
-multiple loading conditions 0.055408454702970664
-initial failure 0.052947510569573766
-linear manner 0.05213550902970067
-first ply failure 0.05177639264591315
-criteria 0.050901671138160076
-problem 0.05055439257348101
-bicriterion problem 0.04990573470884171
-discrete procedure 0.04953154505450381
-margins 0.04948788010219671
+multicriterion optimization 0.08118791233374274
+interactive multicriterion optimization method 0.07741590973946641
+interactive descent algorithm 0.07140520973351985
+maximum failure margins 0.06640704805091685
+applied loading conditions 0.05754641098577606
+linear manner 0.05623212259854138
+composite laminates 0.05539808880647782
+multiple loading conditions 0.05280961470658175
+discrete procedure 0.050472265817600635
+first ply failure 0.04938913871275982
+initial failure 0.04751982892222305
+bicriterion problem 0.04569853686596956
+problem 0.045506283758916986
+margins 0.04463037126320587
+conditions 0.043486455606264185

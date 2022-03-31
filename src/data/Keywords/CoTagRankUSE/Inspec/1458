@@ -1,15 +1,15 @@
-direct gear tooth contact analysis 0.054018298827566466
-tooth contact analysis 0.04420894386554011
-contact ellipses 0.039477953824464666
-gear tooth flanks 0.03751086073314306
-contact points 0.03732643195738679
-contact 0.035112720351285695
-direct computation 0.03016443735924025
-first order singularity 0.030104101779442893
-bearing area 0.029486377365776684
-paths 0.02946536020728656
-automatic differentiation 0.029460069538825684
-curvature properties 0.02933240972736281
-nonlinear equation system 0.029017996162568876
-second order conditions 0.028974462714274833
-hypoid bevel 0.028906732951630005
+direct gear tooth contact analysis 0.0749405957013911
+tooth contact analysis 0.04317565545400341
+gear tooth flanks 0.04220981890933806
+nonlinear equation system 0.03487030785336696
+curvature properties 0.03441412625619861
+direct computation 0.0339252871818964
+first order singularity 0.03383608871116333
+bearing area 0.032042811798150474
+hypoid bevel 0.03164316898268611
+mathematical model 0.03159657153986408
+contact points 0.03141052410177403
+automatic differentiation 0.0313990758697495
+machine accuracy 0.030913753833036527
+contact ellipses 0.030546834566588306
+generating process 0.029495895911845454

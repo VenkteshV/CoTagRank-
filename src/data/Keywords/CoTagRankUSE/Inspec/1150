@@ -1,15 +1,15 @@
-mm leaf width 0.01421376769573093
-mm leaf widths 0.013674936038417438
-mm leaf 0.013635359713032431
-radiation dose conformality 0.01259936971370119
-multileaf collimator leaf width 0.012595761677957307
-imrt treatment plans 0.01256825673667995
-physical radiation dose differences 0.012196008983454024
-prescription dose 0.011927019939222952
-mm plans 0.011912779675527743
-imrt treatment delivery 0.011619583014872693
-physical dose distributions 0.011576559995179791
-physical dose distribution 0.01156079777155581
-physical dose 0.011537825337625141
-mm 0.011211586288905851
-moderate dose range 0.011116621904102918
+dynamic mlc treatment delivery 0.01737419695743433
+dimensional conformal radiotherapy plans 0.017166808567482636
+multileaf collimator leaf width 0.015833758797338966
+imrt treatment delivery 0.015425250893580714
+squamous cell carcinoma 0.01531740481008486
+imrt treatment plans 0.014597875739952054
+contralateral parotid gland 0.014363668424883513
+physical dose distributions 0.01339720580827633
+physical dose distribution 0.013148847861366185
+moderate dose range 0.013004150661919924
+cns tumors 0.013002843339007275
+different mlc leaf sizes 0.012881697665258741
+radiation therapy 0.012641503971510013
+radiation dose conformality 0.012554132147834927
+physical radiation dose differences 0.012508305425063454

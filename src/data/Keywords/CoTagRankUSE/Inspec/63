@@ -1,15 +1,15 @@
-geometric source separation 0.05106986252141033
-convolutive blind source separation 0.04853756142915612
-convolutive source separation 0.04745456224740399
-adaptive beamforming 0.04121327637087737
-source separation 0.04046453265275902
-order source separation 0.040066624275443954
-geometric linear 0.035053136516938345
-simultaneous acoustic sources 0.033030596523509335
-undesired interferences 0.03246318882006502
-constraints 0.03237366709918995
-frequency permutations 0.031051565293910757
-minimization 0.030759962922024712
-source 0.03022787189806137
-ambiguities 0.029969602221827565
-multiple sources 0.029805155831146152
+geometric source separation 0.0641949525077487
+simultaneous acoustic sources 0.05051903478745381
+convolutive blind source separation 0.048147970566532326
+convolutive source separation 0.04714283929090618
+frequency permutations 0.04490717284595727
+adaptive beamforming 0.039876210351228375
+geometric linear 0.03983997659569273
+order source separation 0.03640967243951619
+actual room recordings 0.03419130895912487
+additional sensors 0.03271101186118427
+source separation 0.03231119011136106
+constraints 0.03143754489808326
+algorithms 0.031214467653706002
+ambiguities 0.030911538757011053
+independence criterion 0.03088682986751668

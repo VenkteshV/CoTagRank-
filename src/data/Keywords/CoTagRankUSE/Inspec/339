@@ -1,15 +1,15 @@
-frequency wavelet features 0.031272803402508945
-wavelet features 0.030629163244363086
-wavelet decomposition 0.028141051582242515
-wavelet coefficients 0.02763316911756337
-wavelet 0.026694838086204445
-automatic registration algorithm 0.025299417487510627
-parallel image registration technique 0.025241752128203582
-landsat thematic mapper 0.024189771629611855
-registration algorithm 0.02367762558800702
-multiple multiplatform remote sensing 0.023565377143146386
-high resolution radiometer 0.02229244732138394
-correlation method 0.02220222630086221
-digital data 0.021564273536300575
-basic features 0.02135040171515283
-automatic integration 0.02118208743447579
+landsat thematic mapper 0.040601894317028764
+frequency wavelet features 0.03430787120162042
+parallel image registration technique 0.03343348893051131
+multiple multiplatform remote sensing 0.03104144429990681
+wavelet decomposition 0.03016232644839521
+wavelet features 0.029462261085896002
+wavelet coefficients 0.02944833107212761
+automatic registration algorithm 0.026109596211685872
+computational speeds 0.02465428539416592
+wavelet 0.02437807626179029
+beowulf cluster 0.024355545704053926
+simd 0.024083667002340353
+high resolution radiometer 0.023994698732011266
+registration algorithm 0.023371229656379836
+digital data 0.022554064838674295

@@ -1,15 +1,15 @@
-spatial rainfall simulator 0.027748094223348015
-rainfall 0.027144864887825353
-rainfall data 0.026397596904547037
-rainfall records 0.02474876635433959
-rainfall shows 0.024337652037907713
-meteorological stations 0.02219710012622116
-spatial correlation 0.022079456682601153
-spatial correlation structure 0.021933215853230086
-term meteorological records 0.021297145599110553
-negligible temporal correlation 0.020698407970942148
-term climatic records 0.019123897167418642
-spatial units 0.018934105845773156
-intra - seasonal temporal correlation 0.01893334297748661
-crop production component 0.018223463440896374
-neighbouring stations 0.017715398176432647
+spatial rainfall simulator 0.030131375589473777
+intra - seasonal temporal correlation 0.028533919312319182
+rainfall data 0.026612736250421182
+term meteorological records 0.026270161635043004
+spatial correlation structure 0.02595009019234251
+term climatic records 0.02547487019282259
+multivariate normal distribution 0.02518170464049562
+crop production component 0.02368133326942358
+rainfall shows 0.023102858477560016
+negligible temporal correlation 0.022608721231580725
+crop production modeling 0.022425912123781012
+meteorological stations 0.02234784840608328
+spatial correlation 0.021990719356746437
+covariance matrix 0.020729805444654508
+rainfall 0.02037911320013925

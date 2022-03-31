@@ -1,15 +1,15 @@
-inelastic strain profiles 0.051039530050660344
-inelastic strain law 0.04842942040254852
-maximum tensile principal strain 0.03759854068470751
-compressive part 0.03511207892388314
-displacement curves 0.034773468027823926
-tensile part 0.034471305689221465
-compressive damage parameter 0.034398989776759245
-strain tensor 0.03161788532100762
-stress 0.029313480647205785
-inelastic strain 0.02904936711720541
-mesh dependence 0.028897809046425783
-mesh size independent load 0.02800516988663681
-eccentric compression 0.026918395077682455
-finite element analysis 0.025787161747428185
-element length dependent zone 0.02385966524374911
+inelastic strain profiles 0.04937137620798107
+inelastic strain law 0.04761032510658965
+displacement curves 0.03426932405508037
+maximum tensile principal strain 0.0340358486909756
+tensile part 0.03381553855659611
+compressive part 0.03361843961070276
+strain tensor 0.03234278478826333
+compressive damage parameter 0.031346991777973565
+stress 0.03042761585201522
+inelastic strain 0.030175035700087272
+eccentric compression 0.027193728888915997
+mesh dependence 0.02606957832866827
+mesh size independent load 0.02377991641601961
+crack 0.023467142835552374
+inelastic displacement law 0.023236636714817547

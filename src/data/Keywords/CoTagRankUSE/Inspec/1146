@@ -1,15 +1,15 @@
-mammogram acquisition model 0.038424902657390736
-breast tissue 0.03740399823992878
-i. breast tissue model 0.036099636699051724
-tissue elasticity parameters 0.03506005769932721
-breast deformation 0.03488645404086595
-breast model 0.03375452230277082
-mammographic imaging process 0.033232923636711244
-medium scale tissue structures 0.03297611355044923
-synthetic mammograms 0.03190704089068017
-compression model 0.03165861517835389
-ray image acquisition process 0.03154840588772043
-breast 0.031231918078660124
-breast phantom 0.031183922778945716
-mammogram synthesis 0.030920634524664644
-acquisition parameters 0.028427159677615332
+mammogram synthesis 0.04969034127307444
+mammogram acquisition model 0.042498968175078804
+synthetic mammograms 0.03950530669717639
+tissue elasticity parameters 0.0389080062988648
+i. breast tissue model 0.038323845097705055
+mammographic imaging process 0.03821330281355228
+medium scale tissue structures 0.03791216928535805
+breast deformation 0.035595048826343026
+ray image acquisition process 0.034727139416243176
+breast tissue 0.033086910302855134
+parallel beam approximation 0.030360485683590118
+compression model 0.030254550450462693
+adipose compartments 0.029909507472075252
+breast model 0.029906871122004137
+3d simulation 0.02907491972764153

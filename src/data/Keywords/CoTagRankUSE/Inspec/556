@@ -1,15 +1,15 @@
-cortical neuron 0.027021692821935842
-unveil cortical 0.024355332062726633
-cortical coupling 0.023066095907325612
-cortical conductances 0.02292705272257637
-cortical response 0.022797996361473286
-cortical layer 0.022622235284939167
-cortical maps 0.02242906183464257
-model cortex 0.018480820903420674
-neuronal subpopulations 0.018276863598912493
-scale computational model 0.017285734586146365
-scale network model 0.016788421072851955
-neuron 0.01674718144717223
-nonlinear spatiotemporal integral equations 0.016331660019827388
-spatial phase 0.0161578709999043
-stochastic input conductances 0.015991709870859336
+cortical neuron 0.026082994135544817
+nonlinear spatiotemporal integral equations 0.026029166978597407
+neuronal subpopulations 0.024928072644451602
+unveil cortical 0.024500622377137495
+cortical coupling 0.02401440530529854
+cortical layer 0.02324701871583304
+cortical response 0.023111820259539846
+cortical conductances 0.022361286774214128
+stochastic input conductances 0.02227882149866431
+cortical maps 0.021927262312010844
+contrast invariance 0.020097759799122164
+visual cortex 0.019982746961468872
+fire neurons 0.01960894914806336
+model cortex 0.019091529563818085
+scale computational model 0.01906491828489888

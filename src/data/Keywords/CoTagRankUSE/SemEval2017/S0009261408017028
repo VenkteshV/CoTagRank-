@@ -1,15 +1,15 @@
-transient thermal effects 0.043054971739491445
-cumulative thermal effect 0.04048935088031133
-nm femtosecond laser pulses 0.03783952964491759
-femtosecond laser pulses 0.03739152148707639
-saturation absorption work 0.03168630357431617
-pure optical nonlinearity 0.031199723926584037
-individual pulses 0.03056928000452759
-n2 0.028436599894301598
-absorption 0.028259918371621773
-n2 values 0.028186138307570073
-primary alcohols 0.028090944273477567
-vibrational combination states 0.027820211956185323
-excited molecules 0.02714998086961766
-color pump 0.02707427951148755
-probe experiment 0.02620751976385779
+cumulative thermal effect 0.04525971948518433
+saturation absorption work 0.043824564071066184
+transient thermal effects 0.043457336304138915
+non - radiative processes 0.03959778025704112
+pure optical nonlinearity 0.03778490097863772
+femtosecond laser pulses 0.03660817389062025
+nm femtosecond laser pulses 0.036599989969646765
+absorption 0.03616353496850163
+vibrational combination states 0.03500800080458446
+excited molecules 0.03460101351870026
+n2 values 0.0339202662362144
+primary alcohols 0.03374198386825246
+individual pulses 0.03347540769433747
+probe experiment 0.03233100126037703
+timescales 0.03150908286923226

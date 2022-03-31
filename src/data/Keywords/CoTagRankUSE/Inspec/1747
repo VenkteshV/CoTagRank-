@@ -1,15 +1,15 @@
-titanium metal matrix composite laminate 0.02225609905970944
-laminate stress analysis 0.020859812272292333
-laminate theory 0.019445707757512285
-constitutive theory 0.01872910325320006
-previous part lamina theory 0.01850432271225608
-lamina theory 0.018305899777895807
-matrix materials 0.01806469875792099
-multidirectional laminates 0.01794864474501582
-fibrous laminates 0.01784312202541393
-constituent fiber 0.01759486995040993
-constitutive description 0.017581133417693733
-laminated composites 0.017424167472531383
-general constitutive description 0.017116046810065857
-constitutive equations 0.01706848988564098
-various fiber preforms 0.016767018527198356
+titanium metal matrix composite laminate 0.03596468301408305
+laminate stress analysis 0.028904249274435127
+tensile fatigue 0.02451944469445811
+fibrous laminates 0.023367456528031592
+multidirectional laminates 0.023257964335135106
+laminated composites 0.022343175207514658
+laminate theory 0.021964597718748285
+matrix materials 0.020194471097266638
+previous part lamina theory 0.019704534933153293
+layer analysis 0.019050089072936618
+constitutive equations 0.01794074173904666
+micromechanics model 0.01751953889294912
+fundamental quantities 0.017478331872221337
+deflection plots 0.017263889081136706
+lamina theory 0.017143266606186567

@@ -1,15 +1,15 @@
-bidomain pdes 0.02583702513694145
-linear fem approach 0.025714012720319743
-order polynomial fem 0.02537372333980918
-human heart geometries 0.02522211609225951
-monodomain pde 0.024626917832604133
-myocardial electrical propagation 0.024401144441750153
-realistic cardiac geometry meshes 0.02429506700342178
-finite element method 0.023305179713664546
-end supercomputing resources 0.023213330968569958
-pdes 0.022715527729604765
-short simulation 0.022660716349733708
-complex geometries 0.022187967285470227
-dof 0.022097561333262246
-fem 0.02184840960469591
-simulation efficiency 0.021773080422046592
+myocardial electrical propagation 0.03322884389860583
+realistic cardiac geometry meshes 0.030011464994809736
+bidomain pdes 0.02908082434785933
+human heart geometries 0.02905344956021428
+simulation efficiency 0.028344678394170174
+pdes 0.02830735272649752
+monodomain pde 0.028255009121404724
+short simulation 0.027852982491127092
+end supercomputing resources 0.02763034403052972
+computational demand 0.027466135736752308
+approximations 0.02715775736537308
+complex geometries 0.026710172126735585
+finite element method 0.0263974210983473
+approximation 0.02610707886951749
+linear equations 0.024966786345299023

@@ -1,15 +1,15 @@
-weighted energy linear quadratic regulator vibration control 0.04173467910803713
-total kinetic energy 0.03079168069231561
-input energy weight 0.030785603069137184
-kinetic energy 0.03021650448773125
-input energy 0.028694353152079702
-strain energy 0.028501410568460717
-total weighted energy method 0.028430196249452384
-energy 0.026690436198154366
-finite element linear quadratic regulator 0.02552092406655991
-modal control 0.025123757440077298
-smart piezoelectric composite plates 0.02507232020182828
-accurate structural control analysis 0.024754878713413867
-modal voltages 0.02455453386663841
-control analysis 0.023954389611240426
-weight factor 0.023642413886843797
+weighted energy linear quadratic regulator vibration control 0.06420242047684258
+finite element linear quadratic regulator 0.039725690539431105
+smart piezoelectric composite plates 0.033567227945761044
+total weighted energy method 0.03172267135719055
+modal voltages 0.0292845579171431
+accurate structural control analysis 0.02925040848646996
+total kinetic energy 0.029004270502458664
+input energy weight 0.027800695580006578
+kinetic energy 0.027507136478862805
+input energy 0.02539759978375064
+strain energy 0.024253394034786387
+optimal performance function 0.023852290785849443
+control analysis 0.023667120372596284
+design variables 0.022709807163777896
+computational cost 0.022591418536163158

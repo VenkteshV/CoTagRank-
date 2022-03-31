@@ -1,0 +1,15 @@
+sentence aligning 0.08908810823216323
+sentence alignments 0.08898139615273351
+morphology 0.07577843559515018
+sentence alignment model 0.06964559944762153
+lexicon 0.06763453961501717
+bilingual sentences 0.06761248946946131
+select matrix 0.061654444173954506
+similarity matrix 0.055532770845038396
+kernel extensional matrix matching 0.04766666012904893
+special symbols 0.04517566629989545
+experimental results 0.039753535340519175
+% total sentence alignment error rate 0.03834965687958107
+model outperforms 0.03791092775110606
+% total sentence alignment error rate decreasing 0.037537253266334863
+similarities 0.035420168051861045

@@ -1,15 +1,15 @@
-stroke dependent damper 0.037076210498428144
-stroke dependent damping 0.03622829557895227
-front axle suspension 0.032297475973069575
-suspension deflection 0.030287076603911525
-extreme suspension deflections 0.02895392648790919
-truck comfort 0.02763439852957233
-truck 0.025819260890139663
-damper 0.02523025470315597
-inward deflections 0.02515574451662072
-numerical optimization 0.024577500672615556
-multibody dynamics simulation software 0.024573009920066294
-stroke 0.024313782370025804
-acceleration 0.023828519834185793
-optimization 0.02335034004756568
-vehicle model simulation 0.02319895145126468
+stroke dependent damper 0.04274002921051798
+stroke dependent damping 0.042019634200437736
+front axle suspension 0.0381103075691398
+multibody dynamics simulation software 0.03495618372792746
+multibody system dynamics 0.02994888710381289
+suspension deflection 0.02928189629824169
+sequential linear programming 0.029080071834573833
+extreme suspension deflections 0.027084828392889875
+vehicle model simulation 0.02700279667583906
+design 0.026371253183561344
+curve yields 0.0261286987517471
+numerical optimization 0.02612731340755376
+acceleration 0.02518223633410732
+several optimization runs 0.024910956255358722
+truck comfort 0.0240456547035861

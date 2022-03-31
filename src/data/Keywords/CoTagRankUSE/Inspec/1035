@@ -1,15 +1,15 @@
-element type dynamic vibration absorbers 0.033038670982580204
-conventional voigt type dva 0.031366196157394256
-element type dva 0.029488680406881886
-sub infinity 0.028516765786340256
-damped primary system 0.026900155718525377
-optimization criterion 0.026781469768222356
-total vibration energy 0.02641245942598634
-dynamic vibration absorber 0.026335561091273448
-optimization 0.024845448645384408
-optimum parameters 0.02474698224850012
-passive vibration control device 0.024391306842661897
-dva 0.02422508780620759
-sinusoidal excitation 0.024063956984222406
-optimization design 0.023746920742852673
-form exact solution 0.023315894006831615
+element type dynamic vibration absorbers 0.04416825023977894
+conventional voigt type dva 0.03619093955418873
+dynamic vibration absorber 0.033025731870690446
+damped primary system 0.03165861349123818
+passive vibration control device 0.031632665967291584
+sinusoidal excitation 0.03153705966866189
+total vibration energy 0.031203323668822648
+power spectrum response 0.02790562559342801
+overall frequencies 0.027344239631659845
+optimum parameters 0.02719598747225748
+damping 0.025782256151611584
+optimization criterion 0.02522378629185338
+sub infinity 0.024173372293697676
+optimization design 0.023186532743122334
+element type dva 0.023166467148574926

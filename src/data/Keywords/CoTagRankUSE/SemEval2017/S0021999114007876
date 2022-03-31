@@ -1,15 +1,15 @@
-internal refractive index changes 0.052392705630531874
-wise constant refractive index 0.05030666517159825
-constant refractive index 0.04732669543456265
-light propagation 0.040046020131815206
-erroneous boundary measurements 0.03180465786408195
-rte model 0.03168991161691528
-light 0.031654376073988966
-monte carlo method 0.031485446005543184
-dot reconstructions 0.030860163209529605
-radiative transport equation 0.030491224807988857
-image reconstruction procedure 0.030441133650021053
-fresnel reflection 0.030250783094727094
-boundary conditions 0.029150787469296634
-rte 0.028316034233540517
-transmission phenomenas 0.027909816387682047
+internal refractive index changes 0.05669960267538335
+constant refractive index 0.05420698835417022
+wise constant refractive index 0.05335841985841873
+light propagation 0.05115585556659216
+radiative transport equation 0.04594664819678343
+fresnel reflection 0.044115992553652575
+erroneous boundary measurements 0.04182157433433527
+dot reconstructions 0.03928484237204714
+image reconstruction procedure 0.03685061370632563
+rte model 0.0363098373607346
+simulations 0.034631779778448224
+light 0.03396903137761568
+equations 0.03326257473322547
+boundary conditions 0.03278948124952105
+monte carlo method 0.030957414263391127

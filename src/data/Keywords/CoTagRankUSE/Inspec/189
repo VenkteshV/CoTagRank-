@@ -1,15 +1,15 @@
-scheduling parameter trajectories 0.047938698205797575
-linear parameter varying models 0.046327087218476365
-parameter trajectories 0.0444312168607634
-linear parameter varying system 0.04387523792337952
-polynomial interpolation interpretation 0.037667797803693136
-linear regression 0.036235634421053695
-scheduling parameters 0.03525059649651821
-trajectories 0.03483204846457204
-functional dependence 0.03387655841601892
-different parameter 0.03349428954122959
-compact formulae 0.03313507079054607
-polynomial type 0.03311036861580007
-identification 0.03255773572119858
-system coefficients 0.03209938159342047
-squares algorithms 0.031841757918750956
+polynomial interpolation interpretation 0.053502831417209684
+linear parameter varying models 0.05336236976317073
+linear parameter varying system 0.05080594951296055
+scheduling parameter trajectories 0.04632744420228051
+parameter trajectories 0.04273241673824832
+linear regression 0.040025105077975714
+compact formulae 0.0399044897457552
+squares algorithms 0.03791731283705763
+polynomial type 0.0369325125121388
+simulation example 0.03550431078426339
+system coefficients 0.03534113740523108
+functional dependence 0.03355482724381873
+scheduling parameters 0.033168323303563146
+trajectories 0.03202330637878756
+outputs 0.03176920525213928

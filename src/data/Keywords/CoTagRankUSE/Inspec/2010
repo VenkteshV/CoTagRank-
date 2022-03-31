@@ -1,15 +1,15 @@
-uniform prior class distribution 0.023084676183703513
-morphological scale spaces 0.021308037255222834
-inherent scale selection selection 0.02065093454737262
-invariant segmentation 0.02064165547753063
-invariant segmentation approach 0.02058168848650547
-image segmentation 0.01972439808574614
-dynamic mr signal 0.018917173710467663
-perfusion mr images 0.01874983092349428
-segmentation 0.018621585633731477
-segmentation results 0.01855877743298115
-prior distribution 0.01809385030136463
-conditional error rates 0.017925399812510234
-prior class 0.017922729469761683
-segmentation result 0.017476530490076844
-constant class 0.016686565265527267
+morphological scale spaces 0.027429147101970468
+neural net classifier 0.026659905519544322
+invariant segmentation approach 0.0266158919619474
+inherent scale selection selection 0.026239055751507236
+uniform prior class distribution 0.024765406199471554
+invariant segmentation 0.02360000519063587
+conditional error rates 0.02241980886628029
+perfusion mr images 0.021112678373998297
+overall error rate 0.021001290514664303
+image segmentation 0.02070935046525097
+dynamic magnetic resonance 0.020538411544868417
+segmentation results 0.02032906939882692
+segmentation result 0.01943735434656971
+spatial properties 0.018741219432496035
+theoretical results 0.018720889125860743

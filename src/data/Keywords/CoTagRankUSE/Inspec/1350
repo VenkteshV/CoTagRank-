@@ -1,15 +1,15 @@
-spectral resolution 0.03405210271006109
-efficient scene sampling rate 0.033104670053592286
-spectral bands 0.032049094963662914
-different spectral band 0.032021180013958275
-scene point 0.03180841958989129
-filter transmitting 0.0314123888179466
-density filter 0.0312929309336618
-generalized mosaic paradigm 0.030532323596576844
-different simulated illumination 0.0303193140034373
-scene point multiple times 0.03015956552519392
-scene 0.030001502749888918
-image acquisition 0.02905738305840534
-white video camera 0.028903193614156084
-illumination 0.028702728628987345
-traditional image mosaics 0.02861239937996687
+radiometric dynamic range images 0.0446065063558357
+efficient scene sampling rate 0.042850764485202315
+spectral resolution 0.03913999234220927
+generalized mosaic paradigm 0.038241985846799914
+different simulated illumination 0.03743238807707605
+density filter 0.03345433831830732
+filter transmitting 0.03262101547709928
+spectral bands 0.032179119323403754
+different spectral band 0.0319043889773986
+imaging systems 0.031609372260096004
+traditional image mosaics 0.031388171684543345
+image acquisition 0.031077356254317717
+illumination 0.02891595810652645
+white video camera 0.028382587985022436
+mosaic 0.027983182203421726

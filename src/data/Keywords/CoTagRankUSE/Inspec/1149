@@ -1,15 +1,15 @@
-photon energy spectra 0.04907757501980916
-photon spectra 0.04428287301975525
-similar photon energy 0.04381414103024606
-deterministic calculations 0.04275071132179749
-monte carlo calculations 0.041993534243555106
-electron accelerator targets 0.04016692304507795
-photon transport 0.03947640984809452
-monte carlo methods 0.036609887522147944
-deterministic solution 0.03588998456033937
-different electron beams 0.03560556433709802
-relative energy 0.03526672867864382
-spectra 0.03486397836112727
-monte carlo runs 0.03467479545500021
-clinical accelerator 0.0341077106042429
-electron 0.03408380808624984
+photon energy spectra 0.05645523796802903
+similar photon energy 0.050370073780162915
+photon spectra 0.047554201118887966
+electron accelerator targets 0.046727475193203034
+photon transport 0.044580583172227545
+boltzmann equation 0.04377864982315732
+monte carlo calculations 0.04339474781560456
+deterministic calculations 0.04250617067555401
+different electron beams 0.042213853094306225
+relative energy 0.03684085122891766
+deterministic solution 0.03517769356921351
+monte carlo methods 0.03422946092285424
+electron 0.03344905878112661
+spectra 0.03335825839778662
+clinical accelerator 0.032877262287935326

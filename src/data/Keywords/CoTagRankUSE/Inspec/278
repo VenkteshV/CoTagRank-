@@ -1,15 +1,15 @@
-isomerism descriptors 0.04448563481517947
-topological chirality descriptors 0.04231265422919896
-molecular connectivity indices 0.031708690658718196
-descriptors 0.03034386648888203
-isomerism correction 0.029491349314247902
-dimensional molecular topology 0.028728881053397173
-topological indices 0.02864244866817956
-novel ze 0.02843573733454153
-molecular topology 0.028412090670238775
-ze 0.027626379823081998
-topological charge 0.026261224403973365
-qsar analysis 0.025656241049032236
-overall zagreb indices 0.025017663709508843
-tubulin polymerization 0.023761184748150845
-overall connectivity 0.02347513039448993
+topological chirality descriptors 0.0496407871452241
+dimensional molecular topology 0.04154873912468586
+isomerism descriptors 0.03849017374619118
+molecular connectivity indices 0.03708623207526895
+molecular topology 0.03644027844465292
+topological charge 0.032302988057645886
+topological indices 0.03220002719005753
+tubulin polymerization 0.03038445235684803
+isomerism correction 0.029818654409675804
+e isomers 0.028962525258094944
+qsar analysis 0.026212946212947077
+complex numbers 0.02541197559175552
+atoms 0.024840025108787002
+e configurations 0.02436463310484429
+different subgroups 0.024061612605214305

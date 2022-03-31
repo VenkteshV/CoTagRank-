@@ -1,15 +1,15 @@
-truncated geometric buchberger algorithm 0.036281153303419605
-minimised geometric buchberger algorithm 0.0362111572289702
-geometric buchberger algorithm 0.0320919239614708
-ip problem ip 0.027412442899093073
-specific ip problem ip 0.027238751415816283
-grobner basis method 0.026498939730462454
-grobner basis 0.025997817649547762
-algebraic algorithm 0.02532365692677333
-reduced grobner basis 0.02465466963604602
-grobner bases 0.02437477470362068
-problem ip 0.023897488441059427
-ip 0.023879889154621393
-algorithm 0.023530562124041476
-new algorithm 0.02347387891939591
-generic ip 0.023356983649444333
+minimised geometric buchberger algorithm 0.04847109700142973
+truncated geometric buchberger algorithm 0.04562374771025365
+geometric buchberger algorithm 0.03788123326892093
+various algebraic integer programming 0.037355669869427274
+grobner basis method 0.028379296603474553
+algebraic algorithm 0.02833585799431397
+integer programming 0.026468823640255802
+fundamental segments 0.024964999074755155
+new algorithm 0.02443368191840176
+solvers 0.02354604523102545
+grobner basis 0.023299718702790243
+algorithm 0.023175981009559254
+large grobner bases 0.02253493417828692
+reduced grobner basis 0.022459842322869822
+algorithms 0.022426228288531632

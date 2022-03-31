@@ -1,15 +1,15 @@
-accurate leaf verification 0.0347237659212387
-daily leaf verification 0.0304375786507839
-leaf verification 0.02982398701706881
-accurate leaf 0.029312100891614117
-leaf gap 0.028145730097171
-leaf positioning 0.026283283709951137
-leaf pair 0.025360609830601556
-leaf position errors 0.02503786023056407
-leaf positions 0.02498271678055727
-accurate dose delivery 0.024268088059055375
-dynamic multileaf collimation 0.023139440806662432
-electronic portal imaging device 0.022418597233684796
-modulated beam profiles 0.021878096350905225
-epid images 0.021526865161172137
-imrt profiles 0.0211818444415888
+accurate leaf verification 0.03791926785105945
+daily leaf verification 0.036157387342866054
+electronic portal imaging device 0.03042407321940089
+leaf verification 0.030249233219129236
+modulated beam profiles 0.029593083932063717
+accurate leaf 0.02722255868090282
+accurate dose delivery 0.026733562687856358
+dynamic multileaf collimation 0.026658597684649152
+leaf position errors 0.026171148875462444
+leaf positioning 0.025802544530282724
+gray scale value profiles 0.025192943088164027
+leaf gap 0.024779466299089486
+low signal images 0.02389748026335055
+leaf positions 0.023424346641234155
+leaf pair 0.023085911040896537

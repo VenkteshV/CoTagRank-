@@ -1,15 +1,15 @@
-performance prediction model 0.03340481565116277
-flow lb solver 0.03156834291754475
-current performance characteristics 0.03086608332061329
-lb simulations 0.03018531031366036
-time rendering 0.029849107426885423
-performance analysis 0.029845348331563343
-coalesced communication patterns 0.029261602623250317
-visualisation tasks 0.028508133525570165
-time polymorphism 0.028444258629367707
-rendering 0.02825454651585126
-virtual function calls 0.027947888032006183
-different decomposition technique 0.02733039204452732
-inner loops 0.02711897687559639
-boltzmann solvers 0.026962992723909802
-physiological domain 0.026852389251698243
+performance prediction model 0.040699107664891127
+lb simulations 0.037650447387763714
+visualisation tasks 0.03706777496356421
+performance analysis 0.03638784880691682
+virtual function calls 0.03592195022770421
+scalability 0.03591162432439378
+different decomposition technique 0.03587967557312265
+boltzmann solvers 0.035604686715135954
+flow lb solver 0.03444383774925783
+time polymorphism 0.03424440663918714
+coalesced communication patterns 0.03261193406760197
+physiological domain 0.03191598646600391
+time rendering 0.030879204505569066
+current performance characteristics 0.030728739033266336
+improved hierarchical 0.029508451678604948

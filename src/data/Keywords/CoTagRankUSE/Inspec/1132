@@ -1,15 +1,15 @@
-lp relaxations 0.04729223440064112
-polynomial programming 0.046106028119016096
-multivariate polynomial 0.04517766664920206
-semidefinite programming 0.04399467548520079
-polynomial inequalities 0.04370431537447283
-real algebraic geometry 0.043349740983409366
-semi - algebraic set omega 0.04299731376810785
-relaxations 0.04183396462165943
-semi - algebraic set 0.039121829439217395
-various representations 0.03658088623496232
-original constraints 0.03586338967326174
-rlt 0.03566362604703978
-recent semidefinite 0.03557959427240348
-global minimization 0.03555468443708627
-polynomials 0.03554109447002315
+semi - algebraic set omega 0.05888400329235778
+multivariate polynomial 0.05649230953012581
+real algebraic geometry 0.056220341795783
+semidefinite programming 0.05560031607737878
+polynomial inequalities 0.05355272907083794
+polynomial programming 0.05005833232175937
+semi - algebraic set 0.046239618041454905
+polynomials 0.042783136126981314
+various representations 0.04236718897905627
+hierarchies 0.03684823034364042
+original constraints 0.035282224847540344
+global minimization 0.035203611527462986
+programming 0.03305114778027228
+lp relaxations 0.03283386556527113
+sdp 0.03239536103252739

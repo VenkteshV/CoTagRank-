@@ -1,15 +1,15 @@
-single electron circuit simulator setspice 0.037606512154747945
-single electron tunnelling 0.03394489669561017
-single electron detection 0.033119147916510265
-single electron spins 0.030465982155295612
-single electron 0.028698117613270763
-single electron limit 0.028585382091995237
-electron circuit simulations 0.027991738544445637
-multiple gate electrodes 0.023825558476078514
-comsol capacitance analysis 0.023355467822280485
-nanoscale dqd pair 0.023238897373420674
-electrostatics simulator 0.02166248360055964
-electrometer current 0.0214982528088202
-gate g1 0.02138071084171874
-dqd electrometer 0.02123676245221679
-3d finite element 0.021226122218937063
+single electron detection 0.033929520896955015
+single electron circuit simulator setspice 0.03388074407656123
+single electron tunnelling 0.03283059733652351
+comsol capacitance analysis 0.032824887325845965
+electron circuit simulations 0.03260218821191935
+single electron spins 0.031534980491178755
+multiple gate electrodes 0.0315016023465709
+electrostatics simulator 0.030190198636255328
+nanoscale dqd pair 0.029984707572432726
+single electron 0.029948155922887992
+single electron limit 0.029773043311889895
+capacitive coupling 0.028907921342063783
+qubit research 0.028411417671488873
+3d structural data 0.027540084666822014
+voltage 0.026379311142824807

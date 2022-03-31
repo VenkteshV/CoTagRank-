@@ -1,15 +1,15 @@
-surface extraction algorithms 0.03345892813536258
-surface triangulations several extensions 0.032857196470851384
-surface triangulations 0.03253342290185356
-final merged surface 0.03047837605010605
-surface 0.026672469327725642
-background grid 0.024898376491083212
-initial background grids 0.02309088852303387
-merging procedures 0.02142834799598164
-complex engineering applications 0.021391487095334186
-engineering geometries 0.02121335861514368
-grid generation 0.021014881199528494
-triangulations 0.021013171231293388
-volumetric technique 0.02100636773411669
-delaunay triangulation 0.02100131639536091
-point enrichment technique 0.020902395185167594
+surface triangulations several extensions 0.03696948478923602
+surface extraction algorithms 0.03632763849375602
+final merged surface 0.03268663977053753
+initial background grids 0.03266059765688671
+delaunay triangulation 0.031470222421265785
+geometrical entities 0.029453716274612143
+engineering geometries 0.028615143727862724
+complex engineering applications 0.02770990230698238
+volumetric technique 0.02673000469201693
+surface triangulations 0.026120482389772534
+background grid 0.024543494149730755
+grid generation 0.024489795074257248
+multi - component objects 0.02365024369643149
+point enrichment technique 0.02188438444050963
+distance map 0.02150545805592656

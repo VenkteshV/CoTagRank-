@@ -1,15 +1,15 @@
-single vacancy formation energy evac 0.03358806989931988
-total system energy 0.031418320792367775
-formation energy 0.030058296378246314
-energy configuration 0.028885589902862673
-system energy 0.02849231621419039
-low energy configurations 0.026738316798789637
-conjugate gradient algorithm 0.026567130894240478
-potential energy 0.026453165113635532
-helium atoms 0.02367562302341006
-helium 0.023457801218693355
-calculations periodic boundary conditions 0.02339748596044467
-bcc fe lattice parameter 0.02252722522226951
-monte carlo algorithm 0.02246133509463754
-a0 0.021781010511096877
-voids 0.021461431489047538
+total system energy 0.03491520706578331
+energy configuration 0.0335732867380415
+formation energy 0.03294380099623158
+calculations periodic boundary conditions 0.03139306414117648
+system energy 0.031159147612141516
+bcc fe lattice parameter 0.03104038030131105
+conjugate gradient algorithm 0.030154454665372997
+potential energy 0.030108983245476985
+helium atoms 0.029555689314089133
+cluster 0.029444156457591138
+simulation cell 0.02883658571156201
+single vacancy formation energy evac 0.02878604368219009
+schematic 0.02732619390091452
+a0 0.027226880283710564
+low energy configurations 0.02695896390558928

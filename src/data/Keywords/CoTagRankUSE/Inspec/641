@@ -1,15 +1,15 @@
-mesbac sequence 0.030451850871663334
-pulse sequence 0.027878555987440434
-multisegment epi acquisition 0.027174138084359603
-shot epi acquisition 0.02709504393313135
-temporal resolution 0.02545249637870379
-physiological motion artifacts 0.024979234574329313
-epi 0.02447183947086827
-severe susceptibility artifacts 0.023326660578973937
-background gradient compensation 0.02330851151506411
-signal dropout 0.023246712492817012
-sequence 0.02285600150313594
-brain regions 0.022510196203271316
-orbitofrontal cortex 0.022126208251681975
-functional brain 0.02198839472700942
-image distortion 0.021896542281243856
+orbitofrontal cortex 0.03170341905097852
+physiological motion artifacts 0.031686812382812346
+multisegment epi acquisition 0.031444889053188256
+nucleus accumbens 0.03039758332080545
+shot epi acquisition 0.029456519886909158
+pulse sequence 0.029095372960635548
+f\. mri signal 0.027888226326232522
+blood oxygenation level 0.02666166371233565
+affective f\. mri studies 0.026496251828929247
+temporal resolution 0.02576812711880128
+mesbac sequence 0.025740756561345328
+functional mri 0.02556790338066483
+severe susceptibility artifacts 0.024519441173481104
+functional brain 0.023605376954526656
+brain regions 0.022868024981126688

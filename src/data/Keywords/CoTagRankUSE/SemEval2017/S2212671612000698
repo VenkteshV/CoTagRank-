@@ -1,15 +1,15 @@
-obstacle classification 0.05219508706767622
-obstacle detection 0.04881379511490755
-new fuzzy decision fusion method 0.047493447802855415
-fuzzy neural network 0.04642047675212536
-fuzzy decision function 0.046087115435232855
-classification probability 0.0446381688380451
-obstacle 0.042706959208529946
-fuzzy attribution 0.042563075099765216
-classification application 0.04213206836905084
-inverse perspective mapping 0.041510626443156194
-homography 0.03973834331027224
-classification result 0.03957417973870583
-image alignment 0.038274011447324605
-method 0.037871984910875636
-feature extraction strategy 0.03783891303917249
+obstacle detection 0.059012362780587135
+inverse perspective mapping 0.05808889908657333
+classification probability 0.053792488679818756
+obstacle classification 0.05330701320955681
+fuzzy neural network 0.05294170419132738
+algorithm 0.05177429157995936
+fuzzy decision function 0.04896637140299493
+feature extraction strategy 0.0452318298997818
+image alignment 0.04464461030198533
+geometrical relations 0.0436542002515987
+successive images 0.04266637288769616
+new fuzzy decision fusion method 0.04265612749176712
+classification application 0.041175675357276474
+obstacle 0.03951547169103786
+estimation 0.03834982671451703

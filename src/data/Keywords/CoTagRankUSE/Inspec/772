@@ -1,15 +1,15 @@
-multiresolution texture atlas 0.036297912388053966
-procedural solid texture 0.03531020885325552
-texture atlas 0.034850609588214884
-solid texture coordinates 0.03267387296561855
-new multiresolution texture atlas 0.03148959224076353
-solid texture 0.030632596034223233
-procedural solid texturing 0.029842255476147377
-standard texture mapping 0.02970987443743564
-texture map 0.028606080470096103
-procedural solid textures 0.028588225528755375
-available texture samples 0.028310688368073378
-time procedural solid texturing 0.028302930169031293
-texture space 0.02818482549857405
-texture result 0.026085653841002907
-texturing procedure 0.02368937630792515
+multiresolution texture atlas 0.035672352388010996
+new multiresolution texture atlas 0.033895712235700245
+time procedural solid texturing 0.033506031831127915
+procedural solid texture 0.03316472522249295
+procedural solid texturing 0.03305207235783681
+procedural solid textures 0.03265145913079107
+standard texture mapping 0.03218065676118566
+general purpose mesh atlases 0.03121495996250303
+solid texture coordinates 0.031209741764078702
+meshed atlases 0.03115449667487275
+texture atlas 0.03006388668576237
+texture map 0.02755028164744544
+available texture samples 0.027450502133583354
+linear magnification filtering 0.027027591800436197
+texturing procedure 0.02695457987397511

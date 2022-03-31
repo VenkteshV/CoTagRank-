@@ -1,15 +1,15 @@
-active vibration control 0.04209148145043786
-bernoulli beam theory 0.03729916378903225
-piezoelectric sensor 0.036099290268232484
-actuator layers 0.03585331507899761
-impulse loading 0.0353476224245775
-beam 0.03512012852862842
-classical control strategies 0.03487599373272327
-piezolaminated smart beams 0.034309581512239756
-optimal control strategy 0.03400672297683188
-proportional feedback 0.033470773937652055
-loading 0.03306344452162886
-step loading 0.03288336694265771
-control performance 0.03279615269793304
-control 0.03176771124540904
-gain negative velocity 0.031282126665429774
+piezolaminated smart beams 0.05436880607989908
+bernoulli beam theory 0.05073989917681122
+active vibration control 0.047439997392206154
+piezoelectric sensor 0.04663515555959737
+actuator layers 0.04215157733876442
+quadratic regulator 0.04049565550312791
+gain negative velocity 0.0373209922542266
+classical control strategies 0.03549432766101255
+finite element model 0.03475164759993893
+proportional feedback 0.034256239644854386
+optimal control strategy 0.031479671686898573
+stiffness 0.03138259102603227
+control performance 0.031195911065080913
+bottom surfaces 0.030889719653201548
+impulse loading 0.030860217989855818

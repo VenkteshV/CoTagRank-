@@ -1,15 +1,15 @@
-nonlinear magnetic recording channels 0.02694943031832174
-minimal rbf neural network 0.0262795398688071
-msdr equaliser 0.025491719469398322
-mran equaliser 0.025474009467487943
-data storage channels 0.024060051854915047
-equaliser 0.023048190341167923
-channel equalisation 0.023022467444976873
-neural network 0.022814896226850494
-minimal resource allocation network 0.022808907783061782
-nonlinear distortions 0.021542200744817958
-robustness evaluation 0.02123215517017543
-equalisation 0.021214908116460058
-msdr 0.020882473387961058
-performance robustness 0.020712852516630218
-complex mran 0.020688786712065883
+nonlinear magnetic recording channels 0.042471763983620806
+minimal rbf neural network 0.04184511362048275
+minimal resource allocation network 0.0330824722140851
+data storage channels 0.028772587360187757
+nonlinear distortions 0.027527246892821964
+distortion ratios 0.026555703374122774
+neural network 0.026252225881922248
+robustness evaluation 0.025608941214379587
+distortion ratio 0.025257197711004403
+performance robustness 0.02361663945016687
+jitter 0.022742832863743654
+maximum signal 0.022301085101637707
+communication systems 0.02124623389692912
+dependent noise 0.021063305417283913
+channel model 0.02087585105918331

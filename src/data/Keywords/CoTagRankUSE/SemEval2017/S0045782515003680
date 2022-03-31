@@ -1,15 +1,15 @@
-cad geometry model 0.04002719386920879
-surrogate geometry model 0.03603936103391131
-true cad model 0.03347186778655924
-original cad model 0.032498011889317585
-cad model 0.03229639600027065
-various shape optimisation techniques 0.032003609500557896
-shape optimisation 0.03160458375733946
-geometry representations 0.029946907691589957
-finite element analysis 0.02932009242067893
-analysis representations 0.029295686163467685
-isogeometric analysis literature 0.028703258020717083
-isogeometric analysis 0.028582060718023605
-cad 0.028459227568623638
-surrogate model 0.028070819493754232
-present geometry 0.027748066462204974
+cad geometry model 0.04409130787865641
+various shape optimisation techniques 0.04296825277432417
+shape optimisation 0.04089393739500502
+geometry representations 0.03893652656203603
+surrogate geometry model 0.03864185340718722
+geometric design features 0.03781256991208072
+multiresolution subdivision surfaces 0.03778975052410087
+analysis representations 0.03677611901443785
+finite element computation 0.03647248399500552
+dimensional solids 0.0364550488688757
+present geometry 0.03636098046777296
+finite element analysis 0.03577754921570889
+cad model 0.03495938131553741
+true cad model 0.033896901131643425
+original cad model 0.032892721337328276

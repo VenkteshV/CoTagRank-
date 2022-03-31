@@ -1,15 +1,15 @@
-regional cardiac deformation 0.03718686229222537
-heart deformation 0.03344455376542948
-ventricular deformation 0.03149562120182101
-deformation estimation 0.030756018362415954
-deformation 0.028429397623846518
-heart wall 0.027335080698983057
-dense motion field 0.026828686388963307
-cardiac specific directions 0.025740564936613718
-biomechanical models 0.024485779973292696
-quantitative estimation 0.02424948305864251
-left ventricle 0.023967328480181984
-muscle fiber directions 0.023811166559381716
-coronary occlusion 0.023379171046165863
-image modality 0.02337855087845105
-medical images 0.02307513388273089
+regional cardiac deformation 0.04176805954435928
+ventricular deformation 0.03461211321034854
+coronary occlusion 0.034316156607241785
+cardiac specific directions 0.03408618258172289
+muscle fiber directions 0.0323323592228965
+heart deformation 0.031820803617128295
+deformation estimation 0.030007294142243096
+dense motion field 0.02983590178217895
+left ventricle 0.029791376142333792
+estimation 0.027265001684218255
+heart wall 0.02666763206170885
+biomechanical models 0.02647881777344925
+medical images 0.025677251953423887
+quantitative estimation 0.02497967575866434
+elastic model 0.023978117043095427

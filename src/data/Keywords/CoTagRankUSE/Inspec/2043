@@ -1,15 +1,15 @@
-computational electromagnetics codes 0.03918288875899119
-matrix multiplications 0.034155245448123074
-arithmetic processors 0.03392413484265561
-computational electromagnetics 0.032656625614727514
-innermost loops 0.03212031724790398
-algorithmic complexity 0.030805162645302434
-vector multiplications 0.03074728226712777
-underlying computer hardware 0.030723408845959442
-arithmetic operations 0.030688693545933038
-dense matrices 0.029357139440169745
-iterative solvers 0.028975109053234638
-matrix 0.028773318941402243
-complexity 0.028661955357918198
-high data movement 0.027834217770904342
-algorithms 0.027731345342437576
+computational electromagnetics codes 0.046565991201055715
+arithmetic processors 0.04526097223247429
+iterative solvers 0.03723125908040428
+computational electromagnetics 0.03687969346963013
+vector multiplications 0.03679436956940639
+dense matrices 0.036504658366575723
+underlying computer hardware 0.036452730038992076
+matrix multiplications 0.035877285173244004
+innermost loops 0.0348322836579535
+arithmetic operations 0.03480423616022308
+memory chips 0.034452367038110644
+algorithmic complexity 0.034307210708117875
+limits 0.03220136279806287
+high data movement 0.02877011960368607
+mhz 0.028636679475730863

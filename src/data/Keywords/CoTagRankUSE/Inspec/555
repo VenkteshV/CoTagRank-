@@ -1,15 +1,15 @@
-transient gating charge movement 0.034216425135635775
-shaker potassium channel gating 0.03252140296064754
-transient gating charge 0.030882539790932403
-dependent ion channels 0.02720109684304986
-transmembrane voltage 0.02714369355632089
-calcium ion channels 0.026895446339552802
-capacitative gating current 0.026818797202760924
-ion channel activation process 0.026326826777106845
-ion channel 0.02614701620083972
-ion channels 0.026003061190089417
-voltage dependence 0.024057319151742373
-potassium channel 0.02403692469635141
-voltage 0.023900929491199138
-charge displacement 0.02364480492553236
-dependent gating 0.02345363696811714
+transient gating charge movement 0.03838448384463209
+shaker potassium channel gating 0.036614664297949004
+ion channel activation process 0.03383863317631691
+transient gating charge 0.030693076933801713
+capacitative gating current 0.030033700097562326
+transmembrane voltage 0.02998554135458905
+dependent ion channels 0.02988798381132593
+membrane depolarization 0.02816392734464657
+calcium ion channels 0.0280993751269782
+voltage dependence 0.025671269629810717
+precede channel opening generate 0.024825888722524718
+charge displacement 0.024771017514573668
+ion channels 0.02470005405290487
+ion channel 0.02443245024383682
+discrete markov state models 0.023867155259253536

@@ -1,15 +1,15 @@
-shared gamma frailty models 0.032139588815093614
-normal frailty models 0.030754105708210785
-frailty variance 0.03039177516006971
-frailty random variable 0.029204891937167805
-frailty models 0.027116803199323098
-standard direct maximum likelihood method 0.026772316144517503
-maximum likelihood estimates 0.025998924234728646
-normal random variable 0.025375622539817917
-cox proportional hazard models 0.024902125796652817
-frailty 0.0244095618022393
-semiparametric 0.024070603974894716
-hybrid ml 0.023479313289613078
-small sample statistical properties 0.02297710719077493
-standard em method 0.022881459666029932
-em algorithm 0.022519059105550403
+standard direct maximum likelihood method 0.03851449273313613
+small sample statistical properties 0.03617556364662071
+health study coronary heart disease data 0.03049236282188048
+frailty random variable 0.03044634413128347
+cox proportional hazard models 0.030385503704251967
+maximum likelihood estimates 0.03025213382431098
+normal random variable 0.029693320149951335
+asymptotic distribution 0.029633613601651815
+frailty variance 0.0288655500289629
+shared gamma frailty models 0.02865532094519649
+em algorithm 0.02566436863789389
+normal frailty models 0.02340351905278174
+hybrid ml 0.023120840896588862
+statistical results 0.022829408722516063
+parametric 0.022459293965449083

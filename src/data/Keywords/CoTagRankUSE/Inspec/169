@@ -1,15 +1,15 @@
-job shop environment 0.0405824159481166
-job shop manufacturing environment 0.04034020005334192
-traditional mrp model 0.03990146911875209
-model augments mrp models 0.03955525229205977
-mrp systems 0.03755312607569122
-scheduling model 0.03576335343085968
-capacity constraints 0.035123396884157415
-mrp 0.03401331377176217
-inventory carrying costs 0.03381495367651009
-project scheduling 0.0331997811649146
-resource allocation 0.03220148346791817
-resource 0.031212885113996988
-scheduling 0.031034697711477398
-material requirements planning 0.03086017361586415
-capacity 0.030304994958393946
+job shop manufacturing environment 0.05495905594750189
+model augments mrp models 0.049214387164646684
+traditional mrp model 0.04541128317314469
+job shop environment 0.0450499596862786
+mrp systems 0.04119424224770645
+material requirements planning 0.04097819293617316
+mrp 0.03845622768402852
+scheduling model 0.03718725611038258
+project scheduling 0.03604473215903989
+resource allocation 0.035509640332422085
+capacity constraints 0.03548174784507254
+inventory carrying costs 0.03376662829871562
+improved schedules 0.03229083931829706
+variable lead time 0.028921365314262933
+scheduling 0.028663546064848302

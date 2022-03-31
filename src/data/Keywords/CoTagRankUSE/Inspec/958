@@ -1,15 +1,15 @@
-efficient combinational verification 0.038031248738196466
-efficient verification 0.034758835437854844
-verification methods 0.03320642938052036
-internal node pairs 0.032652860525716046
-hash table 0.032107214207097654
-combinational circuits 0.032103211530344455
-several hard industrial circuits 0.03200691780425448
-local bdds 0.03142854345028675
-typical internal correspondence 0.03113102154636338
-benchmark circuits 0.03111694551924615
-case verification 0.030647845374922583
-internal equivalences 0.029936882068428886
-equivalent nodes 0.029736459002786778
-novel methodology 0.027894920416864737
-circuitry 0.027674898511484185
+efficient combinational verification 0.05488918959370269
+internal node pairs 0.04533674775377369
+several hard industrial circuits 0.04359514261437537
+equivalent nodes 0.03811698095859602
+efficient verification 0.03786499581623839
+benchmark circuits 0.03587021537217802
+combinational circuits 0.035265936012550486
+typical internal correspondence 0.035071077445502474
+verification methods 0.03439374752987557
+hash table 0.03304338564017434
+significant speedup 0.03278079185819223
+circuitry 0.029922788960519676
+heuristics 0.029883819452577925
+nodes 0.02891541444384371
+case verification 0.02836524609211521

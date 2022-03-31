@@ -1,15 +1,15 @@
-total project cost 0.036363680073626926
-optimal project schedule 0.03630965240240356
-time dependent cost structure 0.03538865335283666
-project execution 0.034323895413296765
-cost structure 0.032473822824403135
-project compression problem 0.03151594830167249
-project network 0.03098228466486329
-extra cost 0.029520051890060066
-project 0.029301036000910486
-total cost 0.028158958551895232
-time dependent costs 0.028024279805235534
-activity 0.027906407337554118
-planning horizon 0.027673136026626563
-several regular time intervals 0.02717066655363365
-additional resources 0.02680454202757714
+optimal project schedule 0.05054848798333339
+time dependent cost structure 0.04672198925978174
+total project cost 0.03836124371428244
+time dependent costs 0.03534488737160123
+project compression problem 0.03406610453697524
+optimal schedule 0.03388602473514142
+project execution 0.032419661914992765
+cost structure 0.0323043260570861
+project 0.03187499687026002
+several regular time intervals 0.031099794265644052
+project network 0.03003830455078066
+utilization 0.029846519184759696
+computational performances 0.029010493181240705
+additional resources 0.028576322886086202
+time interval 0.02828716234411997

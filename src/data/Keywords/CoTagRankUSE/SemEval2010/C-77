@@ -1,15 +1,15 @@
-distributed computations emmanuelle anceaume jean 0.02968704771006745
-efficient ipt protocols 0.022643357330806038
-ipt 0.021593540601621126
-immediate predecessors 0.02128313462085274
-different ipt protocols 0.02108541021389674
-fly computation 0.020990836963179254
-ipt problem 0.020150185884265513
-michel h´elary michel raynal irisa 0.019156221094645567
-important causality 0.01893202373967293
-relevant events 0.01866441950339998
-primitive events 0.01838972897100359
-causality 0.01821696594871425
-causality relation 0.017698542000870104
-computation model 0.017440560575040356
-relevant event 0.017364108966260235
+distributed computations emmanuelle anceaume jean 0.04121360380651463
+efficient ipt protocols 0.030943292624273727
+hasse diagram 0.026239656729019383
+different ipt protocols 0.024541980183038284
+fly computation 0.024121582415369394
+common global memory 0.023717935753849395
+michel h´elary michel raynal irisa 0.0222622419535887
+causality relation 0.021544977099778418
+message transfer delays 0.02113030847968754
+primitive events 0.02020614200123351
+computation model 0.01875340770900734
+important causality 0.018221315512358865
+causality 0.018020905923866782
+protocols 0.017570339248366384
+control information 0.0174622852501381

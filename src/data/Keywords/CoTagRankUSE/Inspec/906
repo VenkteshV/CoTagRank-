@@ -1,15 +1,15 @@
-multirate sampling control 0.061887328110760434
-controller assures perfect disturbance rejection 0.05559481523428599
-digital control systems 0.05159954897861377
-feedforward controller assures 0.05159460637655662
-sampling period 0.04912203604705134
-control period 0.04849221919117389
-performance servo systems 0.04789296392662863
-inter - sampling points 0.04753860476154984
-position control 0.047241274347586466
-plant input 0.04591443517557632
-inter - sample points 0.04405275259950246
-steady state 0.04404353343181593
-hard disk drive 0.04366794159482364
-output 0.0430363255894103
-approaches 0.041687568838978124
+performance servo systems 0.06815211123747861
+multirate sampling control 0.06803503570081063
+controller assures perfect disturbance rejection 0.06236929385549828
+digital control systems 0.05903357038123892
+inter - sampling points 0.05408759706962875
+feedforward controller assures 0.051288326801459984
+inter - sample points 0.04989939112546169
+hard disk drive 0.04639884692588345
+sampling period 0.045169566460362104
+plant input 0.04375827983257808
+output 0.04299925862625343
+position control 0.04207317646095178
+control period 0.041406942989367486
+steady state 0.04107745686912258
+approaches 0.04000022426272093

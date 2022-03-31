@@ -1,15 +1,15 @@
-maximum entropy principle 0.05263299968856654
-optimal threshold determination 0.047921100216784925
-level image thresholding method 0.0469166220800649
-parabola convex 0.04277589626495423
-parabola concave 0.04229332482564006
-image histogram 0.04024323162439781
-precision epsilon 0.0395874867412308
-bayesian formulation 0.039262375902512116
-efficient method 0.038268100205562386
-level thresholding 0.03797426760909924
-conditional probability distributions 0.037740204326930024
-precision 0.03746575498723545
-search method 0.036930956502339886
-method 0.03568444614646648
-alternative criterion 0.035378287351023996
+maximum entropy principle 0.05479194095835476
+bayesian formulation 0.05405312243087888
+optimal threshold determination 0.05178693592545752
+parabola convex 0.04958801946746215
+conditional probability distributions 0.04949842175598645
+image histogram 0.04899881235651232
+level image thresholding method 0.04817442310896272
+parabola concave 0.04495273880677444
+precision epsilon 0.042500876882494425
+bayes 0.03816723681578524
+alternative criterion 0.03652828924581607
+algorithm 0.036314134507416704
+precision 0.033578009691335925
+efficient method 0.03299833358259364
+search method 0.03224041150208801

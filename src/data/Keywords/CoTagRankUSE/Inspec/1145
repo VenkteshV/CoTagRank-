@@ -1,15 +1,15 @@
-mammogram texture 0.031694146138218394
-clinical texture 0.029574283108642622
-synthetic mammograms 0.029525417256961436
-synthetic texture feature histograms 0.0293816241219245
-dense fibroglandular tissue regions 0.02678731582176846
-clinical mammograms 0.026293148525063523
-adipose tissue regions 0.025808070318093394
-3d tissue distribution 0.025002933874331754
-texture features 0.024910023448104147
-synthetic images 0.024895205365142812
-tissue compartments 0.024822491730630503
-texture 0.024373811482777927
-mammogram synthesis 0.02425386502720894
-synthesizing mammograms 0.02419680844465002
-breast tissue 0.023296755640020404
+mammogram synthesis 0.038218654171895475
+dense fibroglandular tissue regions 0.033350396680029384
+3d tissue distribution 0.032155467216628215
+mammogram texture 0.030927281017189598
+synthetic texture feature histograms 0.030535815063557903
+mammographic imaging process 0.029967078535730385
+synthetic mammograms 0.029476352626668513
+synthesizing mammograms 0.029375884027394827
+adipose tissue regions 0.028858198524947754
+clinical mammograms 0.02612813861443681
+clinical texture 0.025369810456488368
+synthetic images 0.02511393324608973
+breast tissue 0.024954940272301017
+mathematical morphology 0.022836215239154384
+tissue compartments 0.022510230542940785

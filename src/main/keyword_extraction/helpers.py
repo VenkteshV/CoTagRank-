@@ -17,6 +17,8 @@ import main.rank.coTagRankPositional as CoTagRankPositional
 import main.rank.cotagrankSentUse as CoTagRankSentenceUSE
 import main.rank.topicCSRankLDA as TopicCSRankLDA
 import main.rank.CoTagTopical as CoTagTopical
+import main.rank.coTagSentenceRank as CoTagSentenceRank
+import main.rank.CoTagRankPlusPlus as CoTagRankPlusPlus
 
 
 class NLPs:
@@ -60,7 +62,7 @@ def init_keyword_extractor(config):
 
     nlp = init_nlp(nlp_config)
 
-    if rank_config.get('class') in ['CoTagRankPositionalEmbedding','CoTagRank','TopicCSRankLDA','CoTagRankSentenceUSE','CoTagTopical','CoTagRankPositional','TopicCSRank', 'CoTagRankWindow','CoTagRanks2v'] or encoder_config.get('class') in ['EmbedRank' , 'EmbedRankSentenceUSE']:
+    if rank_config.get('class') in ['CoTagRankPlusPlus','CoTagSentenceRank','CoTagRankPositionalEmbedding','CoTagRank','TopicCSRankLDA','CoTagRankSentenceUSE','CoTagTopical','CoTagRankPositional','TopicCSRank', 'CoTagRankWindow','CoTagRanks2v'] or encoder_config.get('class') in ['EmbedRank' , 'EmbedRankSentenceUSE']:
         print("here")
         encoder = None #
     else:
@@ -107,6 +109,16 @@ def init_keyword_extractor(config):
     )
     elif rank_config.get('class') == 'CoTagRankPositionalEmbedding':
         rank = getattr(CoTagRankPositionalEmbedding, rank_config.get('class'))(
+    **rank_config.get('kwargs')
+    )
+
+
+    elif rank_config.get('class') == 'CoTagSentenceRank':
+        rank = getattr(CoTagSentenceRank, rank_config.get('class'))(
+    **rank_config.get('kwargs')
+    )
+    elif rank_config.get('class') == 'CoTagRankPlusPlus':
+        rank = getattr(CoTagRankPlusPlus, rank_config.get('class'))(
     **rank_config.get('kwargs')
     )
     else:

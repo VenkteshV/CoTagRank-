@@ -1,15 +1,15 @@
-boundary finite element method 0.043419808263954335
-finite element domain 0.037968835485362375
-non - linear finite element iteration scheme 0.03445750098506207
-unbounded media 0.03396104972129132
-unbounded domain 0.032568494369368164
-element matrices 0.03237888442515006
-unbounded domains analysis 0.031324072192799424
-element method 0.030959388684375744
-wave propagation 0.029923176449396835
-railway structural components 0.028624490187175555
-hybrid method 0.027533927036671988
-lagrange multipliers 0.02740804299580728
-propagation 0.027186992427259797
-dynamical response 0.027118047998576367
-dimensional modelling 0.02681259088398153
+non - linear finite element iteration scheme 0.04448393445397263
+boundary finite element method 0.040905985450496826
+unbounded domains analysis 0.039041911960860494
+lagrange multipliers 0.03782540874549731
+railway structural components 0.03750548712473049
+finite element domain 0.036175192554406335
+wave propagation 0.03415433830649066
+unbounded domain 0.03396471654007174
+dynamical response 0.03339702437729503
+unbounded media 0.03277112450939733
+element matrices 0.03027676538520562
+dimensional modelling 0.029725743495717813
+railway engineering 0.029482654125983065
+propagation 0.029276101620060623
+numerical examples 0.02830277422818234

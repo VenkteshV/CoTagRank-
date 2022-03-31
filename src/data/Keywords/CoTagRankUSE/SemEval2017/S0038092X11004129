@@ -1,15 +1,15 @@
-constant cell electrical conversion efficiency 0.053489797724537436
-solar cell efficiency difference 0.05200706425633336
-actual incident solar radiation intensity 0.05198615790157141
-cell electrical conversion efficiency 0.0515529301609981
-solar radiation intensity level 0.05074065464927264
-solar cell 0.04937546489955438
-incident solar radiation 0.04754151330326782
-final calculated cell efficiency 0.04603465805795451
-cell temperature 0.043739913140819854
-apparent insolation level 0.04061043224351871
-cell 0.03899617373549498
-ambient temperature 0.03873558088087133
-natural convection 0.03736305792199422
-energy 0.03654999156350372
-constant fraction 0.03580962204710673
+solar radiation intensity level 0.054536376871210906
+constant cell electrical conversion efficiency 0.053649282729138624
+actual incident solar radiation intensity 0.0532897166978466
+solar cell efficiency difference 0.053169166681397956
+cell electrical conversion efficiency 0.05252210792444301
+solar cell 0.050912388238620446
+final calculated cell efficiency 0.05051142408027852
+cell temperature 0.050489799459705095
+incident solar radiation 0.05027802527097052
+apparent insolation level 0.048346390333802634
+ambient temperature 0.047262608062136655
+natural convection 0.043474957035117494
+energy 0.04225707487141553
+cell 0.03756461444865089
+constant fraction 0.03683665908299241

@@ -1,15 +1,15 @@
-instantaneous magnetic sensitivity 0.02534105984782365
-magnetic field intensity 0.023737781504814048
-magnetic field modifies 0.02360531231402366
-chemical magnetometer 0.022730689206994947
-magnetic sensitivity 0.022713304237332532
-anisotropic hyperfine interactions 0.022533896605005245
-magnetic field direction 0.022128617071576134
-model chemical magnetometer 0.021579992169718218
-second electron spin 0.021222526805631883
-isotropic hyperfine coupling 0.02111603904641729
-chemical compass 0.021051555920204156
-chemical yield 0.020423553924389395
-first electron spin 0.020217193100474835
-hyperfine interactions 0.020170743916672212
-chemical devices 0.019755665035326192
+magnetic field intensity 0.0270371091994931
+magnetic field modifies 0.026857543080383656
+instantaneous magnetic sensitivity 0.026781769110150677
+anisotropic hyperfine interactions 0.02573321528268278
+model chemical magnetometer 0.02559486322379358
+isotropic hyperfine coupling 0.025453741932330475
+magnetic sensitivity 0.025155537119395978
+second electron spin 0.025138876776695938
+first electron spin 0.02506075621785805
+magnetic field direction 0.025048216372518674
+chemical magnetometer 0.024738197016425212
+spin-1/2 nucleus 0.02341897982991955
+spin-1 nucleus 0.022170895089997138
+hamiltonian 0.021993132103006505
+α 0.02182175665209775

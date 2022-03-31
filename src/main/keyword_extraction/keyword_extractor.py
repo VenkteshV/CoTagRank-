@@ -12,16 +12,21 @@ class KeywordExtractor:
         self.rank = rank
 
     def run(self, doc_text, text=None, lda_model=None, dictionary=None, lists=None, method=None, highlight = False, expand=False):
-        if method == 'CoTagRank' or  method == 'CoTagRankWindow' or method == "TopicCSRankLDA":
+        if method == 'CoTagRank' or  method == 'CoTagRankWindow' or method == "TopicCSRankLDA" or method=="CoTagRankPlusPlus" or method == "CoTagSentenceRank":
             phrases = self.phrase_extractor.run(doc_text, lists)
             # print("phrases", phrases)
-            text_embedding, phrase_embeddings = self.embed.run(doc_text, text, phrases, lda_model, dictionary,False) 
-            if len(phrases) >0:
-                ranked_phrases, phrases_with_positions = self.rank.run(doc_text, phrases, text_embedding,
-            phrase_embeddings, highlight)
+            if method == "CoTagSentenceRank":
+                text_embedding, phrase_embeddings, sent_embs, sents = self.embed.run(doc_text, text, phrases, lda_model, dictionary,False) 
+                ranked_phrases, phrases_with_positions = self.rank.run(doc_text, phrases, sents,  text_embedding,
+            phrase_embeddings, sent_embs, highlight, self.phrase_extractor, self.embed, text, lda_model, dictionary)
             else:
-                ranked_phrases = [(1.0, phrase[0]) for phrase in phrases]
-                phrases_with_positions = phrases
+                text_embedding, phrase_embeddings = self.embed.run(doc_text, text, phrases, lda_model, dictionary,False) 
+                if len(phrases) >0:
+                    ranked_phrases, phrases_with_positions = self.rank.run(doc_text, phrases, text_embedding,
+                phrase_embeddings, highlight)
+                else:
+                    ranked_phrases = [(1.0, phrase[0]) for phrase in phrases]
+                    phrases_with_positions = phrases
             # print("ranked_phrases",ranked_phrases)
             if expand:
                 color_map = []

@@ -1,15 +1,15 @@
-convex lambertian object 0.03310575033313646
-spherical harmonic basis functions 0.032103212139397
-principal component analysis 0.03117615054792211
-lambertian object 0.028697640120903364
-spherical harmonics 0.028329099753001
-analytic pca construction 0.02822303031591002
-principal components 0.027818749095931124
-distant illumination conditions 0.02729300092283631
-theoretical analysis 0.027068712839946035
-empirical observations 0.02600768788163248
-harmonic coefficients 0.025918425650745452
-analytic formula 0.025861838852474676
-theoretical explanation 0.025722185504333122
-lighting variability 0.02567751103384272
-eigenvalues 0.02541212211112469
+analytic pca construction 0.045116932945007446
+spherical harmonic basis functions 0.041521092436716416
+principal component analysis 0.033060352703683106
+surface normal vectors 0.032596604043107186
+convex lambertian object 0.031910739876786776
+distant illumination conditions 0.03133609246615855
+spherical harmonics 0.030893508177338956
+harmonic coefficients 0.0305320076681644
+eigenvectors 0.02992165968131636
+analytic formula 0.029900257079009368
+empirical observations 0.02781168416589018
+theoretical analysis 0.027682762574007622
+eigenvalues 0.027667782553109605
+lighting variability 0.026543180370602867
+principal components 0.02621546924710335

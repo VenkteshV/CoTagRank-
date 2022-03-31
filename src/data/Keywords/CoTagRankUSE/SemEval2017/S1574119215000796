@@ -1,15 +1,15 @@
-multihop routing protocol 0.029367001655206823
-robust multipath routing solution 0.027698645622414322
-cross - layer routing protocol 0.024950603557071876
-time division multiple access 0.024359246778331674
-medium access control 0.022473488740789516
-local topology information 0.022436135103599028
-packet latency 0.02219521035181345
-data delivery 0.022132682779915556
-multiple nodes 0.02149607089796891
-multiple routes 0.021290367505715745
-overhead 0.021287500859414128
-location awareness 0.0211197186420789
-dynamic topology 0.0209734453748946
-gradient maintenance 0.02088140461791219
-packet 0.020450735975798447
+robust multipath routing solution 0.03458747060249129
+cross - layer routing protocol 0.0340607677390053
+multihop routing protocol 0.03313994656417778
+local topology information 0.032169850306377916
+dynamic topology 0.029691979116940062
+packet latency 0.02886950430259202
+multiple nodes 0.027168398513663893
+data delivery 0.02571282014779482
+time division multiple access 0.024100477727408927
+gradient maintenance 0.023771784179739172
+medium access control 0.023672856518105568
+location awareness 0.023311982831045526
+mobile network 0.023256440410535668
+global tdma 0.022426365369220446
+blind forwarding 0.022389600328153972

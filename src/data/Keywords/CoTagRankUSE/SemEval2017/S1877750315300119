@@ -1,15 +1,15 @@
-generalized polynomial chaos expansions 0.04810548577023489
-polynomial chaos expansions 0.0427801542477302
-polynomial chaos expansion 0.038440336448397686
-rosenblatt transformation 0.03092662292840872
-independent stochastic variables 0.02945808532474297
-independent components 0.028964807905564535
-double transformation 0.026758497241131732
-chaospy 0.024898496945448035
-dependent components 0.024724103520816096
-nataf copula 0.0244267214103565
-discretized stieltjes procedure 0.024413619707438033
-unit hypercube 0.023956854278287826
-computational framework 0.023373322121068296
-random variable 0.023235478426848012
-askey 0.02302947807047024
+generalized polynomial chaos expansions 0.0434102229363023
+polynomial chaos expansion 0.04205516672121558
+polynomial chaos expansions 0.04137188427956924
+independent stochastic variables 0.040319676969706314
+unit hypercube 0.03558761304652382
+computational framework 0.03540594640735977
+approximation 0.03142066820734661
+random variable 0.031161046409177794
+uncertainty problem 0.0298753566479433
+independent components 0.02972557750353279
+densities 0.028668839097506362
+dependent components 0.02810232699327936
+rosenblatt transformation 0.0279241753349141
+response function f asf(x 0.02715766013487101
+transformation composition tq−1∘tr 0.026805395595512368

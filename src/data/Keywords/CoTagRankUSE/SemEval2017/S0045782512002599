@@ -1,15 +1,15 @@
-several nurbs geometries 0.028567670958704997
-several computational experiments 0.02616417311898385
-computational domain 0.025597729531042564
-ieti framework 0.024873848362450088
-feti methods 0.024834173139678534
-iterative linear solver 0.02402522277117588
-ieti method 0.023905307757412807
-computational mechanics 0.023615566181248944
-advanced solver design 0.023601035755276674
-feti 0.02315106141851806
-finite element tearing 0.023074867098403392
-isogeometric analysis 0.022516607061681116
-ieti 0.0224715209472496
-exact geometry representation 0.022294830351279427
-nurbs 0.02213278367614839
+computational mechanics 0.03255216923271411
+iterative linear solver 0.03226121081687024
+computational domain 0.03184184383131465
+complex geometries 0.030675540488007462
+several computational experiments 0.030597438728984593
+several nurbs geometries 0.029817388858155595
+advanced solver design 0.029580375119205745
+ieti framework 0.02858227579978181
+exact geometry representation 0.028494153058815322
+finite element tearing 0.02806838480759582
+numerical simulation problem 0.02789257536707295
+linearized elasticity 0.027260856861202113
+isogeometric analysis 0.027068530198905164
+poisson 0.027004271052627135
+natural decomposition 0.025974381993709765

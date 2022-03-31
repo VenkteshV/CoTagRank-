@@ -1,15 +1,15 @@
-delay differential equations 0.04461826030058054
-static state feedback 0.04377584955392085
-numerical study stabilization 0.04231091456969073
-state feedback 0.0420669185328766
-state feedback laws 0.04154401017787916
-continuous pole placement method 0.04089830076292435
-classical pole placement algorithm 0.040429471416338715
-ordinary differential equations 0.04023834392665566
-numerical procedure 0.03790534671791002
-numerical continuation 0.03764567697508077
-linear time 0.03750501576985872
-delay systems 0.037309904204874705
-input delay 0.0369931809529855
-limitations 0.03579583922528794
-stabilization 0.03481313225539632
+classical pole placement algorithm 0.0513399731098121
+delay differential equations 0.05103123370428449
+numerical study stabilization 0.048652308062910515
+ordinary differential equations 0.0476755126465207
+continuous pole placement method 0.0433258120581705
+static state feedback 0.04256444430671373
+state feedback laws 0.03930827782387549
+invariant system 0.03895958210119745
+delay systems 0.03868049005055975
+linear time 0.03839505358001005
+input delay 0.03788136468508322
+numerical procedure 0.037789633255833545
+numerical continuation 0.03755978820703503
+state feedback 0.03591963067623639
+stabilization 0.03464174786065081

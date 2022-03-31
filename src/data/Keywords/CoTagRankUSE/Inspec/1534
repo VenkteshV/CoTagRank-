@@ -1,15 +1,15 @@
-local surface topology 0.03722383394631377
-arbitrary cutting edge design 0.036266207154415364
-complex sculptured surface 0.03436057486839139
-complex sculptured surfaces 0.030219819216085332
-complex surface 0.029082995780368624
-nurbs curve representation 0.027017954776736314
-edge design 0.02644946428863011
-nurbs curve 0.02636049974754978
-instantaneous tool 0.026118798479284826
-edge profile 0.025925430217954442
-methodology 0.02528298679688313
-generic simulation approach 0.02478501405385449
-previous tool paths 0.02466412579683446
-tool deflection 0.02465822137508785
-edge 0.024601253326110194
+local surface topology 0.0417695574202888
+complex sculptured surfaces 0.04175095413566765
+complex sculptured surface 0.03989714851643947
+arbitrary cutting edge design 0.03903125725190232
+nurbs curve representation 0.03744756555998718
+generic simulation approach 0.03586063800992948
+complex surface 0.0286183368709606
+nurbs curve 0.028301197660763052
+expensive cad system 0.027945471905493742
+previous tool paths 0.027583127924286494
+standardized techniques 0.025675030808376506
+edge design 0.024834020069850714
+instantaneous chip load 0.0244519091394413
+machining 0.024333696685651343
+current tool 0.024161797555445848

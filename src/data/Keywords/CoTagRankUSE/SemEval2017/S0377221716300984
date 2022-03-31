@@ -1,15 +1,15 @@
-capacitated vehicle routing benchmarks 0.04602773541002397
-capacitated vehicle routing 0.04216319046532627
-modular flexible framework 0.04012359342345012
-permutation flow 0.03835350612286134
-shop scheduling 0.038335760848496936
-agent 0.036971360424222006
-framework 0.035916439295273814
-different problem domains 0.03529322461791973
-direct cooperation protocol 0.035113690369338264
-general agent 0.03442107770494059
-local search combination 0.03407240477292073
-problem domains 0.03373948035900652
-search process 0.03348241744334246
-agents 0.033181575588182056
-pattern matching 0.03285383954694773
+modular flexible framework 0.055753606367409385
+capacitated vehicle routing benchmarks 0.05079244521070793
+permutation flow 0.04982759608315861
+capacitated vehicle routing 0.04843650470338455
+direct cooperation protocol 0.045576599095998
+problem domains 0.04324298677723993
+framework 0.0429822623047798
+different problem domains 0.04272484363897151
+local search combination 0.04249253181730077
+shop scheduling 0.041730673646150344
+search process 0.03917485114246211
+pattern matching 0.038125227501155955
+reinforcement learning 0.03649250759209758
+approach 0.03585927899604351
+agent 0.0344313636741968

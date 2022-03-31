@@ -1,15 +1,15 @@
-abr flow control protocol 0.03253775072268634
-novel flow control protocol 0.027339572565633262
-speed abr connections 0.026896522235642067
-multipoint abr services 0.025961740358065477
-multiple abr connections 0.02564083124965325
-abr 0.023158667802868276
-speed backbone networking scenarios 0.021975974877830543
-single abr 0.02184638270707855
-free flow 0.02080819534501554
-minimum cell loss 0.020535572981817588
-high resource 0.0202112458438579
-availability bit rate 0.020195729810106998
-atm signaling procedures 0.020162391482308167
-resource management cell 0.020136190157265355
-periodic explicit rate feedback 0.020064456301143414
+speed backbone networking scenarios 0.03474042434340528
+novel flow control protocol 0.032197090628949585
+abr flow control protocol 0.031219995222220166
+asynchronous transfer mode 0.0276321005263499
+fluid traffic model 0.026048509623494934
+maximum throughput 0.025959053094269387
+periodic explicit rate feedback 0.025596526390478422
+speed abr connections 0.02488492858749281
+multiple abr connections 0.02412657779063085
+availability bit rate 0.024036451345912865
+multipoint abr services 0.023971319325889993
+consolidation algorithms 0.023716526725132706
+link bandwidth 0.023364826755399595
+atm signaling procedures 0.02336305602260908
+linear system modeling 0.022650884843115202

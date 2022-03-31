@@ -1,15 +1,15 @@
-control pmlsm servo drive 0.048925272529949125
-pmlsm servo drive system 0.0426550881688192
-trapezoidal velocity profile 0.04221943595998169
-incremental motion control 0.03967390579099734
-linear synchronous motor 0.03901960414405347
-particular incremental motion control problem 0.03732773794188636
-servo drive system 0.03635988872202283
-velocity profile 0.03490238737634667
-multisegment switching surfaces 0.03462661542224136
-segment switching surface 0.033464237097492355
-pmlsm 0.0334085591782639
-mode control 0.03312391533014278
-control system 0.03237178813106873
-motor 0.03162274632037618
-computer control system 0.03154822899292595
+incremental motion control 0.051663199100926614
+control pmlsm servo drive 0.051366140853495765
+pmlsm servo drive system 0.05064176965513008
+particular incremental motion control problem 0.047523461254996874
+linear synchronous motor 0.047357341119484475
+trapezoidal velocity profile 0.04262745544985499
+servo drive system 0.040629147386360545
+multisegment switching surfaces 0.03987227351572782
+segment switching surface 0.03741156417925917
+acceleration 0.03091868327854067
+velocity profile 0.030907136807077053
+computer control system 0.03066324802972102
+motor 0.030255230479172817
+mode control 0.030202282706564595
+control system 0.030152956020667563

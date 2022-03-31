@@ -1,15 +1,15 @@
-flaw detection 0.03686319576942786
-detection technique 0.03401610024069936
-improved mu ga 0.0325600443246982
-optimization technique 0.03108150963103296
-mu ga convergence performance 0.03075213093173905
-detection problem 0.029960744699527572
-detection results 0.02884274914525354
-detection 0.028764399385737223
-optimization problem 0.0284838555133734
-flaw configurations 0.02830624480383807
-flaw parameters 0.028205555376784687
-local optimizer 0.027528226327724316
-optimization process 0.027254967330753922
-optimization 0.026999705463609525
-surface displacement response 0.025458944384981086
+flaw detection 0.043568439549575524
+mu ga convergence performance 0.04169571331464729
+surface displacement response 0.03968061013532495
+flaw parameters 0.03446712829042771
+detection 0.034383048382939076
+detection technique 0.0343037635852752
+flaw configurations 0.03401563653689702
+detection results 0.03397960387461402
+optimization technique 0.03333967703237863
+detection problem 0.032311529642368365
+optimization process 0.03213470624915252
+numerical examples 0.030396017448370824
+optimization problem 0.02989135930165073
+improved mu ga 0.029847771882220358
+local optimizer 0.029349510516130727
